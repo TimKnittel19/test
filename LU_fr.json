@@ -1,0 +1,298 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Tableau de bord personnel",
+            "PGPH1": "Le tableau de bord personnel n'est accessible qu'aux clients enregistrés. Veuillez vous connecter ou vous inscrire pour accéder à votre tableau de bord personnel et obtenir des informations exclusives et de nouvelles fonctionnalités qui vous guideront pas à pas vers votre nouvelle Mercedes-Benz.",
+            "PGPH2": "",
+            "TEASER": {
+                "1": "Contenu exclusif ",
+                "2": "Fonctions pratiques",
+                "3": "Enregistrer et comparer"
+            },
+            "BUTTON": "Se connecter"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Tableau de bord personnel - Pas encore inscrit",
+            "PGPH1": "Souhaitez-vous recevoir des informations exclusives sur de futurs modèles spécifiques Mercedes-Benz ?",
+            "PGPH2": "Inscrivez votre modèle ici et profitez de mises à jour exclusives.",
+            "TEASER": "Choisissez votre modèle et commencez le processus d'enregistrement correspondant",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "S'inscrire pour le {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "Désolé ! Une erreur est survenue.",
+        "PGPH1": "Désolé ! Une erreur est survenue. Veuillez réessayer plus tard."
+    },
+    "FALLBACK_STAGE": {
+        "GREETING": "Bienvenue dans votre tableau de bord personnel.",
+        "HEADLINE": "Recherchez votre Mercedes-Benz",
+        "TAG": "Sélectionnez votre modèle",
+        "BOX": {
+            "HINT": "Sélectionnez votre modèle",
+            "HEADLINE": "Recherchez votre Mercedes-Benz",
+            "TEXT": "Des informations exclusives et de nouvelles fonctionnalités vous attendent. Pour commencer, veuillez sélectionner l'un de nos modèles Mercedes-Benz qui vous intéressent.",
+            "BUTTON": "Commencer maintenant"
+        }
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Bonjour {{customerName}}",
+        "HEADLINE_WELCOME": "Bienvenue dans",
+        "HEADLINE_APPLICATION": "votre tableau de bord personnel."
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Commencez votre voyage-découverte de votre Mercedes-Benz {{model}} préféré",
+        "TEXT": "Quelle est la prochaine étape ? Plusieurs options vous sont offertes pour découvrir votre nouvelle Mercedes-Benz.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Terminé"
+            },
+            "OPEN": {
+                "HEADLINE": "Étapes suivantes",
+                "TEXT": "Nous vous proposerons bientôt de nouvelles informations exclusives et des possibilités d'interactions."
+            },
+            "LOCKED": {
+                "HEADLINE": "Bientôt disponible"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "Inscription {{model}}",
+            "LINKS": {
+                "COMPLETED": "Voir les informations détaillées"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Recherche du distributeur",
+            "LINKS": {
+                "OPEN": "Rechercher un distributeur",
+                "COMPLETED": "Voir le distributeur"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Configurateur",
+            "LINKS": {
+                "OPEN": "Configurer maintenant",
+                "COMPLETED": "Continuer la configuration"
+            }
+        },
+        "TEST_DRIVE": {
+            "TITLE": "Essai sur route",
+            "LINKS": {
+                "OPEN": "Réserver un essai sur route",
+                "COMPLETED": "Voir les informations détaillées"
+            }
+        },
+        "ONLINE_STORE": {
+            "TITLE": "Boutique en ligne",
+            "LINKS": {
+                "OPEN": "Commander maintenant",
+                "COMPLETED": "Votre commande"
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Distributeur sélectionné",
+            "POST": {
+                "HEADLINE": "Recherche du distributeur",
+                "TEXT": "Les informations sur votre distributeur sont affichées ci-dessous.",
+                "EMAIL_SUBJECT": "{{model}} - J'aimerais être contacté pour en savoir plus"
+            },
+            "LINK": "Modifier"
+        },
+        "REGISTRATION": {
+            "HEADLINE": "Inscription terminée",
+            "POST": {
+                "HEADLINE": "Inscription",
+                "TEXT": "Résumé de vos informations d'inscription :"
+            }
+        },
+        "TESTDRIVE": {
+            "INTERESTED": {
+                "STREAMLINE": "Essai demandé",
+                "HEADLINE_MOBIL": "Essai demandé",
+                "TEXT1": "Nous apprécions votre intérêt pour un essai sur route. Votre réservation pour un essai sera bientôt disponible, nous espérons que vous êtes aussi impressionné que nous le sommes. Nous allons traiter votre demande, vos données seront automatiquement mises à jour.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Informations sur l'essai sur route",
+                "LINK": ""
+            },
+            "REQUEST": {
+                "STREAMLINE": "Essai demandé",
+                "HEADLINE_MOBIL": "Essai demandé",
+                "TEXT1": "Nous apprécions votre intérêt pour un essai sur route et espérons que vous êtes impatient de vivre cette expérience. Nous traitons votre demande et vous contacterons bientôt.",
+                "LINK": "Annuler votre demande d'essai sur route"
+            },
+            "BOOKED": {
+                "STREAMLINE": "Essai sur route réservé",
+                "HEADLINE_MOBIL": "Essai sur route réservé",
+                "TEXT1": "Nous apprécions votre intérêt pour un essai sur route et espérons que vous êtes impatient de vivre cette expérience. ",
+                "TEXT2": "Votre essai sur route est prévu dans {{days}} jours. Préparez-vous !",
+                "LINK": "Annuler l'essai sur route"
+            },
+            "FINISHED": {
+                "STREAMLINE": "Essai sur route terminé",
+                "HEADLINE_MOBIL": "Essai sur route terminé",
+                "TEXT1": "Nous espérons que vous avez apprécié votre essai.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Informations sur l'essai",
+                "LINK": ""
+            },
+            "CAPTIONS": {
+                "LOCATION": "Lieu d'enlèvement",
+                "INFO": "Informations sur l'enlèvement",
+                "ID": "ID de réservation"
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Dites-nous en plus.",
+            "POST": {
+                "QUESTION": "Quand prévoyez-vous d'acheter un EQC ?",
+                "ANSWER": {
+                    "QUARTER": "Trimestre",
+                    "YEAR": "Année"
+                },
+                "SAVE": "Soumettre"
+            }
+        },
+        "CONFIGURATOR": {
+            "HEADLINE": "Votre configuration enregistrée",
+            "POST": {
+                "TAG": "Configuration",
+                "PRICE_TAX": "incl. la TVA",
+                "DATE_SAVED": "Sauvegardé {{date}}",
+                "DATE_UPDATED": "Modifié automatiquement {{date}}",
+                "BUTTONS": {
+                    "CONFIGURATION": "Ouvir la configuration",
+                    "DASHBOARD": "Comparer les configurations"
+                }
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Découvrir plus"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Afficher plus"
+        },
+        "INTERACTIONS": {
+            "LIKE": {
+                "LIKED": "Mention J'aime",
+                "NOT_LIKED": "J'aime"
+            }
+        }
+    },
+    "DEALER": {
+        "BUTTONS": {
+            "BACK": "Retour",
+            "SAVE": "Sauvegarder la sélection du distributeur"
+        },
+        "LOCATOR": {
+            "HEADLINE": "Sélectionnez votre distributeur",
+            "SUBHEADLINE": "Sur la base de l'adresse fournie, les distributeurs Mercedes-Benz suivants sont disponibles. Veuillez sélectionner votre distributeur dans cette liste ou saisir un nouveau code postal pour rechercher d'autres distributeurs Mercedes-Benz.",
+            "ERROR": "Veuillez sélectionner votre distributeur dans la liste.",
+            "VALIDATION": {
+                "AMOUNT": "0 distributeur trouvé",
+                "MESSAGE": "Impossible de déterminer votre emplacement. Veuillez saisir un code postal ou une ville valide."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "Code postal / Ville"
+            },
+            "FOOTNOTE": "*Veuillez noter que seuls les partenaires véhicules particuliers autorisés de Mercedes-Benz s'affichent dans cette liste."
+        },
+        "USAGE": {
+            "HEADLINE": "Quel type de client êtes-vous ?",
+            "PARAGRAPH": "Pour mieux vous informer, veuillez nous confirmer si vous utiliserez votre Mercedes-Benz à des fins privées ou professionnelles.",
+            "PRIVATE": "Client privé",
+            "BUSINESS": {
+                "LABEL": "Client professionnel",
+                "PLACEHOLDER": "Nom de l'entreprise",
+                "INFO": "*Le véhicule est immatriculé sous un nom d'entreprise.",
+                "ERROR": "Le champ du nom de l'entreprise ne peut être vide ni contenir les caractères suivants : '&lt;>;!'"
+            },
+            "ERROR": "Veuillez sélectionner ci-dessous le type de client qui vous décrit."
+        }
+    },
+    "OBLIGATION": {
+        "PARAGRAPH": "Nous, Mercedes-Benz Belgium Luxembourg SA, utilisons uniquement les données fournies pour vous tenir informé de tout ce qui est de la {{model}} et afin de vous contacter dans le cadre de votre inscritpion à notre {{model}}-tool. A cette fin, nous transmettrons uniquement vos données au partenaire Mercedes-Benz que vous avez indiqué. Nous n'utiliserons pas vos données à d'autres fins et ne les transmettrons pas à des tiers.",
+        "LINK_TEXT": "Pour consulter notre politique de protections des données, cliquez <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.lu/fr/passengercars/content-pool/tool-pages/legal/privacy-statement.html\">ici</a>."
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Déclaration concernant l'utilisation et le traitement de vos données personnelles",
+            "PGPH1": "Nous, Mercedes-Benz Cars Belgium Luxembourg SA, utilisons vos informations fournies ici uniquement pour vous contacter à propos du lancement du modèle susmentionné ainsi que des promotions / événements liés au modèle susmentionné. Pour ce faire, nous ne communiquons vos coordonnées qu'au partenaire Mercedes-Benz que vous avez spécifié et / ou à l'adresse la plus proche de l'adresse indiquée. Nous n'utilisons pas vos données à d'autres fins et ne les transmettons pas à des tiers."
+        },
+        "ENUMERATION": {
+            "PROLOG": "",
+            "OPTIONS": {},
+            "EPILOG": ""
+        },
+        "CHANNELS": {
+            "PGPH1": "Si vous souhaitez recevoir des informations complémentaires et des conseils par téléphone, courrier électronique et / ou courrier sur les produits et services susmentionnés de Mercedes-Benz, veuillez autoriser Mercedes-Benz Cars Belgium Luxembourg SA utiliser vos données personnelles pour vous informer de l'actualité des produits Mercedes Benz, de ses offres spéciales et de ses événements via les canaux suivants:",
+            "OPTIONS": {
+                "PHONE": "Téléphone",
+                "EMAIL": "E-mail",
+                "POST": "Post"
+            },
+            "LABEL": {
+                "YES": "oui",
+                "NO": "non"
+            },
+            "ERROR": {
+                "PHONE": "Veuillez sélectionner l'option pour le téléphone",
+                "EMAIL": "Veuillez sélectionner l'option pour l'e-mail",
+                "POST": "Veuillez sélectionner l'option d'envoi par la poste"
+            }
+        },
+        "ACCORDION": {
+            "TITLE": "Informations additionnelles autour de notre privacy statement et vos droits.",
+            "HEADLINE": "Informations détaillées sur la protection des données et sur vos droits:",
+            "PARAGRAPHS": {
+                "1": "Les données sont utilisées dans l’optique de me soumettre des offres personnalisées et adaptées à mes centres d’intérêt (p. ex. essais, événements, offres spéciales, prestations de service après-vente à l’occasion d’une visite chez un distributeur) par écrit, au cours d’un entretien personnel ou via le canal de contact sélectionné par mes soins. À cette fin, des procédures analytiques, y compris le profilage, peuvent être utilisées pour évaluer mes centres d’intérêt et mes préférences.",
+                "2": "Le traitement de vos données à caractère personnel aux fins précitées s’effectue sur la base d’un intérêt justifié ainsi que de votre consentement. La déclaration de consentement est volontaire. Nous traiterons vos données à caractère personnel sur la base de votre consentement aux fins précitées et ce jusqu'à ce que vous révoquiez votre consentement ou que vous vous opposiez à leur traitement. Vous pouvez nous contacter à tout moment par courrier adressé à Mercedes-Benz Belgium Luxembourg SA – Data Protection Coordinator – Avenue du Péage 68 – B-1200 Bruxelles) ou par e-mail (dataservices.belux@daimler.com ou data.protection@daimler.com). Le retrait de votre consentement n’affecte pas la licéité du traitement effectué avec votre accord jusqu’à la révocation ou d’autres traitements licites. Vous disposez à tout moment d’un droit de consultation, de rectification ou de suppression de vos données à caractère personnel, de limitation de leur traitement ainsi que de réclamation auprès de nos services ou d’une autorité de surveillance. Vous êtes libre d’exercer votre droit à la portabilité des données.",
+                "3": "Vos données à caractère personnel ne seront pas stockées plus longtemps que nécessaire aux fins mentionnées plus haut et au maximum durant cinq ans à partir du moment où nous avons été en contact avec vous pour la dernière fois, voire durant une période plus longue en vertu des obligations de conservation applicables.",
+                "4": "Vous pouvez contacter notre délégué à la protection des données comme suit : à Mercedes-Benz Belgium Luxembourg SA – Data Protection Coordinator – Avenue du Péage 68 – B-1200 Bruxelles) ou par e-mail (dataservices.belux@daimler.com ou data.protection@daimler.com). Vous avez également le droit de vous opposer au traitement de vos données à caractère personnel à des fins de marketing direct à tout moment et gratuitement. Le même principe s’applique au traitement de vos données à caractère personnel, y compris l’établissement de votre profil, pour autant que celui-ci soit en relation avec le marketing direct."
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "Je confirme que j’ai lu et accepté la déclaration de consentement relative à la protection des données.",
+            "ERROR": "Veuiller confirmer que vous avez lu et accepté la déclaration de consentement relative à la protection des données."
+        },
+        "BUTTON": {
+            "CONFIRM": "Confirmer la sélection"
+        }
+    },
+    "VEHICLE": {
+        "TECHNICALDATA": {
+            "ENGINE": {
+                "FUELTYPE": "Carburant",
+                "ENGINEPERFORMANCE": "Puissance",
+                "TYPEOFPROPULSION": "Drive type"
+            },
+            "GEAR": "Boîtes de vitesses",
+            "ENERGYEFFICIENCYCLASS": "Catégorie de consommation de carburant et d’émissions de CO₂",
+            "NEDC": {
+                "EMISSIONCOMBINEDPRIMARYGEARINDIVIDUAL": "Emissions de CO₂ en cycle mixte",
+                "CONSUMPTIONCOMBINEDPRIMARYGEARINDIVIDUAL": "Consommation de carburant en cycle mixte",
+                "CONSUMPTIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Consommation de carburant en cycle mixte",
+                "CONSUMPTIONWEIGHTEDSECONDARYGEARINDIVIDUAL": "Consommation électrique en cycle mixte",
+                "EMISSIONWEIGHTEDINDIVIDUAL": "Emissions de CO₂ en cycle mixte"
+            }
+        },
+        "RANGE": {
+            "TITLE": "Consommation / émissions de CO₂ combinées",
+            "CONSUMPTIONCOMBINED": "consommation de carburant",
+            "CONSUMPTIONCOMBINED_ELECTRIC": "électricité",
+            "EMISSIONCOMBINED": "CO₂",
+            "ENERGYEFFICIENCYCLASS": "Classes d'efficacité"
+        },
+        "FOOTNOTES": {
+            "DISCLAIMER": "",
+            "1": "Les valeurs indiquées ont été calculées selon la méthode de mesure prescrite. Il s’agit des « valeurs CO₂ NEDC » au sens de l’article 2, no 1 du règlement d’exécution (UE) 2017/1153.Ces valeurs ne se rapportent pas à un véhicule en particulier et ne font pas partie de l’offre ; elles ne sont mentionnées qu’à des fins de comparaison entre les différents types de véhicules. Les valeurs réelles varient en fonction des options choisies.",
+            "2": "Les valeurs indiquées ont été déterminées selon le processus de mesure prescrit. Il s’agit de «valeurs de CO2 WLTP» au sens de l’art. 2 no3 du règlement d’application (UE) 2017/1153. Les valeurs de consommation de carburant ont été calculées sur la base de ces valeurs. La consommation d’électricité a été définie sur la base du règlement (CE) 683/2008. Les données ne se réfèrent pas à un véhicule précis et ne font pas partie de l’offre, mais servent uniquement à la comparaison entre les différents types de véhicules. Les valeurs varient en fonction des options choisies et donc également des valeurs valables pour la Suisse conformément à l’ordonnance sur les exigences relatives à l’efficacité énergétique (OEEE).",
+            "3": "La consommation normalisée de carburant/d'électricité est calculée selon la méthode de mesure 715/2007/CEE dans sa version actuellement en vigueur. Les valeurs indiquées relatives à la consommation d'énergie et aux émissions de CO2 sont des valeurs suisses et se basent sur la réception par type. Il s'agit ici de valeurs qui ont été déterminées dans le cycle de mesure WLTP. Dans la pratique, les valeurs de consommation peuvent cependant diverger des valeurs indiquées, en fonction du style de conduite ainsi que des conditions de la chaussée, du trafic, des influences de l'environnement et de l'état du véhicule. Les données ne se réfèrent pas à un véhicule précis et ne font pas partie de l'offre, mais servent uniquement à la comparaison entre les différents types de véhicules.<br><br>Afin que les consommations d'énergie des différentes motorisations (essence, diesel, gaz, électricité, etc.) soient comparables, elles sont indiquées en sus sous la forme d'équivalents essence (unité de mesure pour l'énergie). Le CO2 est le principal gaz à effet de serre responsable du réchauffement climatique; les émissions moyennes de CO2 de tous les types de véhicules offerts (quelle que soit la marque) s'élèvent à 174 g/km pour l'année 2020.",
+            "4": "La puissance est composée de la valeur du moteur à combustion (valeur à gauche) et de la valeur du moteur électrique (valeur à droite).",
+            "5": "Die CO2-Effizienz eines Fahrzeugs ist abhängig von der Art des Getriebes oder der Räder und kann sich während der Konfiguration verändern.",
+            "6": "Anbieter: Mercedes-Benz Leasing GmbH, Siemensstraße 7, 70469 Stuttgart. Ist der Leasingnehmer Verbraucher, besteht nach Vertragsschluss ein gesetzliches Widerrufsrecht nach §495 BGB. Aktion P9030",
+            "7": "Als registrierter Mercedes me Nutzer können Sie Ihre Konfiguration in Ihrem Mercedes me Account speichern. Dazu werden Sie automatisch über den Mercedes me Registrierungs-/Login Dialog zu Ihren persönlichen Konfigurationen weitergeleitet"
+        }
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Personal Dashboard",
+            "PGPH1": "The Personal Dashboard is only accessible for registered customers. Please log in or register to access your personal dashboard with exclusive insights and exciting features guiding you to your new Mercedes-Benz.",
+            "PGPH2": "",
+            "TEASER": {
+                "1": "Exclusive Content",
+                "2": "Activities",
+                "3": "Interactive Touchpoints"
+            },
+            "BUTTON": "Login"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Personal Dashboard - No registration yet",
+            "PGPH1": "Interested in receiving news on our upcoming Mercedes-Benz cars?",
+            "PGPH2": "Then register here and benefit from exclusive updates.",
+            "TEASER": "Choose your model and start the corresponding registration process",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Register for {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "We're sorry something went wrong.",
+        "PGPH1": "Unfortunately, something went wrong. Please try again later."
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Hello {{customerName}}",
+        "HEADLINE_WELCOME": "Welcome to your",
+        "HEADLINE_APPLICATION": "Personal Dashboard",
+        "FOOTNOTE": {
+            "EQC": ""
+        }
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Start your journey towards the EQC",
+        "TEXT": "Enhance your personal EQ experience by clicking on one of the actions below.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Completed"
+            },
+            "OPEN": {
+                "HEADLINE": "Next Steps",
+                "TEXT": "Check the EQ Insights dashboard regularly for updates and new features."
+            },
+            "LOCKED": {
+                "HEADLINE": "Coming soon"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "EQC Registration",
+            "LINKS": {
+                "OPEN": "",
+                "COMPLETED": "See details"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Dealer Selector",
+            "LINKS": {
+                "OPEN": "Select Dealer",
+                "COMPLETED": "See Dealer"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Configurator",
+            "LINKS": {
+                "OPEN": "Configure your EQC",
+                "COMPLETED": "Continue Configuration"
+            }
+        },
+        "FIRSTCONTACT": {
+            "TITLE": "Contact",
+            "LINKS": {
+                "OPEN": "Initiate Contact",
+                "COMPLETED": ""
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Dealer Selector Completed",
+            "POST": {
+                "HEADLINE": "Dealer Selector",
+                "TEXT": "You have selected the following Mercedes-Benz EQ Passenger Car Partner as your preferred retailer.",
+                "PERSONAL_HEADLINE": "",
+                "EMAIL_SUBJECT": ""
+            },
+            "LINK": ""
+        },
+        "REGISTRATION": {
+            "HEADLINE": "EQC Registration Completed",
+            "POST": {
+                "HEADLINE": "EQC Registration",
+                "TEXT": "Your personal data:",
+                "PERSONAL_HEADLINE": ""
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Let us know more.",
+            "POST": {
+                "QUESTION": "When do you plan to purchase an EQC?",
+                "ANSWER": {
+                    "QUARTER": "Quarter",
+                    "YEAR": "Year"
+                },
+                "SAVE": "Submit"
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Discover more"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Show more"
+        }
+    },
+    "FOOTNOTE": {
+        "EQC": {},
+        "GLA": {}
+    },
+    "DEALER": {
+        "HEADLINE": "Take the next step.",
+        "PARAGRAPH": "Choose your Mercedes-Benz partner who will accompany you on your way to your personal Mercedes-Benz EQC. He will be your personal contact person to all topics regarding the purchase of the Mercedes-Benz EQC.",
+        "BUTTONS": {
+            "BACK": "Back",
+            "SAVE": "Save dealer selection",
+            "START": "Start dealer selection"
+        },
+        "ERROR": "There are missing inputs to save your preferred dealer. Please check the error messages above.",
+        "CARD": {
+            "HEADLINE": "Preferred Dealer",
+            "PLACEHOLDER": "Please add your preferred dealer which will handle the later purchase of your Mercedes-Benz EQC.",
+            "BUTTONS": {
+                "ADD": "Add dealer"
+            }
+        },
+        "LOCATOR": {
+            "HEADLINE": "Preferred Dealer",
+            "SUBHEADLINE": "We found these possible preferred dealer for you. Feel free to change the selection or enter another ZIP-Code.",
+            "ERROR": "Please select a dealer from the list below to save your preferred dealer.",
+            "SELECTION": "Your preferred dealer selection:",
+            "VALIDATION": {
+                "AMOUNT": "0 Dealers Found",
+                "MESSAGE": "Please enter a ZIP-Code or valid City."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "ZIP-Code",
+                "ERROR": "0 Dealers Found. Please enter a ZIP-Code or valid City."
+            },
+            "FOOTNOTE": "*Please note that only authorized Mercedes-Benz EQ Dealers are shown in this list."
+        },
+        "USAGE": {
+            "HEADLINE": "Purpose of your EQC",
+            "PARAGRAPH": "In order to be able to handle your reservation accordingly, we would like to know wether you will use the Mercedes-Benz EQC as a company vehicle or as a private vehicle.",
+            "PRIVATE": "Private vehicle",
+            "BUSINESS": {
+                "LABEL": "Company vehicle",
+                "PLACEHOLDER": "Company Name",
+                "INFO": "*Vehicle is registered under a company name.",
+                "ERROR": "The company name can't be empty or have the following characters: '<>;!'"
+            },
+            "ERROR": "Please choose the purpose of the Mercedes-Benz EQC."
+        }
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "PRIVACY INFORMATION COLLECTION STATEMENT",
+            "PGPH1": "<strong>Privacy</strong><br><br>Your personal information is being collected by Mercedes-Benz New Zealand Ltd (a member of the Daimler Group). We value your privacy and we only collect, store, use and disclose your personal information in accordance with <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.co.nz/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy.html\">Privacy Policy</a> and the Privacy Act 1993. Our <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.co.nz/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy.html\">Privacy Policy</a> applies to anyone visiting our website or using our services. By visiting our website, using our services or providing your personal information to us, you agree to the terms of our <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.co.nz/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy.html\">Privacy Policy</a>.<br><br><br><strong>Future Communications</strong><br><br>By way of this online form, MBNZ is collecting your personal information for the purposes of responding to your enquiry, improving the products and services that MBNZ (and its authorised dealers and third party service providers) offer to you and for marketing and promotional purposes. Without this information MBNZ may not be able to address your enquiry or provide our services to you.<br><br><br>In addition to this, if you consented to receiving marketing material from us, you will receive marketing material in the manner you specified. If you are an existing customer and record your preferences within this form, it will not be updated in our system. Existing customers can change their preferences at any time by logging onto Owners Online. MBNZ will only use your personal information for the purposes for which you authorise and will only disclose your personal information to its employees, related companies and Daimler Group companies, our authorised dealer network and/or third party service providers acting on our behalf. Some of the recipients of your personal information may be based overseas, including but not limited to Germany, the United States and Singapore.<br><br><br>Our <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.co.nz/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy.html\">Privacy Policy</a> contains information about how you can request access to the personal information that we hold about you and how you can seek to correct it.<br><br><br>Our <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.co.nz/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy.html\">Privacy Policy</a> also contains information about how you may complain if you believe that we have breached the Privacy Act 1993 and how we deal with complaints. If you would like to know more about our Privacy Policy, please click here."
+        },
+        "ENUMERATION": {
+            "PROLOG": "",
+            "OPTIONS": {
+                "1": "",
+                "2": "",
+                "3": ""
+            },
+            "EPILOG": ""
+        },
+        "CHANNELS": {
+            "PGPH1": "In accordance with the privacy collection statement and the Unsolicited Electronic Messages Act 2007, I consent to receive messages by:",
+            "OPTIONS": {
+                "PHONE": "Phone",
+                "EMAIL": "Email",
+                "POST": "Mail",
+                "TEXT_MESSAGE": "SMS/MMS/IM"
+            },
+            "LABEL": {
+                "YES": "Yes",
+                "NO": "No"
+            },
+            "ERROR": {
+                "PHONE": "Please select option for phone",
+                "EMAIL": "Please select option for email",
+                "POST": "Please select option for mail",
+                "TEXT_MESSAGE": "Please select option for SMS/MMS/IM"
+            }
+        },
+        "ACCORDION": {
+            "HEADLINE": "Additional Information regarding our privacy statement and your rights:",
+            "PARAGRAPHS": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "I confirm that I have read and I accept the privacy information collection statement.",
+            "ERROR": "Please confirm that you have read and accept the declaration of consent."
+        },
+        "BUTTON": {
+            "CONFIRM": "Confirm your choice"
+        }
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Min nästa bil",
+            "PGPH1": "\"Min nästa bil\" är endast tillgänglig för registrerade användare. Logga in eller registrera dig för att få hjälp på vägen till din nya Mercedes-Benz.",
+            "TEASER": {
+                "1": "Dags att byta bil?",
+                "2": "Tydlig översikt",
+                "3": "Spara & jämför"
+            },
+            "BUTTON": "Inloggning"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Ännu ingen vald modell",
+            "PGPH1": "Dags att byta bil?",
+            "PGPH2": "Välj din modell här.",
+            "TEASER": "Starta här",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Välj {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "Vi beklagar, något gick fel.",
+        "PGPH1": "Tyvärr gick något fel. Försök igen senare."
+    },
+    "FALLBACK_STAGE": {
+        "GREETING": "Välkommen till \"Min nästa bil\"",
+        "HEADLINE": "Hitta din Mercedes-Benz",
+        "TAG": "Välj din modell",
+        "BOX": {
+            "HINT": "Välj din modell",
+            "HEADLINE": "Hitta din Mercedes-Benz",
+            "TEXT": "Välj någon av våra Mercedes-Benz-modeller som intresserar dig för att starta resan.",
+            "BUTTON": "Starta nu"
+        }
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Hej {{customerName}}",
+        "HEADLINE_WELCOME": "Välkommen till",
+        "HEADLINE_APPLICATION": "Min nästa bil"
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Starta din resa mot den Mercedes-Benz {{model}} som är din favorit",
+        "TEXT": "Vart tar dig ditt nästa steg? Vi har olika alternativ att välja mellan för att förhöja din upplevelse på vägen till din nästa bil från Mercedes-Benz.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Slutförd"
+            },
+            "OPEN": {
+                "HEADLINE": "Nästa steg",
+                "TEXT": "Välj mellan olika alternativ som tar dig till din nästa Mercedes"
+            },
+            "LOCKED": {
+                "HEADLINE": "Kommer snart"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "{{model}} Val",
+            "LINKS": {
+                "OPEN": "",
+                "COMPLETED": "Se detaljer"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Agenter",
+            "LINKS": {
+                "OPEN": "Välj agent",
+                "COMPLETED": "Se agent"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Konfigurator",
+            "LINKS": {
+                "OPEN": "Konfigurera nu",
+                "COMPLETED": "Fortsätt konfiguration"
+            }
+        },
+        "TEST_DRIVE": {
+            "TITLE": "Provkörning",
+            "LINKS": {
+                "OPEN": "Boka provkörning",
+                "COMPLETED": "Se detaljer"
+            }
+        },
+        "ONLINE_STORE": {
+            "TITLE": "Online Store",
+            "LINKS": {
+                "OPEN": "Beställ nu",
+                "COMPLETED": "Din beställning"
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Agent vald",
+            "POST": {
+                "HEADLINE": "Agenter",
+                "TEXT": "Detaljer kring din valda Mercedes-Benz-agent finns nedan.",
+                "EMAIL_SUBJECT": "{{model}} - Jag skulle vilja bli kontaktad"
+            },
+            "LINK": "Redigera"
+        },
+        "REGISTRATION": {
+            "HEADLINE": "Klart!",
+            "POST": {
+                "HEADLINE": "Välj här",
+                "TEXT": "Översikt dina val:"
+            }
+        },
+        "TESTDRIVE": {
+            "INTERESTED": {
+                "STREAMLINE": "Provkörningsförfrågan skickad",
+                "HEADLINE_MOBIL": "Provkörningsförfrågan skickad",
+                "TEXT1": "Så roligt att du vill provköra. Ge oss ett ögonblick att kontrollera din förfrågan. Dina uppgifter kommer att uppdateras automatiskt.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Provkörningsinformation",
+                "LINK": ""
+            },
+            "REQUEST": {
+                "STREAMLINE": "Provkörningsförfrågan skickad",
+                "HEADLINE_MOBIL": "Provkörningsförfrågan skickad",
+                "TEXT1": "Så roligt att du vill provköra. Vi ska kontrollera din förfrågan och återkommer till dig snart.",
+                "LINK": "Avboka"
+            },
+            "BOOKED": {
+                "STREAMLINE": "Provkörning bokad",
+                "HEADLINE_MOBIL": "Provkörning bokad",
+                "TEXT1": "Så roligt att du vill provköra. Vi hoppas att du ser fram emot att sätta dig bakom ratten.",
+                "TEXT2": "Om {{days}} dagar är det dags för din provkörning.",
+                "LINK": "Avboka provkörning"
+            },
+            "FINISHED": {
+                "STREAMLINE": "Provkörning slutförd",
+                "HEADLINE_MOBIL": "Provkörning slutförd",
+                "TEXT1": "Vi hoppas att du gillade din provkörning.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Provkörningsinformation",
+                "LINK": ""
+            },
+            "CAPTIONS": {
+                "LOCATION": "Hämtningsplats",
+                "INFO": "Hämtningsinformation",
+                "ID": "Boknings-ID"
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Vi behöver veta lite mer.",
+            "POST": {
+                "QUESTION": "När planerar du att köpa en EQC?",
+                "ANSWER": {
+                    "QUARTER": "Om tre månader",
+                    "YEAR": "Om ett år"
+                },
+                "SAVE": "Skicka"
+            }
+        },
+        "CONFIGURATOR": {
+            "HEADLINE": "Dina sparade bilar",
+            "POST": {
+                "TAG": "Konfiguration",
+                "PRICE_TAX": "inkl. moms",
+                "DATE_SAVED": "Sparat den {{date}}",
+                "DATE_UPDATED": "Automatiskt ändrat den {{date}}",
+                "BUTTONS": {
+                    "CONFIGURATION": "Öppna konfiguration",
+                    "DASHBOARD": "Jämför konfigurationer"
+                }
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Upptäck mer"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Visa mer"
+        },
+        "INTERACTIONS": {
+            "LIKE": {
+                "LIKED": "Gillade",
+                "NOT_LIKED": "Gilla"
+            }
+        }
+    },
+    "DEALER": {
+        "BUTTONS": {
+            "BACK": "Tillbaka",
+            "SAVE": "Spara vald agent"
+        },
+        "LOCATOR": {
+            "HEADLINE": "Välj din agent",
+            "SUBHEADLINE": "Baserat på adressen som du har angivit har vi hittat följande Mercedes-Benz-agenter nära dig. Välj din agent ur denna lista eller ange ett nytt postnummer för att söka efter andra agenter.",
+            "ERROR": "Välj din agent ur listan.",
+            "VALIDATION": {
+                "AMOUNT": "0 agenter hittades",
+                "MESSAGE": "Vi kunde inte hitta din plats. Ange ett giltigt postnummer eller en giltig ort."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "Postnummer/ort",
+                "ERROR": "0 agenter hittades. Ange ett postnummer eller en ort."
+            },
+            "FOOTNOTE": "*Observera att endast auktoriserade samarbetspartners till Mercedes-Benz personbilar visas i den här listan."
+        },
+        "USAGE": {
+            "HEADLINE": "Vilken typ av kund är du?",
+            "PARAGRAPH": "För att vi ska kunna förse dig med så relevant information som möjligt ber vi dig att uppge om du kommer att använda din Mercedes-Benz för privat bruk eller i tjänsten.",
+            "PRIVATE": "Privatkund",
+            "BUSINESS": {
+                "LABEL": "Företagskund",
+                "PLACEHOLDER": "Företagsnamn",
+                "INFO": "*Fordonet registreras på ett företagsnamn.",
+                "ERROR": "Företagsnamnet kan inte vara tomt eller innehålla följande tecken: '&lt;>;!'"
+            },
+            "ERROR": "Välj den kundtyp nedan som beskriver dig."
+        }
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Samtyckesförklaring dataskydd",
+            "PGPH1": "Vi vill ge dig individuell information och rådgivning som motsvarar dina intressen. Därför ber vi dig att samtycka till att vi använder dina personuppgifter. Vi kommer att behandla personuppgifterna med noggrannhet och aktsamhet i syfte att skydda din integritet och personuppgifternas konfidentialitet."
+        },
+        "ENUMERATION": {
+            "PROLOG": "Ja, jag vill ha information och rådgivning om produkter och tjänster från Mercedes-Benz AG och närstående bolag. För detta ändamål samtycker jag härmed till att",
+            "OPTIONS": {
+                "1": "mitt namn, mina kontaktuppgifter och information om mig som jag har tillhandahållit (t.ex. adress, e-postadress, telefonnummer, Instant Messenger ID, adresser på sociala nätverk, intressen",
+                "2": "uppgifter om min bil (t.ex. fordonskonfiguration, mätarställning, data i det digitala servicehäftet), och",
+                "3": "uppgifter om köpta produkter och utnyttjade tjänster (t.ex. leasingavtal, tecknade Mercedes Me connect-tjänster, sparade fordonskonfigurationer)"
+            },
+            "EPILOG": "samlas in, behandlas och används."
+        },
+        "CHANNELS": {
+            "PGPH1": "Uppgifterna används för att tillhandahålla erbjudanden som har anpassats efter mina intressen (t.ex. provkörningar, evenemang, specialerbjudanden, serviceåtgärder under återförsäljarbesök) som jag skriftligen, i personliga samtal eller via den kontaktväg eller de kontaktvägar har valt. För att göra detta möjligt kan även analysmetoder inklusive profilering komma att användas för att utvärdera mina intressen. Jag samtycker till att bli kontaktad enligt nedan:",
+            "OPTIONS": {
+                "PHONE": "Telefon",
+                "EMAIL": "E-post",
+                "POST": "Post"
+            },
+            "LABEL": {
+                "YES": "Ja",
+                "NO": "Nej"
+            },
+            "ERROR": {
+                "PHONE": "Vänligen välj alternativ för telefon",
+                "EMAIL": "Vänligen välj alternativ för e-post",
+                "POST": "Vänligen välj alternativ för inlägg"
+            }
+        },
+        "GDPR": {
+            "TEXT": "För att Mercedes-Benz Sverige AB och din(a) valda Partner skall kunna utföra denna tjänst behöver dina personuppgifter behandlas. Dina personuppgifter kommer inte att lagras längre än vad som är nödvändigt för att kunna möjliggöra denna tjänst. Du har rätt till information, rättelse, radering ”Rätten att bli glömd”, begränsning av behandling samt dataportabilitet enligt Dataskyddsförordningen.",
+            "DROPDOWN": {
+                "TITLE": "Dataskyddsförordningen (GDPR)",
+                "TEXT": "Vi på Daimler respekterar alla individers personliga integritet. Därför tar vi Dataskyddsförordningen (GDPR) på största allvar och ser till att inom hela Daimler-koncernen skydda dina personuppgifter. Det är viktigt för oss att värna om din personliga integritet när vi behandlar dina personuppgifter och det tar vi hänsyn till i våra affärsprocesser. Vi är öppna med att berätta varför vi behöver personuppgifter varje gång vi samlar in dem.",
+                "SECTIONS": {
+                    "1": {
+                        "HEADLINE": "Rätt till information",
+                        "LIST": {
+                            "PROLOG": "Du som individ har rätt:",
+                            "ITEMS": {
+                                "1": "Att informeras om syftet med behandlingen.",
+                                "2": "Att informeras om vilka kategorier av personuppgifter som behövs för att uppfylla behandlingen.",
+                                "3": "Att informeras om huruvida vi delar, eller kommer att dela, med oss av dina personuppgifter och vilka vi gör denna delning med.",
+                                "4": "Att informeras om hur länge dina personuppgifter kommer lagras.",
+                                "5": "Att informeras om var vi har fått och samlat in dina personuppgifter ifrån.",
+                                "6": "Att informeras om vilka skyddsåtgärder som har vidtagits vid överföring till tredjeland."
+                            }
+                        }
+                    },
+                    "2": {
+                        "HEADLINE": "Rätt till rättelse",
+                        "LIST": {
+                            "PROLOG": "Du har rätt att få dina personuppgifter som behandlas av oss rättade och kompletterade om du anser att de är felaktiga.",
+                            "ITEMS": {
+                                "1": "Rätt till radering ”Rätten att bli glömd”",
+                                "2": "Du har rätt till att höra av dig till oss så att vi raderar och gallrar alla dina personuppgifter om.",
+                                "3": "Dina personuppgifter är inte längre nödvändiga för det syfte de samlades in eller har behandlats för.",
+                                "4": "Du har återkallat ditt samtycke och vi inte har någon rättslig grund för att fortsätta behandla dina personuppgifter.",
+                                "5": "Du anser att personuppgifterna har behandlats på ett olagligt sätt."
+                            },
+                            "EPILOG": "I vissa fall måste vi fortsätta behandla dina personuppgifter då vi har rättsliga förpliktelser. Det kan gälla garantier eller olika typer av avtal och lagar."
+                        }
+                    },
+                    "3": {
+                        "HEADLINE": "Rätt till begränsning av behandling",
+                        "TEXT": "Om du anser att vi inte har behandlat dina personuppgifter på ett korrekt och lagligt sätt. Eller om du menar att vi inte har ett syfte eller en laglig grund till den behandlingen vi gör med dina personuppgifter. Då har du rätt att höra av dig till oss på Mercedes-Benz för att begränsa behandlingen av dina personuppgifter, om vårt berättigade intresse inte väger tyngre än dina."
+                    },
+                    "4": {
+                        "HEADLINE": "Rätt till dataportabilitet",
+                        "PGPH1": "Du har rätt att få ut de personuppgifter du har tillhandahållit oss i ett maskinläsbart format.",
+                        "PGPH2": "Avser du utnyttja någon av dina ovan beskrivna rättigheter?<br>Skicka ett mejl med din förfrågan till <a class=\"wb-e-link-8\" href=\"mailto:dataskydd@daimler.com\">dataskydd@daimler.com</a>",
+                        "LIST": {
+                            "PROLOG": "För att vi skall kunna behandla din förfrågan behöver vi få in följande uppgifter från dig:",
+                            "ITEMS": {
+                                "1": "Vilken rättighet ni vill åberopa. När det gäller Rätt till rättelse, ange vad ni vill rätta samt anledning.",
+                                "2": "Förnamn samt Efternamn",
+                                "3": "Fullständig Adress",
+                                "4": "Telefonnummer",
+                                "5": "E-postadress",
+                                "6": "Vänligen bifoga intyg för att styrka din identitet såsom kopia av passhandling, körkort eller EU ID-kort"
+                            }
+                        },
+                        "PGPH3": "Här kan du även läsa mer om hur vi hanterar uppgifter i digitala kanaler.",
+                        "PGPH4": "<a class=\"wb-e-link-8\" href=\"https://www.mercedes-benz.se/passengercars/content-pool/tool-pages/legal/cookies.html\" target=\"_blank\">Cookies</a><br><a class=\"wb-e-link-8\" href=\"https://www.mercedes-benz.se/passengercars/content-pool/tool-pages/legal/privacy-statement.html\" target=\"_blank\">Privacy statement</a>",
+                        "PGPH5": "Om du vill lämna ett samtycke till att få information och marknadsföring från Mercedes-Benz Sverige AB:<br><a class=\"wb-e-link-8\" href=\"https://www.mercedes-benz.se/samtycke\" target=\"_blank\">https://www.mercedes-benz.se/samtycke</a>"
+                    },
+                    "5": {
+                        "HEADLINE": "Klagomål till tillsynsmyndighet",
+                        "TEXT": "I Sverige skall du kontakta:<br>Integritetsskyddsmyndigheten<br>Telefon: <a class=\"wb-e-link-8\" href=\"tel:+46 8 657 61 00\">+46 8 657 61 00</a><br>E-post: <a class=\"wb-e-link-8\" href=\"mailto:datainspektionen@datainspektionen.se\">datainspektionen@datainspektionen.se</a>"
+                    }
+                }
+            }
+        },
+        "ACCORDION": {
+            "TITLE": "Mer information om vår sekretesspolicy och dina rättigheter:",
+            "HEADLINE": "",
+            "PARAGRAPHS": {
+                "1": "Behandlingen av dina personuppgifter för de ändamål som specificerats ovan baseras på ditt lämnade samtycke. Att lämna samtycke är frivilligt. Vi kommer endast behandla dina personuppgifter i enlighet med detta samtycke och för ovannämnda ändamål till dess att du återkallar ditt samtycke eller motsätter dig behandlingen. För att göra så kan du alltid kontakta oss på: Mercedes-Benz Sverige AB Box 50531, 202 50 Malmö, dataskydd@daimler.com. Att återkalla ett samtycke påverkar inte lagligheten i den behandling som baserats på lämnat samtycke innan återtagandet eller andra lagliga grunder. Du har alltid rätt att begära tillgång till, radering av, motsätta dig behandling av samt lämna in klagomål om vår behandling av dina personuppgifter till oss eller tillsynsmyndighet. Du har möjlighet att utöva din rättighet till dataportabilitet.",
+                "2": "Dina personuppgifter kommer inte behandlas av personuppgiftsansvariga under en längre tidsperiod än nödvändigt i syfte att uppnå de ändamål som beskrivs ovan och i maximalt fem år efter tidpunkten för din senaste interaktion med relevant personuppgiftsansvarig, eller under en längre tidsperiod såvida detta är nödvändigt på grund av respektive personuppgiftsansvarigs skyldighet att spara uppgifter.",
+                "3": "Du har rätt att när som helst och utan kostnad invända mot hur dina personuppgifter behandlas i anledning av direktmarknadsföringssyfte respektive övrig behandling, inklusive profilering om sådan är relaterad till direktmarknadsföringen.",
+                "4": ""
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "Jag har läst och accepterar samtyckesförklaringen.",
+            "ERROR": "Bekräfta att du har läst och accepterat samtyckesförklaringen."
+        },
+        "BUTTON": {
+            "CONFIRM": "Bekräfta valet"
+        }
+    },
+    "VEHICLE": {
+        "TECHNICALDATA": {
+            "ENGINE": {
+                "FUELTYPE": "Bränsletyp",
+                "ENGINEPERFORMANCE": "Prestanda"
+            },
+            "GEAR": "Växellåda",
+            "ENERGYEFFICIENCYCLASS": "Energiklass",
+            "WLTP": {
+                "EMISSIONTOTALPRIMARYGEARINDIVIDUAL": "CO2-utsläpp",
+                "CONSUMPTIONTOTALPRIMARYGEARINDIVIDUAL": "Förbrukning blandad körning",
+                "RANGETOTALALLELECTRICINDIVIDUAL": "Elektriskt riktvärde",
+                "EMISSIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Viktat CO2-utsläpp, blandad körning",
+                "CONSUMPTIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Bränsleförbrukning blandad körning",
+                "CONSUMPTIONCHARGEDEPLETEWEIGHTEDSECONDARYGEARINDIVIDUAL": "Viktad strömförbrukning, blandad körning"
+            }
+        },
+        "RANGE": {
+            "TITLE": "Förbrukning / CO₂-utsläpp tillsammans",
+            "CONSUMPTIONCOMBINED": "Bränsleförbrukning",
+            "CONSUMPTIONCOMBINED_ELECTRIC": "Elektricitet",
+            "EMISSIONCOMBINED": "CO₂",
+            "ENERGYEFFICIENCYCLASS": "Effektivitetsklasser"
+        },
+        "FOOTNOTES": {
+            "DISCLAIMER": "",
+            "1": "The indicated values were determined according to the prescribed measurement method. These are the \"NEDC CO₂ values\" according to Art. 2 No. 1 Implementing Regulation (EU) 2017/1153.The figures do not refer to an individual vehicle and are not part of the offer; they are provided solely for the purposes of comparison between different vehicle models. The values vary depending on the chosen optional extras.",
+            "2": "De angivna värdena fastslogs i enlighet med det föreskrivna mätförfarandet. Det rör sig om ”WLTP-CO2-värdet” i den mening som avses i artikel 2 nr 3 genomförandeförordning (EU) 2017/1153. Värdena för bränsleförbrukning har beräknats utifrån dessa värden. Strömförbrukningen har fastställts utifrån förordning 683/2008/EG. Angivna värden avser inte ett enskilt fordon och är inte en del av erbjudandet, utan tjänar enbart som jämförelse mellan de olika fordonstyperna. Samtliga utsläppsvärden gäller bil i grundversion. Högre utrustningsnivå, svensk standardutrustning, större däckdimension och högre vikt kan ge högre bränsleförbrukning och koldioxidutsläpp. Fordonsindividuella uppgifter om förbrukning och utsläpp finns på Konsumentverkets webbtjänst www.bilsvar.se Värdena varierar beroende på vald tillvalsutrustning och kan avvika från de slutgiltiga värdena för den beställda och levererade bilen.",
+            "3": "Die angegebenen Werte sind die „gemessenen NEFZ- CO2 -Werte“ i.S.v. Art. 2 Nr. 2 Durchführungsverordnung (EU) 2017/1153, die im Einklang mit Anhang XII der Verordnung (EG) Nr. 692/2008 ermittelt wurden. Die Kraftstoffverbrauchswerte wurden auf Basis dieser Werte errechnet. Aufgrund gesetzlicher Änderungen der maßgeblichen Prüfverfahren können in der für die Fahrzeugzulassung und ggf. Kfz-Steuer maßgeblichen Übereinstimmungsbescheinigung des Fahrzeugs höhere Werte eingetragen sein. Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebots, sondern dienen allein Vergleichszwecken zwischen verschiedenen Fahrzeugtypen. Die Werte variieren in Abhängigkeit der gewählten Sonderausstattungen.",
+            "4": "Effekt: Motoreffekten utgörs av de kombinerade värdena för förbränningsmotorn (till vänster) och elmotorn (till höger)."
+        }
+    }
+}

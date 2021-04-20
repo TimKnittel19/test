@@ -1,0 +1,362 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Dashboard personale",
+            "PGPH1": "La dashboard personale è accessibile solo ai clienti registrati. Effettua il login oppure registrati per accedere alla tua dashboard personale con immagini esclusive e caratteristiche emozionanti per conoscere la tua nuova Mercedes-Benz.",
+            "PGPH2": "",
+            "TEASER": {
+                "1": "Contenuto dedicato",
+                "2": "Attività",
+                "3": "Punti di contatto"
+            },
+            "BUTTON": "Login"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Dashboard personale – Registrazione non ancora effettuata",
+            "PGPH1": "Ti interessa ricevere news sulle prossime vetture Mercedes-Benz?",
+            "PGPH2": "Allora registrati qui e approfitta degli esclusivi aggiornamenti.",
+            "TEASER": "Scegli il tuo modello e avvia il processo di registrazione",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Registrati per {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "Spiacenti, si è verificato un problema.",
+        "PGPH1": "Si prega di riprovare più tardi."
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Ciao {{customerName}}",
+        "HEADLINE_WELCOME": "Benvenuto nella tua",
+        "HEADLINE_APPLICATION": "Dashboard personale",
+        "FOOTNOTE": {
+            "EQC": "EQC 400 4MATIC: consumo di energia in kWh/100 km (ciclo combinato WLTP): 25,0 - 22,3; consumo di energia in kWh/100 km (ciclo combinato NEDC): 20,8 - 19,7; emissioni di CO2 in g/km (ciclo combinato): 0. Dati provvisori.[1]",
+            "EQV": ""
+        }
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Inizia il tuo viaggio all'interno del mondo {{model}}",
+        "TEXT": "Personalizza la tua experience e componi la tua {{model}} Story esplorando gli step che abbiamo pensato per te.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Completato"
+            },
+            "OPEN": {
+                "HEADLINE": "Step successivo",
+                "TEXT": "Controlla spesso la dashboard di {{model}} Insights per ricevere sempre nuovi elettrizzanti aggiornamenti."
+            },
+            "LOCKED": {
+                "HEADLINE": "In arrivo"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "Registrazione {{model}}",
+            "LINKS": {
+                "OPEN": "",
+                "COMPLETED": "Vedi i dettagli"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Dealer locator",
+            "LINKS": {
+                "OPEN": "Seleziona concessionario",
+                "COMPLETED": "Vedi concessionario"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Configuratore",
+            "LINKS": {
+                "OPEN": "Configura la tua {{model}}",
+                "COMPLETED": "Continua la configurazione"
+            }
+        },
+        "TEST_DRIVE": {
+            "TITLE": "{{model}} Test Drive",
+            "LINKS": {
+                "OPEN": "Richiedi un Test Drive",
+                "COMPLETED": "Vedi i dettagli"
+            }
+        },
+        "FIRSTCONTACT": {
+            "TITLE": "Contatto",
+            "LINKS": {
+                "OPEN": "Avvia contatto",
+                "COMPLETED": ""
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Selezione concessionario completata",
+            "POST": {
+                "HEADLINE": "Dealer locator",
+                "TEXT": "Hai selezionato il seguente Partner Mercedes-Benz {{model}} come tuo concessionario preferito.",
+                "PERSONAL_HEADLINE": "",
+                "EMAIL_SUBJECT": ""
+            },
+            "LINK": "Modifica"
+        },
+        "REGISTRATION": {
+            "HEADLINE": "Registrazione completata",
+            "POST": {
+                "HEADLINE": "Registrazione {{model}}",
+                "TEXT": "I tuoi dati personali:",
+                "PERSONAL_HEADLINE": ""
+            }
+        },
+        "TESTDRIVE": {
+            "INTERESTED": {
+                "STREAMLINE": "La tua richiesta di Test Drive",
+                "HEADLINE_MOBIL": "Richiesta Test Drive",
+                "TEXT1": "Siamo lieti del tuo interesse nel vivere un elettrizzante Test Drive della nuova {{model}}. Ti chiediamo qualche secondo per aggiornare automaticamente i dati della tua richiesta.",
+                "TEXT2": "I dati verranno aggiornati automaticamente.",
+                "PERSONAL_HEADLINE": "Informazioni Test Drive",
+                "LINK": ""
+            },
+            "BOOKED": {
+                "STREAMLINE": "Test Drive prenotato",
+                "HEADLINE_MOBIL": "Test Drive prenotato",
+                "TEXT1": "Dopo averla testata nel deserto e tra i ghiacci, sarai tu a provarla.",
+                "TEXT2": "La tua {{model}} sarà pronta fra 2 giorni e 4 ore.",
+                "LINK": "Annulla Test Drive"
+            },
+            "FINISHED": {
+                "STREAMLINE": "Test Drive completato",
+                "HEADLINE_MOBIL": "Test Drive completato",
+                "TEXT1": "Ci auguriamo che la nuova {{model}} abbia superato il test più importante, il tuo. Il tuo feedback è prezioso, raccontaci se è stata all'altezza delle tue aspettative.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Informazioni Test Drive",
+                "LINK": "Prenota un altro Test Drive"
+            },
+            "CAPTIONS": {
+                "LOCATION": "Luogo",
+                "INFO": "Informazioni Test Drive",
+                "ID": "ID Test Drive"
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Il tuo feedback è importante.",
+            "POST": {
+                "QUESTION": "Quando prevedi di acquistare un nuovo modello Mercedes-Benz?",
+                "ANSWER": {
+                    "QUARTER": "trimestre",
+                    "YEAR": "anno"
+                },
+                "SAVE": "Invia"
+            }
+        },
+        "CONFIGURATOR": {
+            "HEADLINE": "{{model}} Configurator",
+            "POST": {
+                "HEADLINE": "Online Code:",
+                "HEADLINE_MOBIL": "Online Code:",
+                "TEXT": "Configurazione completata, puoi vederne i dettagli qui. Il tuo Online Code è <span class=\"text-online-code\">{{onlineCode}}</span>. Con questo codice potrai cambiare e condividere la tua configurazione per 30 giorni dopo l'ultima modifica.",
+                "PERSONAL_HEADLINE": "{{model}} Configurator",
+                "BUTTONS": {
+                    "CONFIGURATION": "Apri Configurator"
+                }
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Scopri di più"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Scopri di più"
+        }
+    },
+    "FOOTNOTE": {
+        "EQC": {
+            "PARAGRAPHS": {
+                "1": "I valori indicati sono stati rilevati con le tecniche di misurazione prescritte. Il consumo di corrente e l'autonomia sono stati rilevati sulla base del Regolamento 692/2008/CE. Il consumo di corrente e l'autonomia dipendono dalla configurazione dell'auto."
+            }
+        },
+        "GLA": {},
+        "EQV": {}
+    },
+    "DEALER": {
+        "HEADLINE": "Segui gli step per selezionare la tua concessionaria Mercedes-Benz EQ",
+        "PARAGRAPH": "Non hai ancora selezionato la tua concessionaria Mercedes-Benz EQ preferita.",
+        "BUTTONS": {
+            "BACK": "Indietro",
+            "SAVE": "Salva",
+            "START": "Avanti"
+        },
+        "ERROR": "There are missing inputs to save your preferred dealer. Please check the error messages above.",
+        "CARD": {
+            "HEADLINE": "Il tuo partner Mercedes-Benz EQ",
+            "PLACEHOLDER": "Non hai ancora selezionato la tua concessionaria Mercedes-Benz EQ preferita.",
+            "BUTTONS": {
+                "ADD": "Cerca"
+            }
+        },
+        "LOCATOR": {
+            "HEADLINE": "Il tuo partner Mercedes-Benz EQ",
+            "SUBHEADLINE": "Queste sono le concessionarie Mercedes-Benz EQ più vicine al tuo indirizzo di registrazione. Scegli la tua preferita dall'elenco, oppure effettua una nuova ricerca.",
+            "ERROR": "Seleziona dall'elenco la tua concessionaria preferita.",
+            "SELECTION": "Il tuo partner Mercedes-Benz EQ:",
+            "VALIDATION": {
+                "AMOUNT": "0 concessionarie trovate.",
+                "MESSAGE": "Inserisci un CAP o una città validi."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "CAP/Città",
+                "ERROR": "0 concessionarie trovate. Inserisci un CAP o una città validi."
+            },
+            "FOOTNOTE": "*L'elenco contiene solo concessionarie Mercedes-Benz EQ autorizzate."
+        },
+        "USAGE": {
+            "HEADLINE": "Tipologia cliente",
+            "PARAGRAPH": "Per poterti fornire il servizio migliore, puoi indicarci se sei un cliente privato o business.",
+            "PRIVATE": "Privato",
+            "BUSINESS": {
+                "LABEL": "Business",
+                "PLACEHOLDER": "Nome dell'azienda",
+                "INFO": "",
+                "ERROR": "The company name can't be empty or have the following characters: '<>;!'"
+            },
+            "ERROR": "Seleziona la tua tipologia cliente."
+        }
+    },
+    "SIMSEARCH": {
+        "HEADLINE": "Auto disponibili in pronta consegna in base alla tua configurazione:",
+        "SIMILARITY": "Analogia con la tua configurazione",
+        "PRICE": "Prezzo totale",
+        "BUTTON_OFFER": "Vedi i dettagli",
+        "TECHNICALVALUES": {
+            "ENGINEFUEL": "Tipo di carburante",
+            "ENGINEPOWER": "Potenza",
+            "ENGINETYPE": "Drive type",
+            "ENGINECONCEPT": "Concept",
+            "EMISSIONSTANDARD": "Abgasnorm",
+            "TRANSMISSION": "Trasmissione",
+            "TOPSPEED": "Velocità massima",
+            "CONSUMPTIONCOMBINED": "Consumi ciclo combinato",
+            "CO2EMISSIONCOMBINED": "Emissioni di CO₂ ciclo combinato",
+            "ENERGYEFFICIENCYCLASS": "Efficiency classes",
+            "ELECTROCONSUMPTION": "Electric"
+        }
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Dichiarazione di consenso al trattamento dei dati personali per finalità di marketing personalizzato",
+            "PGPH1": "Allo scopo di poterti fornire informazioni e proposte personalizzate basate sulle tue specifiche esigenze ed interessi, ti preghiamo di acconsentire al trattamento dei tuoi dati, che ci impegniamo a trattare responsabilmente, con attenzione e secondo quanto indicato nella nostra <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.it/passengercars/content-pool/tool-pages/legal/informativa-privacy.html\">\"Informativa sul trattamento dei dati personali\"</a>."
+        },
+        "ENUMERATION": {
+            "PROLOG": "Sì, desidero ricevere informazioni e offerte personalizzate su prodotti e servizi di Mercedes-Benz Italia S.p.A., Mercedes-Benz AG e delle relative società collegate. A tale scopo acconsento affinché:",
+            "OPTIONS": {
+                "1": "il mio nome, i miei dati di contatto e le informazioni da me fornite relative alla mia persona (p. es. recapito, indirizzo e-mail, numero di telefono, ID di messaggeria istantanea, indirizzi nei social network, interessi),",
+                "2": "i dati sul mio veicolo (p. es. configurazione del veicolo, chilometraggio, dati del Libretto Service digitale), nonché",
+                "3": "i dati sui prodotti acquistati e sui servizi utilizzati (p. es. contratti di leasing, Servizi Mercedes me connect prenotati, configurazioni di veicoli salvate)"
+            },
+            "EPILOG": "vengano rilevati, elaborati e utilizzati."
+        },
+        "CHANNELS": {
+            "PGPH1": "Inoltre acconsento ad essere contattato da Mercedes-Benz Italia S.p.A. (Titolare del trattamento) per gli scopi summenzionati, nelle modalità indicate qui di seguito:",
+            "OPTIONS": {
+                "PHONE": "per telefono (chiamate personali)",
+                "EMAIL": "tramite posta elettronica (in part. e-mail, SMS, Messenger)",
+                "POST": "per posta"
+            },
+            "LABEL": {
+                "YES": "sì",
+                "NO": "no"
+            },
+            "ERROR": {
+                "PHONE": "Seleziona un'opzione",
+                "EMAIL": "Seleziona un'opzione",
+                "POST": "Seleziona un'opzione"
+            }
+        },
+        "ACCORDION": {
+            "TITLE": "Maggiori informazioni sulla presente dichiarazione e sui relativi diritti:",
+            "HEADLINE": "Norme specifiche sulla protezione dati relative al consenso e ai tuoi diritti",
+            "PARAGRAPHS": {
+                "1": "I dati verranno utilizzati al fine specifico di potermi sottoporre per iscritto, di persona o attraverso il canale di contatto da me prescelto, offerte personalizzate e in linea con i miei interessi, i miei comportamenti e le mie esigenze (p. es. test drive, eventi, offerte speciali, prestazioni di servizi durante una visita presso un Concessionario). Per consentire ciò verranno utilizzati anche procedure di analisi dei dati, inclusa la creazione di profili, per la valutazione dei miei interessi.",
+                "2": "L'elaborazione dei tuoi dati personali per i suddetti scopi si svolgerà sulla base del nostro legittimo interesse e della tua dichiarazione di consenso. Il rilascio del tuo consenso è facoltativo. Continueremo a trattare i tuoi dati personali sulla base del presente consenso per le finalità summenzionate solo fino a quando non deciderai di revocare il tuo consenso o di opporti al trattamento dei dati. Per qualsiasi chiarimento puoi rivolgerti a noi in qualsiasi momento ai seguenti recapiti: [Mercedes-Benz Italia S.p.A., via G. V. Bona, 11, 156 Roma (RM), mercedesbenzitalia@legalmail.it, 8 – 9777 7777]. La revoca del tuo consenso non inficia la legittimità dei trattamenti dei dati personali svolti sulla base del consenso precedentemente prestato o di altri legittimi trattamenti. In qualsiasi momento hai il diritto di ricevere informazioni sui tuoi dati personali, di richiederne la rettifica o cancellazione, di limitarne il trattamento e di presentare un reclamo sia a noi che all’Autorità Garante. Inoltre hai la facoltà di esercitare il tuo diritto alla portabilità dei dati.",
+                "3": "I tuoi dati personali saranno conservati per il periodo strettamente necessario al raggiungimento dei suddetti scopi, e comunque al massimo per cinque anni a partire dalla data in cui hai rilasciato il consenso, o per un periodo più lungo, laddove necessario a seguito degli obblighi di conservazione dei dati.",
+                "4": "Hai anche il diritto di opporti in qualsiasi momento e gratuitamente al trattamento dei tuoi dati personali per finalità di marketing diretto. Lo stesso vale per quanto concerne il trattamento dei tuoi dati personali, inclusa la creazione di un profilo, nella misura in cui ciò sia attinente al marketing diretto."
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "Con la presente dichiaro di aver letto e accettato la dichiarazione di consenso al trattamento dei dati.",
+            "ERROR": "Si prega di dichiarare di aver letto e accettato la dichiarazione di consenso al trattamento dei dati."
+        },
+        "BUTTON": {
+            "CONFIRM": "Conferma la tua scelta"
+        }
+    },
+    "DEALER_CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Dichiarazione di consenso al trasferimento dei dati personali alla Concessionaria EQ da Lei selezionata come preferita",
+            "PGPH1": "Allo scopo di restare costantemente aggiornato sulle ultime novità del mondo EQ Mercedes-Benz e smart e di essere a tal fine contattato direttamente dalla Concessionaria EQ da te selezionata come preferita che ti fornirà  maggiori informazioni sulle vetture EQ, ti preghiamo di acconsentire al trasferimento dei tuoi dati personali alla predetta Concessionaria EQ, che agirà in qualità di autonomo titolare del trattamento, secondo quanto indicato nella nostra <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.it/content/italy/it/passengercars/mercedes-benz-cars/models/eqc/privacy-eq.html\">\"Informativa sul trattamento dei dati personali\"</a>."
+        },
+        "ENUMERATION": {
+            "PROLOG": "Sì, desidero essere sempre aggiornato sul mondo EQ Mercedes-Benz e smart e ricevere maggiori informazioni sulle vetture EQ direttamente dalla Concessionaria EQ da me selezionata come preferita. A tale scopo acconsento affinché:",
+            "OPTIONS": {
+                "1": "il mio nome, i miei dati di contatto e le informazioni da me fornite relative alla mia persona (p. es. recapito, indirizzo e-mail, numero di telefono, ID di messaggeria istantanea, indirizzi nei social network, interessi)"
+            },
+            "EPILOG": "vengano trasferiti da Mercedes-Benz Italia S.p.A. alla Concessionaria EQ da me selezionata come preferita che potrà contattarmi nelle modalità indicate qui di seguito:"
+        },
+        "CHANNELS": {
+            "PGPH1": "",
+            "OPTIONS": {
+                "PHONE": "per telefono (chiamate personali)",
+                "EMAIL": "tramite posta elettronica (in part. e-mail, SMS, Messenger)",
+                "POST": "per posta"
+            },
+            "RETAIL": {
+                "OPTIONS": {
+                    "PHONE": "per telefono (chiamate personali)",
+                    "EMAIL": "tramite posta elettronica (in part. e-mail, SMS, Messenger)",
+                    "POST": "per posta"
+                }
+            },
+            "LABEL": {
+                "YES": "sì",
+                "NO": "no"
+            },
+            "ERROR": {
+                "PHONE": "Seleziona un'opzione",
+                "EMAIL": "Seleziona un'opzione",
+                "POST": "Seleziona un'opzione"
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "Con la presente dichiaro di aver letto e accettato la dichiarazione di consenso al trattamento dei dati.",
+            "ERROR": "Si prega di dichiarare di aver letto e accettato la dichiarazione di consenso al trattamento dei dati."
+        }
+    },
+    "VEHICLE": {
+        "TECHNICALDATA": {
+            "ENGINE": {
+                "FUELTYPE": "Tipo di carburante",
+                "ENGINEPERFORMANCE": "Potenza",
+                "TYPEOFPROPULSION": "Drive type"
+            },
+            "GEAR": "Trasmissione",
+            "ENERGYEFFICIENCYCLASS": "Efficienza CO₂",
+            "NEDC": {
+                "CONSUMPTIONELECTRICINDIVIDUAL": "Consumo di energia elettrica ponderato",
+                "EMISSIONCOMBINEDPRIMARYGEARINDIVIDUAL": "Emissioni di CO₂ ciclo combinato",
+                "CONSUMPTIONCOMBINEDPRIMARYGEARINDIVIDUAL": "Consumi ciclo combinato",
+                "CONSUMPTIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Consumo Ponderato, ciclo misto",
+                "CONSUMPTIONWEIGHTEDSECONDARYGEARINDIVIDUAL": "Energy consumption combined",
+                "EMISSIONWEIGHTEDINDIVIDUAL": "Emissioni di CO₂ ciclo combinato",
+                "ELECTRICRANGEINDIVIDUAL": "Autonomia elettrica"
+            }
+        },
+        "RANGE": {
+            "TITLE": "Consumption / CO₂ emissions combined",
+            "CONSUMPTIONCOMBINED": "Fuel",
+            "CONSUMPTIONCOMBINED_ELECTRIC": "Electric",
+            "EMISSIONCOMBINED": "CO₂",
+            "ENERGYEFFICIENCYCLASS": "Efficiency classes"
+        },
+        "FOOTNOTES": {
+            "DISCLAIMER": "* Prezzo di vendita in Euro, IVA inclusa, suggerito per il mercato italiano <b>e non comprendente né l’importo per i servizi di messa su strada né l’imposta Provinciale di Trascrizione (IPT)</b>.<br>L’importo per i servizi di messa su strada include le attività necessarie all’approntamento ed alla preparazione della vettura, al suo trasporto franco concessionaria ed ai costi di sua immatricolazione. Non include opzionali, accessori e servizi aggiuntivi erogati dal concessionario.<br><b>A titolo indicativo, l’importo per i servizi di messa su strada applicato da Mercedes-Benz Italia Spa per le proprie vendite dirette, è pari ad € 960 per Classe A/B/CLA/GLA ed €1260 per le restanti gamme.</b><br>Per quanto sopra detto, il prezzo effettivo di vendita della vettura e l’importo dei relativi servizi di messa su strada saranno quindi, di volta in volta, concordati con il concessionario, cui Vi preghiamo infatti di rivolger Vi anche per ogni eventuale addizionale informazione.<br>La vettura potrebbe variare dall’immagine visualizzata. Con riserva di modifiche di progettazione ed equipaggiamento.",
+            "1": "I valori indicati sono stati rilevati in base al procedimento di misurazione prescritto. Si tratta dei \"valori di CO₂ NEDC\" ai sensi dell' art. 2 n. 1 del Regolamento di Esecuzione (UE) 2017/1153. I valori del consumo di combustibile sono stati calcolati sulla base di tali valori. I dati non si riferiscono ad una singola vettura e non fanno parte dell'offerta, ma sono forniti esclusivamente a titolo di confronto tra i diversi modelli. I valori variano a seconda degli equipaggiamenti a richiesta. Per ulteriori informazioni sui consumi ufficiali di carburante e sulle emissioni di CO₂ specifiche e ufficiali delle autovetture nuove si rimanda «Guida al risparmio di carburanti e alle emissioni di C02», disponibile gratuitamente presso tutti i punti vendita della Casa e presso il Ministero dello sviluppo economico (<a href=\"www.sviluppoeconomico.gov.it\" target=\"_blank\" class=\"wb-e-link-10\">www.sviluppoeconomico.gov.it</a>).",
+            "2": "I valori indicati sono stati rilevati il base al procedimento di misurazione prescritto. Si tratta dei \"valori di CO₂ WLTP\" ai sensi dell’ art. 2 n. 3 del Regolamento di Esecuzione (EU) 2017/1153. I valori del consumo di combustibile sono stati calcolati sulla base di tali valori.",
+            "3": "Die angegebenen Werte sind die „gemessenen NEFZ- CO2 -Werte“ i.S.v. Art. 2 Nr. 2 Durchführungsverordnung (EU) 2017/1153, die im Einklang mit Anhang XII der Verordnung (EG) Nr. 692/2008 ermittelt wurden. Die Kraftstoffverbrauchswerte wurden auf Basis dieser Werte errechnet. Aufgrund gesetzlicher Änderungen der maßgeblichen Prüfverfahren können in der für die Fahrzeugzulassung und ggf. Kfz-Steuer maßgeblichen Übereinstimmungsbescheinigung des Fahrzeugs höhere Werte eingetragen sein. Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebots, sondern dienen allein Vergleichszwecken zwischen verschiedenen Fahrzeugtypen. Die Werte variieren in Abhängigkeit der gewählten Sonderausstattungen.",
+            "4": "Potenza: la potenza del motore è costituita dal valore del motore a scoppio (valore a sinistra) e dal valore del motore elettrico (valore a destra)."
+        }
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Personal Dashboard",
+            "PGPH1": "The Personal Dashboard is only accessible for registered customers.",
+            "PGPH2": "Please log in or register to access your personal dashboard with exclusive insights and exciting features guiding you to your new Mercedes-Benz.",
+            "TEASER": {
+                "1": "Exclusive content",
+                "2": "Activities",
+                "3": "Interactive touchpoints"
+            },
+            "BUTTON": "Login"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Personal Dashboard - No registration yet",
+            "PGPH1": "Interested in receiving news on our upcoming Mercedes-Benz cars? Then register here and benefit from exclusive updates.",
+            "PGPH2": "Choose your model and start the corresponding registration process",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Register for {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "We're sorry, something went wrong.",
+        "PGPH1": "Unfortunately something went wrong. Please try again later."
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Hello {{customerName}}",
+        "HEADLINE_WELCOME": "Welcome to your",
+        "HEADLINE_APPLICATION": "Personal Dashboard",
+        "FOOTNOTE": {
+            "EQC": ""
+        }
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Start your journey towards the {{model}}",
+        "TEXT": "Click below to find out more.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Completed"
+            },
+            "OPEN": {
+                "HEADLINE": "Next Steps",
+                "TEXT": "Check back for {{model}} news and even more features."
+            },
+            "LOCKED": {
+                "HEADLINE": "Coming Soon"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "{{model}} Registration",
+            "LINKS": {
+                "OPEN": "",
+                "COMPLETED": "See details"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Retailer Selector",
+            "LINKS": {
+                "OPEN": "Select Retailer",
+                "COMPLETED": "See Retailer"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Configurator",
+            "LINKS": {
+                "OPEN": "Configure your {{model}}",
+                "COMPLETED": "Continue Configuration"
+            }
+        },
+        "TEST_DRIVE": {
+            "TITLE": "{{model}} Testdrive",
+            "LINKS": {
+                "OPEN": "Book a test drive",
+                "COMPLETED": "See details"
+            }
+        }
+    },
+    "TIMELINE": {
+        "REGISTRATION": {
+            "HEADLINE": "{{model}} Registration Completed",
+            "POST": {
+                "HEADLINE": "Registration Completed",
+                "TEXT": "Your details:",
+                "PERSONAL_HEADLINE": ""
+            }
+        },
+        "DEALER": {
+            "HEADLINE": "Preferred Retailer Selected",
+            "POST": {
+                "HEADLINE": "Retailer Locator",
+                "TEXT": "The details of your preferred Mercedes-Benz EQ Retailer can be found below:",
+                "PERSONAL_HEADLINE": "",
+                "EMAIL_SUBJECT": "Please contact me with further information about EQC"
+            },
+            "LINK": "Change dealer"
+        },
+        "QUESTION": {
+            "HEADLINE": "Let us know more.",
+            "POST": {
+                "QUESTION": "When will you be looking for your new EQC?",
+                "ANSWER": {
+                    "QUARTER": "Month",
+                    "YEAR": "Year"
+                },
+                "SAVE": "Submit"
+            }
+        },
+        "CONFIGURATOR": {
+            "HEADLINE": "{{model}} Configuration",
+            "POST": {
+                "HEADLINE": "Configuration Online Code:",
+                "HEADLINE_MOBIL": "Configuration Online Code:",
+                "TEXT": "Thank you for configuring your ideal EQC. Your Online Code that relate to your current configuration <span class=\"text-online-code\">{{onlineCode}}</span>. This code remains active for 30 days after the last change.",
+                "PERSONAL_HEADLINE": "{{model}} Configuration",
+                "BUTTONS": {
+                    "CONFIGURATION": "Open Configuration"
+                }
+            }
+        },
+        "TESTDRIVE": {
+            "INTERESTED": {
+                "STREAMLINE": "Processing your Test Drive request",
+                "HEADLINE_MOBIL": "Test Drive requested",
+                "TEXT1": "Thank you for your interest in booking a Test Drive with the first all-electric Mercedes-Benz, the EQC. Please give us a moment to process your request.",
+                "TEXT2": "Your Test Drive confirmation will be ready soon. We hope you are just as excited as we are.",
+                "PERSONAL_HEADLINE": "Test Drive data",
+                "LINK": ""
+            },
+            "BOOKED": {
+                "STREAMLINE": "Test Drive Booked",
+                "HEADLINE_MOBIL": "Test Drive Booked",
+                "TEXT1": "The EQC. Electric tested on ice. Electric tested in the desert. Now it is your turn.",
+                "TEXT2": "In {{days}} days the EQC will be ready for you.",
+                "LINK": "Cancel Test Drive"
+            },
+            "FINISHED": {
+                "STREAMLINE": "Test Drive Completed",
+                "HEADLINE_MOBIL": "Test Drive Completed",
+                "TEXT1": "We hope the Mercedes Benz EQC has also passed its test and exceeded your expectations.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Test Drive Information",
+                "LINK": "Book another Test Drive"
+            },
+            "CAPTIONS": {
+                "LOCATION": "Location",
+                "INFO": "Driving Information",
+                "ID": "Test Drive ID"
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Discover more"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Show more"
+        }
+    },
+    "FOOTNOTE": {
+        "EQC": {
+            "PARAGRAPHS": {}
+        }
+    },
+    "DEALER": {
+        "BUTTONS": {
+            "BACK": "Back",
+            "SAVE": "Select Dealer"
+        },
+        "LOCATOR": {
+            "HEADLINE": "Preferred Mercedes-Benz EQ Passenger Car Partner",
+            "SUBHEADLINE": "Based on your address details during registration we have found the following Mercedes-Benz EQ Passenger Car Partner. Please select your preferred dealer from this list, or amend the search in order to search for further Mercedes-Benz EQ Passenger Car Partner.",
+            "ERROR": "Please select your preferred dealer form the list.",
+            "VALIDATION": {
+                "AMOUNT": "0 dealers were found.",
+                "MESSAGE": "Please enter a valid postcode or city."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "Postcode/ Town"
+            },
+            "FOOTNOTE": "*Please note that only authorised Mercedes-Benz EQ Passenger Car Partners are displayed in this list."
+        },
+        "USAGE": {
+            "HEADLINE": "Usage of vehicle",
+            "PARAGRAPH": "We would love to know how you intend to use the Mercedes-Benz EQC, so that we can provide you with optimum support in a potential future purchase.",
+            "PRIVATE": "Private vehicle",
+            "BUSINESS": {
+                "LABEL": "Business vehicle*",
+                "PLACEHOLDER": "Company name (Not mandatory)",
+                "INFO": "*vehicle registered under a company name",
+                "ERROR": "The company name can't be empty or have the following characters: '<>;!'"
+            },
+            "ERROR": "Please choose the purpose of the Mercedes-Benz EQC."
+        }
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Declaration of consent",
+            "PGPH1": "Mercedes-Benz Cars Middle East FZE take your privacy seriously. We will only use your personal information to provide the products and services you have requested from us or to administer your account. We may need to share your details with third parties in order to provide our services to you. Our full Privacy Policy is published on our website <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.abu-dhabi.mercedes-benz-mena.com/en/passengercars/content-pool/tool-pages/legal/privacy-statement.html\">here</a> and is also available on request."
+        },
+        "SIGNATURE": {
+            "LABEL": "I confirm that I have read and I accept the declaration of consent.",
+            "ERROR": "Please confirm that you have read and accept the declaration of consent."
+        },
+        "BUTTON": {
+            "CONFIRM": "Confirm your choice"
+        }
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Persönliches Dashboard",
+            "PGPH1": "Das persönliche Dashboard ist nur für registrierte Kunden zugänglich. Bitte loggen Sie sich ein oder registrieren Sie sich, um Zugang zu Ihrem persönlichen Dashboard zu erhalten. Exklusiven Einblicke und faszinierende Funktionen führen Sie zu Ihrem neuen Mercedes-Benz!",
+            "TEASER": {
+                "1": "Exklusiver Inhalt ",
+                "2": "Nützliche Funktionen",
+                "3": "Speichern & Vergleichen"
+            },
+            "BUTTON": "Login"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Persönliches Dashboard - Noch keine Registrierung",
+            "PGPH1": "Interessiert, exklusive Informationen über spezifische Mercedes-Benz-Modelle zu erhalten?",
+            "PGPH2": "Dann registrieren Sie sich hier für Ihr Wunschmodell und profitieren Sie von exklusiven Inhalten und praktischen Funktionen.",
+            "TEASER": "Wählen Sie Ihr Modell und starten Sie den entsprechenden Registrierungsprozess.",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Registrieren für {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "Es tut uns leid - etwas ist schiefgegangen.",
+        "PGPH1": "Leider ist etwas schiefgegangen. Bitte versuchen Sie es später erneut."
+    },
+    "FALLBACK_STAGE": {
+        "GREETING": "Willkommen zu Ihrem persönlichen Dashboard",
+        "HEADLINE": "Finden Sie Ihren Mercedes-Benz",
+        "TAG": "Wählen Sie Ihr Modell aus",
+        "BOX": {
+            "HINT": "Wählen Sie Ihr Modell aus",
+            "HEADLINE": "Finden Sie Ihren Mercedes-Benz",
+            "TEXT": "Es erwarten Sie exklusive Einblicke und faszinierende Funktionen. Bitte wählen Sie eines unserer Mercedes-Benz Modelle aus, mit dem Sie die Reise starten möchten.",
+            "BUTTON": "Jetzt starten"
+        }
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Hallo {{customerName}}",
+        "HEADLINE_WELCOME": "Willkommen zu",
+        "HEADLINE_APPLICATION": "Ihrem persönlichen Dashboard"
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Beginnen Sie die Reise zu Ihrem Lieblings-Mercedes-Benz {{model}}",
+        "TEXT": "Bereit für den nächsten Schritt? Wir haben verschiedenen Optionen zur Auswahl, um das Erlebnis auf dem Weg zu Ihrem nächsten Mercedes-Benz noch besser zu gestalten.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Abgeschlossen"
+            },
+            "OPEN": {
+                "HEADLINE": "Nächste Schritte",
+                "TEXT": "Wir werden Ihnen in Kürze mehr exklusive Informationen und Interaktionsmöglichkeiten bereitstellen."
+            },
+            "LOCKED": {
+                "HEADLINE": "Demnächst"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "{{model}} Registrierung",
+            "LINKS": {
+                "COMPLETED": "Siehe Einzelheiten"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Händlerauswahl",
+            "LINKS": {
+                "OPEN": "Händler auswählen",
+                "COMPLETED": "Händler anzeigen"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Konfigurator",
+            "LINKS": {
+                "OPEN": "Jetzt konfigurieren",
+                "COMPLETED": "Konfiguration fortsetzen"
+            }
+        },
+        "TEST_DRIVE": {
+            "TITLE": "Probefahrt",
+            "LINKS": {
+                "OPEN": "Probefahrt buchen",
+                "COMPLETED": "Siehe Einzelheiten"
+            }
+        },
+        "ONLINE_STORE": {
+            "TITLE": "Showroom Online",
+            "LINKS": {
+                "OPEN": "Jetzt Angebot einholen",
+                "COMPLETED": "Ihre Anfrage"
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Bevorzugter Händler ausgewählt",
+            "POST": {
+                "HEADLINE": "Händlerauswahl",
+                "TEXT": "Nähere Angaben zu Ihrem bevorzugten Mercedes-Benz Händler finden Sie nachstehend.",
+                "EMAIL_SUBJECT": "{{model}} - Ich möchte mit weiteren Informationen kontaktiert werden"
+            },
+            "LINK": "Bearbeiten"
+        },
+        "REGISTRATION": {
+            "HEADLINE": "Registrierung abgeschlossen",
+            "POST": {
+                "HEADLINE": "Registrierung",
+                "TEXT": "Übersicht über Ihre Registrierungsdaten:"
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Wir möchten gerne mehr von Ihnen erfahren.",
+            "POST": {
+                "QUESTION": "Wann planen Sie den Kauf eines EQC?",
+                "ANSWER": {
+                    "QUARTER": "Quartal",
+                    "YEAR": "Jahr"
+                },
+                "SAVE": "Senden"
+            }
+        },
+        "TESTDRIVE": {
+            "INTERESTED": {
+                "STREAMLINE": "Probefahrt angefragen",
+                "HEADLINE_MOBIL": "Probefahrt angefragen",
+                "TEXT1": "Wir freuen uns über Ihr Interesse an einer Probefahrt. Ihre Probefahrtbuchung ist in Kürze möglich. Wir hoffen, dass Sie genauso begeistert sind wie wir. Bitte geben Sie uns eine Sekunde Zeit, um Ihre Anfrage zu prüfen. Ihre Daten werden automatisch aktualisiert.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Ihre Probefahrtsanfrage",
+                "LINK": ""
+            },
+            "REQUEST": {
+                "STREAMLINE": "Probefahrt angefragt",
+                "HEADLINE_MOBIL": "Probefahrt angefragt",
+                "TEXT1": "Wir bedanken uns für Ihr Interesse an einer Probefahrt und hoffen, dass Sie sich auf das Erlebnis freuen. Wir werden Ihre Anfrage prüfen und uns in Kürze bei Ihnen melden.",
+                "LINK": "Ihre Probefahrt-Anfrage stornieren"
+            },
+            "BOOKED": {
+                "STREAMLINE": "Probefahrt gebucht",
+                "HEADLINE_MOBIL": "Probefahrt gebucht",
+                "TEXT1": "Wir bedanken uns für Ihr Interesse an einer Probefahrt und hoffen, dass Sie sich auf das Erlebnis freuen.",
+                "TEXT2": "In {{days}} Tagen beginnt Ihre Probefahrt. Bleiben Sie gespannt.",
+                "LINK": "Probefahrt stornieren"
+            },
+            "FINISHED": {
+                "STREAMLINE": "Probefahrt beendet",
+                "HEADLINE_MOBIL": "Probefahrt beendet",
+                "TEXT1": "Wir hoffen, dass Ihnen die Probefahrt gefallen hat.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Ihre Probefahrt ",
+                "LINK": ""
+            },
+            "CAPTIONS": {
+                "LOCATION": "Abholort",
+                "INFO": "Abholinformation",
+                "ID": "Buchungs-ID"
+            }
+        },
+        "CONFIGURATOR": {
+            "HEADLINE": "Ihre gespeicherten Fahrzeuge",
+            "POST": {
+                "TAG": "Konfiguration",
+                "PRICE_TAX": "inkl. MwSt. und NoVA",
+                "DATE_SAVED": "Gespeichert {{date}}",
+                "DATE_UPDATED": "Automatisch geändert {{date}}",
+                "BUTTONS": {
+                    "CONFIGURATION": "Konfiguration öffnen",
+                    "DASHBOARD": "Konfigurationen vergleichen"
+                }
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Mehr entdecken"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Mehr anzeigen"
+        },
+        "INTERACTIONS": {
+            "LIKE": {
+                "LIKED": "Als \"Gefällt mir\" markiert",
+                "NOT_LIKED": "Gefällt mir"
+            }
+        }
+    },
+    "DEALER": {
+        "BUTTONS": {
+            "BACK": "Zurück",
+            "SAVE": "Händlerauswahl speichern"
+        },
+        "LOCATOR": {
+            "HEADLINE": "Wählen Sie Ihren bevorzugten Händler aus",
+            "SUBHEADLINE": "Anhand der von Ihnen angegebenen Adresse haben wir die folgenden Mercedes-Benz Händler in Ihrer Nähe gefunden. Bitte wählen Sie Ihren bevorzugten Händler aus dieser Liste aus oder geben Sie eine neue Postleitzahl ein, um nach anderen Mercedes-Benz Händlern zu suchen.",
+            "ERROR": "Bitte wählen Sie Ihren bevorzugten Händler aus der Liste aus.",
+            "VALIDATION": {
+                "AMOUNT": "0 Händler gefunden",
+                "MESSAGE": "Wir konnten Ihren Standort nicht finden. Bitte geben Sie eine gültige Postleitzahl oder einen gültigen Ortsnamen an."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "Postleitzahl / Ort"
+            },
+            "FOOTNOTE": "*Bitte beachten Sie, dass in dieser Liste nur autorisierte Mercedes-Benz Pkw-Partner angezeigt werden."
+        },
+        "USAGE": {
+            "HEADLINE": "Was für ein Kundentyp sind Sie?",
+            "PARAGRAPH": "Damit wir Ihnen die wichtigsten Informationen zur Verfügung stellen können, teilen Sie uns bitte mit, ob Sie Ihren Mercedes-Benz für private oder geschäftliche Zwecke nutzen.",
+            "PRIVATE": "Privatkunde",
+            "BUSINESS": {
+                "LABEL": "Geschäftskunde",
+                "PLACEHOLDER": "Firmenname",
+                "INFO": "*Fahrzeug ist unter einem Firmennamen zugelassen.",
+                "ERROR": "Der Firmenname darf nicht leer sein oder folgenden Zeichen enthalten:'&lt;>;!'"
+            },
+            "ERROR": "Bitte wählen Sie den nachstehenden Kundentyp aus, der auf Sie zutrifft."
+        }
+    },
+    "SIMSEARCH": {
+        "HEADLINE": "Sofort verfügbare Bestandsfahrzeuge entsprechend Ihrer Konfiguration:",
+        "SIMILARITY": "Ähnlichkeit mit Ihrem gewählten Bestandsfahrzeug",
+        "PRICE": "Gesamtpreis",
+        "BUTTON_OFFER": "Siehe Einzelheiten",
+        "TECHNICALVALUES": {
+            "ENGINEFUEL": "Kraftstoffart",
+            "ENGINEPOWER": "Leistung",
+            "ENGINETYPE": "Antriebsart",
+            "ENGINECONCEPT": "Antriebsart",
+            "EMISSIONSTANDARD": "Abgasnorm",
+            "TRANSMISSION": "Getriebe",
+            "TOPSPEED": "Höchstgeschwindigkeit",
+            "CONSUMPTIONCOMBINED": "Kraftstoffverbrauch kombiniert gewichtet",
+            "CO2EMISSIONCOMBINED": "CO₂-Emissionen gewichtet, kombiniert",
+            "ENERGYEFFICIENCYCLASS": "CO₂ Effizienz",
+            "ELECTROCONSUMPTION": "Stromverbrauch gewichtet, kombiniert"
+        }
+    },
+    "OBLIGATION": {
+        "TITLE": "",
+        "TEXT": "Wenn Sie hier klicken, geben wir entsprechend Ihres Wunsches die Daten, die Sie im Rahmen des Registrierungsprozesses angegeben haben an den von Ihnen ausgewählten Vertriebspartner weiter. Dieser wird Sie dann zur weiteren Bearbeitung Ihres Anliegens kontaktieren."
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Datenschutzrechtliche Einwilligungserklärung",
+            "PGPH1": "Wir möchten Sie gerne individuell und Ihren Interessen entsprechend informieren und beraten. Deshalb bitten wir Sie, der Verwendung Ihrer Daten zuzustimmen. Wir werden diese vertrauensvoll behandeln und sorgsam damit umgehen."
+        },
+        "ENUMERATION": {
+            "PROLOG": "Ja, ich möchte Informationen und Beratung über Produkte und Dienstleistungen der Mercedes-Benz AG und der mit ihr verbundenen Unternehmen durch die Mercedes-Benz Österreich GmbH erhalten. Zu diesem Zweck willige ich ein, dass",
+            "OPTIONS": {
+                "1": "mein Name, meine Kontaktdaten und die von mir gemachten Angaben zu meiner Person (z.B. Anschrift, E-Mail-Adresse, Telefonnummer, Instant Messenger ID, Adressen in sozialen Netzwerken, Interessen),",
+                "2": "Daten über mein Fahrzeug (z.B. Fahrzeugkonfiguration, Kilometerstand, Daten des digitalen Servicehefts), sowie",
+                "3": "Daten über erworbene Produkte und in Anspruch genommene Services (z.B. Leasingverträge, gebuchte Mercedes me connect-Dienste, gespeicherte Fahrzeugkonfigurationen)"
+            },
+            "EPILOG": "erhoben, verarbeitet und genutzt werden."
+        },
+        "CHANNELS": {
+            "PGPH1": "Ich bin auch einverstanden, von den vorstehenden Unternehmen zu den angegebenen Zwecken wie folgt kontaktiert zu werden:",
+            "OPTIONS": {
+                "PHONE": "per Telefon (persönliche Anrufe)",
+                "EMAIL": "per elektronischer Post (insb. E-Mail, SMS, Messenger)",
+                "POST": "per Post"
+            },
+            "LABEL": {
+                "YES": "Ja",
+                "NO": "Nein"
+            },
+            "ERROR": {
+                "PHONE": "Bitte wählen Sie eine Option für \"Telefon\" aus",
+                "EMAIL": "Bitte wählen Sie eine Option für \"E-mail\" aus",
+                "POST": "Bitte wählen Sie eine Option für \"Post\" aus"
+            }
+        },
+        "ACCORDION": {
+            "TITLE": "Weitere Informationen zu dieser Erklärung und zu Ihren Rechten:",
+            "HEADLINE": "Datenschutzrechtliche Einzelheiten zur Einwilligung und Ihren Rechten:",
+            "PARAGRAPHS": {
+                "1": "Die Daten werden verwendet, um mir schriftlich, im persönlichen Gespräch oder dem von mir gewählten Kontaktkanal individualisierte und meinen Interessen entsprechende Angebote unterbreiten zu können (z.B. Probefahrten, Veranstaltungen, besondere Angebote, Serviceleistungen während eines Händlerbesuchs). Um dies zu ermöglichen, werden auch Analyseverfahren einschließlich Profilbildung zur Auswertung meiner Interessen verwendet.",
+                "2": "Die Verarbeitung Ihrer personenbezogenen Daten für die vorgenannten Zwecke erfolgt auf Grundlage Ihrer Einwilligung. Die Erklärung Ihrer Einwilligung ist freiwillig. Wir werden Ihre personenbezogenen Daten auf der Grundlage dieser Einwilligung zu den vorgenannten Zwecken nur so lange verarbeiten, bis Sie Ihre Einwilligung widerrufen oder der Verarbeitung widersprechen. Sie können sich dazu jederzeit an uns wenden: Mercedes-Benz Österreich GmbH, Mercedes-Benz Platz 1, 5301 Eugendorf, 0800 9777 7777, datenschutz-austria@daimler.com. Durch den Widerruf Ihrer Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung oder anderer rechtmäßigen Verarbeitungen nicht berührt. Sie haben jederzeit das Recht, Auskunft zu Ihren personenbezogenen Daten zu erhalten, das Recht auf deren Berichtigung oder Löschung, das Recht auf Einschränkung von deren Verarbeitung, sowie das Recht, eine Beschwerde an uns oder eine Aufsichtsbehörde zu richten. Ihnen steht frei, Ihr Recht auf Datenportabilität auszuüben.",
+                "3": "Ihre personenbezogenen Daten werden nicht länger gespeichert als es erforderlich ist, um die vorgenannten Zwecke zu erreichen, und maximal für einen Zeitraum von fünf Jahren ab dem Zeitpunkt, zu dem wir zuletzt mit Ihnen in Kontakt getreten sind, oder für einen längeren Zeitraum, soweit dies aufgrund von Aufbewahrungspflichten erforderlich ist.",
+                "4": "Sie haben auch das Recht, der Verarbeitung Ihrer personenbezogenen Daten zu Direktmarketingzwecken jederzeit und unentgeltlich zu widersprechen. Das Gleiche gilt hinsichtlich der Verarbeitung Ihrer personenbezogenen Daten, einschließlich der Profilbildung, soweit diese im Zusammenhang mit Direktmarketing steht."
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "Hiermit bestätige ich, dass ich die Datenschutzerklärung gelesen und akzeptiert habe.",
+            "ERROR": "Bitte bestätigen Sie, dass Sie die Datenschutzrichtlinien gelesen und akzeptiert haben."
+        },
+        "BUTTON": {
+            "CONFIRM": "Auswahl bestätigen"
+        }
+    },
+    "VEHICLE": {
+        "TECHNICALDATA": {
+            "ENGINE": {
+                "FUELTYPE": "Kraftstoffart",
+                "ENGINEPERFORMANCE": "Leistung",
+                "TYPEOFPROPULSION": "Antriebsart",
+                "EMISSIONSTANDARD": "Abgasnorm"
+            },
+            "GEAR": "Getriebe",
+            "ENERGYEFFICIENCYCLASS": "CO₂ Effizienz",
+            "WLTP": {
+                "EMISSIONTOTALPRIMARYGEARINDIVIDUAL": "CO₂-Emissionen gesamt (kombiniert)",
+                "CONSUMPTIONTOTALPRIMARYGEARINDIVIDUAL": "Verbrauch gesamt (kombiniert)",
+                "RANGETOTALALLELECTRICINDIVIDUAL": "Elektrische Reichweite",
+                "EMISSIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "CO₂-Emissionen gewichtet, kombiniert",
+                "CONSUMPTIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Kraftstoffverbrauch kombiniert gewichtet",
+                "CONSUMPTIONCHARGEDEPLETEWEIGHTEDSECONDARYGEARINDIVIDUAL": "Stromverbrauch gewichtet, kombiniert"
+            }
+        },
+        "RANGE": {
+            "TITLE": "Verbrauch / CO₂-Emissionen kombiniert",
+            "CONSUMPTIONCOMBINED": "Kraftstoff(-verbrauch)",
+            "CONSUMPTIONCOMBINED_ELECTRIC": "Strom",
+            "EMISSIONCOMBINED": "CO₂",
+            "ENERGYEFFICIENCYCLASS": "Effizienzklassen"
+        },
+        "FOOTNOTES": {
+            "DISCLAIMER": "Sämtliche Preise sind nicht kartellgebunden und stellen unverbindliche Preisempfehlungen dar. Änderungen in Konstruktion und Ausstattung sowie Eingabefehler vorbehalten. Der Fahrzeugpreis sowie der Grundpreis sind inkl. NoVA und 20% MwSt. angegeben und berücksichtigen die laut Normverbrauchsabgabegesetz gültigen Bestimmungen. Weitere Preisangaben in dieser Ansicht sind, sofern nicht anders angegeben, inkl. 20% MwSt. angeführt. Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebotes, sondern dienen allein Vergleichszwecken zwischen den verschiedenen Fahrzeugtypen.",
+            "1": "Die angegebenen Werte wurden nach dem vorgeschriebenen Messverfahren ermittelt. Es handelt sich um die „NEFZ-CO₂-Werte“ i.S.v. Art. 2 Nr. 1 Durchführungsverordnung (EU) 2017/1153. Die Kraftstoffverbrauchswerte wurden auf Basis dieser Werte errechnet. Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebots, sondern dienen allein Vergleichszwecken zwischen verschiedenen Fahrzeugtypen. Die Werte variieren in Abhängigkeit der gewählten Sonderausstattungen.",
+            "2": "Die angegebenen Werte wurden nach dem vorgeschriebenen Messverfahren ermittelt. Es handelt sich um „WLTP-CO₂-Werte“ i.S.v. Art. 2 Nr. 3 Durchführungsverordnung (EU) 2017/1153. Die Kraftstoffverbrauchswerte wurden auf Basis dieser Werte errechnet. Der Stromverbrauch wurde auf der Grundlage VO 683/2008/ EG ermittelt. Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebots, sondern dienen allein Vergleichszwecken zwischen verschiedenen Fahrzeugtypen. Die Werte variieren in Abhängigkeit der gewählten Sonderausstattungen und somit auch von den für die Schweiz gültigen Werten gemäss Energieeffizienzverordnung (EnEV).",
+            "3": "Der Treibstoff-/Stromnormverbrauch wird nach der Messmethode 715/2007/EWG in der gegenwärtig gültigen Fassung ermittelt. Die angegebenen Werte zu Energieverbrauch und CO2-Emissionen sind Schweizer Werte auf Basis Typengenehmigung. Es handelt sich dabei um Werte, die im WLTP Messzyklus ermittelt wurden. Je nach Fahrweise, Strassen- und Verkehrsverhältnissen, Umwelteinflüssen und Fahrzeugzustand können sich in der Praxis Verbrauchswerte ergeben, die von den angegebenen Werten abweichen. Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebots, sondern dienen allein Vergleichszwecken zwischen verschiedenen Fahrzeugtypen.<br><br>Die angegebenen Werte zu Energieverbrauch und CO2-Emissionen sind Schweizer Werte. Damit Energieverbräuche unterschiedlicher Antriebsformen (Benzin, Diesel, Gas, Strom, usw.) vergleichbar sind, werden sie zusätzlich als sogenannte Benzinäquivalente (Masseinheit für Energie) ausgewiesen. CO2 ist das für die Erderwärmung hauptverantwortliche Treibhausgas; die mittlere CO2-Emission aller (markenübergreifend) angebotenen Fahrzeugtypen beträgt 174 g/km für das Jahr 2020.",
+            "4": "Systemleistung: Die Leistung kennzeichnet die Werte des Verbrennungsmotors (linker Wert) sowie den Wert des Elektromotors (rechter Wert).",
+            "5": "Die CO2-Effizienz eines Fahrzeugs ist abhängig von der Art des Getriebes oder der Räder und kann sich während der Konfiguration verändern.",
+            "6": "Anbieter: Mercedes-Benz Leasing GmbH, Siemensstraße 7, 70469 Stuttgart. Ist der Leasingnehmer Verbraucher, besteht nach Vertragsschluss ein gesetzliches Widerrufsrecht nach §495 BGB. Aktion P9030",
+            "7": "Als registrierter Mercedes me Nutzer können Sie Ihre Konfiguration in Ihrem Mercedes me Account speichern. Dazu werden Sie automatisch über den Mercedes me Registrierungs-/Login Dialog zu Ihren persönlichen Konfigurationen weitergeleitet."
+        }
+    }
+}

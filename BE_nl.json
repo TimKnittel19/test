@@ -1,0 +1,319 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Persoonlijk dashboard",
+            "PGPH1": "Het persoonlijke dashboard is uitsluitend voor geregistreerde gebruikers toegankelijk. Meld u aan of registreer u voor toegang tot uw persoonlijke dashboard met exclusieve reportages en intrigerende features die u naar uw nieuwe Mercedes-Benz begeleiden.",
+            "PGPH2": "",
+            "TEASER": {
+                "1": "Exclusieve content ",
+                "2": "Handige features",
+                "3": "Opslaan en vergelijken"
+            },
+            "BUTTON": "Aanmelden"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Persoonlijk dashboard - nog geen registratie",
+            "PGPH1": "Geïnteresseerd in exclusief nieuws over specifieke Mercedes-Benz modellen die eraan komen?",
+            "PGPH2": "Registreer u dan hier voor uw model en profiteer van exclusieve updates.",
+            "TEASER": "Kies uw model en begin de bijbehorende registratie",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Registratie voor {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "Er is helaas iets fout gegaan.",
+        "PGPH1": "Helaas is er iets fout gegaan. Probeer het later opnieuw."
+    },
+    "FALLBACK_STAGE": {
+        "GREETING": "Welkom bij uw persoonlijke dashboard",
+        "HEADLINE": "Zoek uw Mercedes-Benz op",
+        "TAG": "Selecteer uw model",
+        "BOX": {
+            "HINT": "Selecteer uw model",
+            "HEADLINE": "Zoek uw Mercedes-Benz op",
+            "TEXT": "Er staan exclusieve reportages en intrigerende features op u te wachten. Selecteer een van onze Mercedes-Benz modellen om uw reis te beginnen.",
+            "BUTTON": "Nu beginnen"
+        }
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Hallo {{customerName}}",
+        "HEADLINE_WELCOME": "Welkom bij",
+        "HEADLINE_APPLICATION": "uw persoonlijke dashboard"
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Begin aan uw reis naar uw favoriete Mercedes-Benz {{model}}",
+        "TEXT": "Waar brengt uw volgende stap u? U kunt uit diverse opties kiezen om uw ervaring op weg naar uw volgende Mercedes-Benz model te verrijken.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Voltooid"
+            },
+            "OPEN": {
+                "HEADLINE": "Volgende stappen",
+                "TEXT": "U krijgt binnenkort meer exclusief nieuws en meer interactiemogelijkheden."
+            },
+            "LOCKED": {
+                "HEADLINE": "Binnenkort verwacht"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "Registratie voor {{model}}",
+            "LINKS": {
+                "COMPLETED": "Bekijk de details"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Dealerselectie",
+            "LINKS": {
+                "OPEN": "Dealer selecteren",
+                "COMPLETED": "Dealer bekijken"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Configurator",
+            "LINKS": {
+                "OPEN": "Nu configureren",
+                "COMPLETED": "Doorgaan met configuratie"
+            }
+        },
+        "TEST_DRIVE": {
+            "TITLE": "Testrit",
+            "LINKS": {
+                "OPEN": "Boek een testrit",
+                "COMPLETED": "Bekijk de details"
+            }
+        },
+        "ONLINE_STORE": {
+            "TITLE": "Online winkel",
+            "LINKS": {
+                "OPEN": "Nu bestellen",
+                "COMPLETED": "Uw bestelling"
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Voorkeursdealer geselecteerd",
+            "POST": {
+                "HEADLINE": "Dealerselectie",
+                "TEXT": "De details van de Mercedes-Benz dealer van uw voorkeur vindt u hieronder.",
+                "EMAIL_SUBJECT": "{{model}} - Neem  contact met mij op voor meer informatie"
+            },
+            "LINK": "Bewerken"
+        },
+        "REGISTRATION": {
+            "HEADLINE": "Registratie voltooid",
+            "POST": {
+                "HEADLINE": "Registratie ",
+                "TEXT": "Overzicht van uw registratiedetails:"
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Vertel ons wat meer.",
+            "POST": {
+                "QUESTION": "Wanneer bent u van plan een EQC aan te schaffen?",
+                "ANSWER": {
+                    "QUARTER": "Drie maanden",
+                    "YEAR": "Verzenden"
+                },
+                "SAVE": "Soumettre"
+            }
+        },
+        "TESTDRIVE": {
+            "INTERESTED": {
+                "STREAMLINE": "Testrit aangevraagd",
+                "HEADLINE_MOBIL": "Testrit aangevraagd",
+                "TEXT1": "Hartelijk dank voor uw interesse in een testrit. Uw boeking voor een testrit is spoedig gereed. We hopen dat u net er zo veel zin in hebt als wij. We hebben even nodig om uw aanvraag te controleren. Uw gegevens worden automatisch bijgewerkt.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Informatie over testrit",
+                "LINK": ""
+            },
+            "REQUEST": {
+                "STREAMLINE": "Testrit aangevraagd",
+                "HEADLINE_MOBIL": "Testrit aangevraagd",
+                "TEXT1": "Hartelijk dank voor uw interesse in een testrit. We hopen dat u er veel plezier aan zult beleven. We gaan uw aanvraag controleren en melden ons snel weer bij u terug.",
+                "LINK": "Annuleer uw aanvraag voor een testrit"
+            },
+            "BOOKED": {
+                "STREAMLINE": "Testrit geboekt",
+                "HEADLINE_MOBIL": "Testrit geboekt",
+                "TEXT1": "Hartelijk dank voor uw interesse in een testrit. We hopen dat u er veel plezier aan zult beleven.",
+                "TEXT2": "Over {{days}} dagen staat de {{model}} voor u klaar.",
+                "LINK": "Testrit annuleren"
+            },
+            "FINISHED": {
+                "STREAMLINE": "Testrit voltooid",
+                "HEADLINE_MOBIL": "Testrit voltooid",
+                "TEXT1": "We hopen dat u van uw testrit hebt genoten.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Informatie over testrit",
+                "LINK": ""
+            },
+            "CAPTIONS": {
+                "LOCATION": "Ophaallocatie",
+                "INFO": "Ophaalinformatie",
+                "ID": "Boeking-ID"
+            }
+        },
+        "CONFIGURATOR": {
+            "HEADLINE": "Uw opgeslagen configuratie",
+            "POST": {
+                "TAG": "Configuratie",
+                "PRICE_TAX": "incl. belastingen*",
+                "DATE_SAVED": "Opgeslagen {{date}}",
+                "DATE_UPDATED": "Automatisch gewijzigd {{date}}",
+                "BUTTONS": {
+                    "CONFIGURATION": "Configuratie openen",
+                    "DASHBOARD": "Configuraties vergelijken"
+                }
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Meer ontdekken"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Meer weergeven"
+        },
+        "INTERACTIONS": {
+            "LIKE": {
+                "LIKED": "Leuk gevonden",
+                "NOT_LIKED": "Leuk"
+            }
+        }
+    },
+    "DEALER": {
+        "BUTTONS": {
+            "BACK": "Terug",
+            "SAVE": "Dealerselectie opslaan"
+        },
+        "LOCATOR": {
+            "HEADLINE": "Selecteer uw voorkeursdealer",
+            "SUBHEADLINE": "Op basis van het adres dat u hebt verstrekt, hebben we de volgende Mercedes-Benz dealers bij u in de buurt gevonden. Selecteer uw voorkeursdealer uit deze lijst of voer een nieuwe postcode in om naar andere Mercedes-Benz dealers te zoeken.",
+            "ERROR": "Selecteer uw voorkeursdealer uit de lijst.",
+            "VALIDATION": {
+                "AMOUNT": "0 dealers gevonden",
+                "MESSAGE": "We hebben uw locatie niet gevonden. Geef een geldige postcode of plaatsnaam op."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "Postcode/plaats"
+            },
+            "FOOTNOTE": "*Graag wijzen we u erop dat in deze lijst uitsluitende erkende dealers van Mercedes-Benz personenwagens worden weergegeven."
+        },
+        "USAGE": {
+            "HEADLINE": "Wat voor soort klant bent u?",
+            "PARAGRAPH": "We willen u graag alleen informatie verstrekken die voor u relevant is. Daarom verzoeken we u ons te laten weten of u uw Mercedes-Benz voor privé- of zakelijke doeleinden gaat gebruiken.",
+            "PRIVATE": "Particuliere klant",
+            "BUSINESS": {
+                "LABEL": "Zakelijke klant",
+                "PLACEHOLDER": "Bedrijfsnaam",
+                "INFO": "*Voertuig is op een bedrijfsnaam geregistreerd.",
+                "ERROR": "De bedrijfsnaam mag niet leeg zijn of de volgende tekens bevatten: '&lt;>;!'"
+            },
+            "ERROR": "Selecteer hieronder het klanttype dat u het beste beschrijft."
+        }
+    },
+    "SIMSEARCH": {
+        "HEADLINE": "Op basis van uw configuratie beschikbare standaardmodellen:",
+        "SIMILARITY": "Overeenkomst met uw configuratie",
+        "PRICE": "Totaalprijs",
+        "BUTTON_OFFER": "Details bekijken",
+        "TECHNICALVALUES": {
+            "ENGINEFUEL": "Brandstof",
+            "ENGINEPOWER": "Vermogen",
+            "ENGINETYPE": "Drive type",
+            "ENGINECONCEPT": "Drive type",
+            "EMISSIONSTANDARD": "Abgasnorm",
+            "TRANSMISSION": "Transmissie",
+            "TOPSPEED": "Topsnelheid",
+            "CONSUMPTIONCOMBINED": "Brandstofverbruik gecombineerd",
+            "CO2EMISSIONCOMBINED": "CO₂-emissie, gecombineerd",
+            "ENERGYEFFICIENCYCLASS": "CO₂-efficiëntie",
+            "ELECTROCONSUMPTION": "Totaal elektrisch verbruik (gecombineerd)"
+        }
+    },
+    "OBLIGATION": {
+        "PARAGRAPH": "Wij, Mercedes-Benz Belgium Luxembourg NV, gebruiken uw hier verstrekte gegevens uitsluitend om u op de hoogte te houden van alles wat de {{model}} betreft en u te benaderen in het kader van uw registratie aan onze {{model}}-tool. Wij verstrekken uw gegevens hiervoor uitsluitend aan de door u aangegeven Mercedes-Benz partner. Wij gebruiken uw gegevens niet voor andere doeleinden en verstrekken deze niet aan andere derden.",
+        "LINK_TEXT": "Om onze privacy statement te raadplegen, klik <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.be/nl_BE/passengercars/content-pool/tool-pages/legal/privacy-statement.html\">hier</a>."
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Verklaring betreffende het gebruik en de verwerking van uw persoonsgegevens",
+            "PGPH1": "Wij, Mercedes-Benz Cars Belgium Luxembourg SA, gebruiken uw hier verstrekte gegevens uitsluitend om u te benaderen in verband met de lancering van het bovengenoemde model en acties/evenementen in verband met het bovengenoemde model. Wij verstrekken uw gegevens hiervoor uitsluitend aan de door u aangegeven Mercedes-Benz partner en/of die geografisch het dichtst bij het opgegeven adres gelegen is. Wij gebruiken uw gegevens niet voor andere doeleinden en verstrekken deze niet aan derden."
+        },
+        "ENUMERATION": {
+            "PROLOG": "",
+            "OPTIONS": {},
+            "EPILOG": ""
+        },
+        "CHANNELS": {
+            "PGPH1": "Indien u aanvullende informatie en advies per telefoon, e-mail en/of post wilt ontvangen over de bovengenoemde producten en diensten van Mercedes-Benz, gelieve hier uw toestemming te geven aan Mercedes-Benz Cars Belgium Luxembourg SA om uw persoonsgegevens te gebruiken om u te informeren over de productnieuwigheden, speciale aanbiedingen en evenementen van Mercedes Benz via de volgende kanalen:",
+            "OPTIONS": {
+                "PHONE": "Telefoon",
+                "EMAIL": "E-mail",
+                "POST": "Post"
+            },
+            "LABEL": {
+                "YES": "ja",
+                "NO": "nee"
+            },
+            "ERROR": {
+                "PHONE": "Selecteer optie voor telefoon",
+                "EMAIL": "Selecteer optie voor e-mail",
+                "POST": "Selecteer optie voor post"
+            }
+        },
+        "ACCORDION": {
+            "TITLE": "Bijkomende informatie over ons privacy statement en uw rechten.",
+            "HEADLINE": "Instemmingsverklaring omtrent de bescherming van persoonsgegevens en uw rechten:",
+            "PARAGRAPHS": {
+                "1": "De gegevens worden gebruikt om me schriftelijk, gedurende een persoonlijk gesprek of via het door mij gekozen contactkanaal geïndividualiseerde aanbiedingen voor te leggen die op mijn interesses zijn gericht (bijv. testritten, evenementen, speciale aanbiedingen, dienstverleningen tijdens een bezoek aan de dealer). Hiertoe kunnen analysemethoden, waaronder profilering, worden gebruikt om mijn interesses en voorkeuren te toetsen.",
+                "2": "De verwerking van uw persoonlijke gegevens voor bovengenoemde doeleinden is gebaseerd op een gerechtvaardigd belang en uw toetemming. Het geven van toestemming is vrijwillig. We verwerken uw persoonsgegevens op basis van deze verklaring voor de vermelde totdat u uw toestemming intrekt of bezwaar maakt tegen de verwerking. U kunt hiervoor te allen tijde contact met ons opnemen via post (Mercedes Benz Belgium Luxembourg NV – Data Protection Coordinator - Tollaan 68 – B-1200 Brussel) of via e-mail (dataservices.belux@daimler.com of data.protection@daimler.com). Het intrekken van toestemming heeft geen invloed op de rechtmatigheid van verwerkingsactiviteiten op basis van toestemming voorafgaand aan de intrekking of andere rechtmatige verwerkingsactiviteiten.  U hebt te allen tijde het recht om details over uw persoonsgegevens te krijgen, het recht op rechtzetting en vernietiging ervan, het recht de verwerking ervan te beperken en het recht een klacht aan ons of een toezichthoudende autoriteit te uiten. U bent vrij om uw recht op gegevensoverdraagbaarheid uit te oefenen.",
+                "3": "Uw persoonsgegevens worden niet langer opgeslagen dan nodig is voor het bereiken van bovengenoemde doeleinden en niet langer dan vijf jaar vanaf het moment dat wij voor het laatst contact met u hebben opgenomen of gedurende een langere periode indien vereist door de toepasbare bewaarverplichtingen.",
+                "4": "Onze verantwoordelijke voor gegevensbescherming is als volgt bereikbaar: Mercedes-Benz Belgium Luxembourg NV - Data Protection Coordinator - Tollaan 68 – B-1200 Brussel.",
+                "5": "U hebt ook het recht om te allen tijde tegen de verwerking van persoonsgegevens ten behoeve van direct marketing in te gaan. Hetzelfde geldt voor de verwerking van uw persoonsgegevens inclusief het opstellen van een profiel, voor zover dit verband houdt met direct marketing."
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "Ik bevestig dat ik de verklaring van toestemming in het kader van gegevensbescherming heb gelezen en geaccepteerd.",
+            "ERROR": "Gelieve te bevestigen dat u de verklaring van toestemming in het kader van gegevensbescherming hebt gelezen en geaccepteerd."
+        },
+        "BUTTON": {
+            "CONFIRM": "Keuze bevestigen"
+        }
+    },
+    "VEHICLE": {
+        "TECHNICALDATA": {
+            "ENGINE": {
+                "FUELTYPE": "Brandstof",
+                "ENGINEPERFORMANCE": "Vermogen",
+                "TYPEOFPROPULSION": "Drive type"
+            },
+            "GEAR": "Transmissie",
+            "ENERGYEFFICIENCYCLASS": "CO₂-efficiëntie",
+            "WLTP": {
+                "EMISSIONTOTALPRIMARYGEARINDIVIDUAL": "Totale CO₂-uitstoot (gecombineerd)",
+                "CONSUMPTIONTOTALPRIMARYGEARINDIVIDUAL": "Totaal verbruik (gecombineerd)",
+                "RANGETOTALALLELECTRICINDIVIDUAL": "Elektrisch bereik",
+                "EMISSIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Totale CO₂-uitstoot (gecombineerd)",
+                "CONSUMPTIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Brandstofverbruik gecombineerd",
+                "CONSUMPTIONCHARGEDEPLETEWEIGHTEDSECONDARYGEARINDIVIDUAL": "Totaal elektrisch verbruik (gecombineerd)"
+            }
+        },
+        "RANGE": {
+            "TITLE": "Verbruik/CO₂-emissie, gecombineerd",
+            "CONSUMPTIONCOMBINED": "brandstofverbruik",
+            "CONSUMPTIONCOMBINED_ELECTRIC": "elektriciteit",
+            "EMISSIONCOMBINED": "CO₂",
+            "ENERGYEFFICIENCYCLASS": "Efficiëntieklassen"
+        },
+        "FOOTNOTES": {
+            "DISCLAIMER": "",
+            "1": "The indicated values were determined according to the prescribed measurement method. These are the \"NEDC CO₂ values\" according to Art. 2 No. 1 Implementing Regulation (EU) 2017/1153.The figures do not refer to an individual vehicle and are not part of the offer; they are provided solely for the purposes of comparison between different vehicle models. The values vary depending on the chosen optional extras.",
+            "2": "De aangegeven waarden werden bepaald volgens de voorgeschreven meetprocedure. Dit zijn \\\"WLTP CO₂-waarden\\\" i.S.v. Artikel 2 Uitvoeringsverordening (EU) 2017/1153. De brandstofverbruikswaarden werden berekend op basis van deze waarden. Het elektriciteitsverbruik werd bepaald op basis van VO 683/2008 / EC. De informatie verwijst niet naar een specifiek voertuig en maakt geen deel uit van het aanbod, maar dient alleen ter vergelijking tussen verschillende voertuigtypen. De waarden variëren afhankelijk van de geselecteerde optionele uitrusting",
+            "3": "Die angegebenen Werte sind die „gemessenen NEFZ- CO2 -Werte“ i.S.v. Art. 2 Nr. 2 Durchführungsverordnung (EU) 2017/1153, die im Einklang mit Anhang XII der Verordnung (EG) Nr. 692/2008 ermittelt wurden. Die Kraftstoffverbrauchswerte wurden auf Basis dieser Werte errechnet. Aufgrund gesetzlicher Änderungen der maßgeblichen Prüfverfahren können in der für die Fahrzeugzulassung und ggf. Kfz-Steuer maßgeblichen Übereinstimmungsbescheinigung des Fahrzeugs höhere Werte eingetragen sein. Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebots, sondern dienen allein Vergleichszwecken zwischen verschiedenen Fahrzeugtypen. Die Werte variieren in Abhängigkeit der gewählten Sonderausstattungen.",
+            "4": "Vermogen: het motorvermogen is samengesteld uit de waarde voor de verbrandingsmotor (linker waarde) en de waarde voor de elektromotor (rechter waarde).",
+            "5": "Die CO2-Effizienz eines Fahrzeugs ist abhängig von der Art des Getriebes oder der Räder und kann sich während der Konfiguration verändern.",
+            "6": "Anbieter: Mercedes-Benz Leasing GmbH, Siemensstraße 7, 70469 Stuttgart. Ist der Leasingnehmer Verbraucher, besteht nach Vertragsschluss ein gesetzliches Widerrufsrecht nach §495 BGB. Aktion P9030",
+            "7": "Als registrierter Mercedes me Nutzer können Sie Ihre Konfiguration in Ihrem Mercedes me Account speichern. Dazu werden Sie automatisch über den Mercedes me Registrierungs-/Login Dialog zu Ihren persönlichen Konfigurationen weitergeleitet."
+        }
+    }
+}

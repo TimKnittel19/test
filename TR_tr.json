@@ -1,0 +1,199 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Kişisel kontrol paneli",
+            "PGPH1": "Kişisel kontrol paneline sadece kayıtlı müşteriler erişebilir. Sizi yeni Mercedes-Benz'inize yönlendirecek bilgiler ve heyecan verici özelliklerle dolu kişisel gösterge panelinize erişmek için lütfen giriş yapın veya kaydolun.",
+            "PGPH2": "",
+            "TEASER": {
+                "1": "Özel İçerik",
+                "2": "Aktiviteler",
+                "3": "İnteraktif Temas Noktaları"
+            },
+            "BUTTON": "Oturum aç"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Kişisel kontrol paneli - Henüz bir kayıt yok",
+            "PGPH1": "Yeni Mercedes-Benz araçlarımız hakkında haberleri öğrenmek mi istiyorsunuz?",
+            "PGPH2": "O halde buradan kaydolun ve güncel bilgilerden haberdar olun.",
+            "TEASER": "Modelinizi seçin ve ilgili kayıt sürecini başlatın",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Kayıt ol {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "Üzgünüz, bir sorun meydana geldi.",
+        "PGPH1": "Maalesef bir sorun meydana geldi. Lütfen daha sonra tekrar deneyin."
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Merhaba {{customerName}}",
+        "HEADLINE_WELCOME": "",
+        "HEADLINE_APPLICATION": "Kişisel kontrol panelinize hoş geldiniz"
+        "FOOTNOTE": {
+            "EQC": "EQC 400 4MATIC: kWh/100 km cinsinden elektrik tüketimi (karma): 22,3; g/km cinsinden CO2 emisyonları (karma): 0. Ön bilgi.[1]"
+        }
+    },
+    "ACTIVITY": {
+        "HEADLINE": "EQC yolculuğunuza başlayın",
+        "TEXT": "Aşağıdaki dijital dokunma noktalarından birine tıklayarak kişisel EQ deneyiminizi arttırın.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Tamamlandı"
+            },
+            "OPEN": {
+                "HEADLINE": "Sonraki Adımlar",
+                "TEXT": "Güncel haberler ve yeni özellikler için EQ Insights ekranını sık sık kontrol edin."
+            },
+            "LOCKED": {
+                "HEADLINE": "Çok Yakında"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "EQC Kaydı",
+            "LINKS": {
+                "OPEN": "",
+                "COMPLETED": "Ayrıntılara bakın"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Bayi Seçimi",
+            "LINKS": {
+                "OPEN": "Bayi seçin",
+                "COMPLETED": "Bayiyi Gör"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Konfigüratör",
+            "LINKS": {
+                "OPEN": "EQC'nizi konfigüre edin",
+                "COMPLETED": "Konfigürasyona Devam Et"
+            }
+        },
+        "FIRSTCONTACT": {
+            "TITLE": "İletişim",
+            "LINKS": {
+                "OPEN": "İletişimi Başlat",
+                "COMPLETED": ""
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Bayi Seçimi Tamamlandı",
+            "POST": {
+                "HEADLINE": "Bayi Seçimi",
+                "TEXT": "Aşağıdaki Mercedes-Benz EQ bayisini tercih edilen bayiniz olarak seçtiniz.",
+                "PERSONAL_HEADLINE": "",
+                "EMAIL_SUBJECT": ""
+            },
+            "LINK": ""
+        },
+        "REGISTRATION": {
+            "HEADLINE": "EQC Kaydı Tamamlandı",
+            "POST": {
+                "HEADLINE": "EQC Kaydı",
+                "TEXT": "Bilgileriniz:",
+                "PERSONAL_HEADLINE": ""
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Bize biraz daha bilgi verin.",
+            "POST": {
+                "QUESTION": "Ne zaman bir EQC almayı planlıyorsunuz?",
+                "ANSWER": {
+                    "QUARTER": "çeyrek",
+                    "YEAR": "Yıl"
+                },
+                "SAVE": "Gönder"
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Daha fazlasını keşfet"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Daha fazla göster"
+        }
+    },
+    "FOOTNOTE": {
+        "EQC": {
+            "PARAGRAPHS": {
+                "1": "Belirtilen değerler yasal olarak şart koşulan ölçme teknikleri ile elde edilmiştir. Akım tüketimi ve menzil 692/2008/EG sayılı VO uyarınca tespit edilmiştir. Akım tüketimi ve menzil, araç yapılandırmasına bağlıdır."
+            }
+        },
+        "GLA": {}
+    },
+    "DEALER": {
+        "HEADLINE": "Bir sonraki adımı atın ve tercih ettiğiniz bayiyi seçin.",
+        "PARAGRAPH": "",
+        "BUTTONS": {
+            "BACK": "Geri",
+            "SAVE": "Bayi seç",
+            "START": "Bayi seç"
+        },
+        "CARD": {
+            "HEADLINE": "Bayi Seçimi Tamamlandı",
+            "PLACEHOLDER": "Aşağıdaki Mercedes-Benz EQ bayisini tercih edilen bayiniz olarak seçtiniz.",
+            "BUTTONS": {
+                "ADD": "Bayi seçin"
+            }
+        },
+        "LOCATOR": {
+            "HEADLINE": "Tercih Edilen Mercedes-Benz EQ Bayisi",
+            "SUBHEADLINE": "Kayıt esnasında verdiğiniz adres bilgileriniz temelinde aşağıdaki Mercedes-Benz EQ Bayilerini bulduk. Lütfen bu listeden tercih ettiğiniz bayiyi seçin veya başka bir Mercedes-Benz EQ Bayisi için arama kriterlerini değiştirin.",
+            "ERROR": "Tercih edilen bayi bilgisini kaydetmek için lütfen listeden bayi seçin.",
+            "SELECTION": "Tercih ettiğiniz bayi seçiminiz:",
+            "VALIDATION": {
+                "AMOUNT": "0 bayi bulundu.",
+                "MESSAGE": "Lütfen geçerli bir posta kodu veya şehir girin."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "Posta kodu/ Şehir",
+                "ERROR": "0 bayi bulundu. Lütfen geçerli bir posta kodu veya şehir girin."
+            },
+            "FOOTNOTE": "*Lütfen listede sadece yetkili Mercedes-Benz EQ bayilerinin gösterildiğini unutmayın."
+        },
+        "USAGE": {
+            "HEADLINE": "Müşteri grubu",
+            "PARAGRAPH": "Satış sürecinde size ideal hizmeti sunabilmek için EQC'yi şirket aracı olarak mı yoksa şahıs aracı olarak mı kullanmayı düşündüğünüzü öğrenmeyi çok isteriz.",
+            "PRIVATE": "Şahıs aracı",
+            "BUSINESS": {
+                "LABEL": "Şirket aracı",
+                "PLACEHOLDER": "Şirket adı",
+                "INFO": "*Vehicle is registered under a company name.",
+                "ERROR": "Şirket adı alanı boş bırakılamaz veya aşağıdaki karakterleri içeremez: '<>;!'"
+            },
+            "ERROR": "Şirket adı alanı boş bırakılamaz veya aşağıdaki karakterleri içeremez: '<>;!'"
+        }
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "",
+            "PGPH1": ""
+        },
+        "CHANNELS": {
+            "PGPH1": "Mercedes Benz Otomotiv ve MBFH (Mercedes- Benz Finansal Hizmetler) tarafından, yukarıda yer alan iletişim bilgilerime aşağıdaki kanallardan otomobil ürün grubuyla ilgili ticari elektronik ileti gönderilmesini <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://dsea.tfaforms.net/185\">kabul ediyorum</a>.",
+            "OPTIONS": {
+                "PHONE": "Telefon",
+                "EMAIL": "E-Posta",
+                "POST": "Posta",
+                "TEXT_MESSAGE": "SMS"
+            },
+            "LABEL": {
+                "YES": "Evet",
+                "NO": "Hayır"
+            },
+            "ERROR": {
+                "PHONE": "Lütfen telefon için seçim yapınız",
+                "TEXT_MESSAGE": "Lütfen SMS için seçim yapınız",
+                "EMAIL": "Lütfen e-posta için seçim yapınız",
+                "POST": "Lütfen posta için seçim yapınız"
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "<a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://dsea.tfaforms.net/184\">Mercedes Benz Otomotiv Ticaret ve Hizmetleri A.Ş. Kişisel Verilerin İşlenmesi Aydınlatma Metni’nde</a> belirtildiği üzere kişisel verilerimin müşteri kaydı oluşturulması ve bu kapsamda; ürün ve hizmetlerin beğeni, kullanım alışkanlıkları ve ihtiyaçlarıma göre özelleştirilerek önerilmesi ile satış ve pazarlama faaliyetleri amacıyla işlenmesini ve bu kapsamda hizmet alınan üçüncü kişilerle paylaşılmasını kabul ediyorum.",
+            "ERROR": "Lütfen Kişisel Verilerin Korunması beyanı onayını kontrol edin."
+        },
+        "BUTTON": {
+            "CONFIRM": "Seçiminizi onaylayın"
+        }
+    }
+}

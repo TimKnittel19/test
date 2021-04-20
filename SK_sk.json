@@ -1,0 +1,301 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Osobný ovládací panel",
+            "PGPH1": "Osobný ovládací panel je dostupný len pre registrovaných zákazníkov. Prihláste sa alebo sa zaregistrujte a získajte prístup k svojmu osobnému ovládaciemu panelu plnému exkluzívnych náhľadov a vzrušujúcich funkcií, ktoré vás navedú k vášmu novému vozidlu Mercedes-Benz.",
+            "TEASER": {
+                "1": "Exkluzívny obsah",
+                "2": "Užitočné funkcie",
+                "3": "Uložiť a porovnať"
+            },
+            "BUTTON": "Prihlásiť sa"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Osobný ovládací panel – nie ste zaregistrovaní",
+            "PGPH1": "Máte záujem o získavanie exkluzívnych noviniek o pripravovaných modeloch Mercedes-Benz?",
+            "PGPH2": "Zaregistrujte sa pre svoj model a získavajte exkluzívne aktualizácie.",
+            "TEASER": "Vyberte si svoj model a spustite proces registrácie",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Registrovať sa pre {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "Ospravedlňujeme sa, niečo sa pokazilo.",
+        "PGPH1": "Niečo sa, žiaľ, pokazilo. Prosím, skúste to znova neskôr."
+    },
+    "FALLBACK_STAGE": {
+        "GREETING": "Vitajte vo svojom ovládacom paneli",
+        "HEADLINE": "Nájdite svoj Mercedes-Benz",
+        "TAG": "Vybrať svoj model",
+        "BOX": {
+            "HINT": "Výber vášho modelu",
+            "HEADLINE": "Nájdite svoj Mercedes-Benz",
+            "TEXT": "Čakajú na vás exkluzívne informácie a vzrušujúce funkcie. Vyberte si jeden z našich modelov Mercedes-Benz, o ktorý máte záujem, a začnite svoju cestu.",
+            "BUTTON": "Začať teraz"
+        }
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Dobrý deň, {{customerName}}",
+        "HEADLINE_WELCOME": "Vitajte",
+        "HEADLINE_APPLICATION": "vo svojom ovládacom paneli"
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Začnite svoju cestu k svojmu obľúbenému modelu: {{model}}",
+        "TEXT": "Kam vás zavedie váš ďalší krok? Môžete si vybrať zo širokého spektra možností, ako vylepšiť svoju skúsenosť na ceste k vášmu ďalšiemu vozidlu Mercedes-Benz.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Dokončené"
+            },
+            "OPEN": {
+                "HEADLINE": "Ďalšie kroky",
+                "TEXT": "Čoskoro vám zašleme ďalšie exkluzívne novinky a možnosti interakcie."
+            },
+            "LOCKED": {
+                "HEADLINE": "Už čoskoro"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "Registrácia pre {{model}}",
+            "LINKS": {
+                "OPEN": "",
+                "COMPLETED": "Pozrieť podrobnosti"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Výber zmluvného partnera",
+            "LINKS": {
+                "OPEN": "Vybrať zmluvného partnera",
+                "COMPLETED": "Pozrieť zmluvného partnera"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Konfigurátor",
+            "LINKS": {
+                "OPEN": "Konfigurovať teraz",
+                "COMPLETED": "Pokračovať v konfigurácii"
+            }
+        },
+        "TEST_DRIVE": {
+            "TITLE": "Predvádzacia jazda",
+            "LINKS": {
+                "OPEN": "Rezervovať predvádzaciu jazdu",
+                "COMPLETED": "Pozrieť podrobnosti"
+            }
+        },
+        "ONLINE_STORE": {
+            "TITLE": "Internetový obchod",
+            "LINKS": {
+                "OPEN": "Objednať teraz",
+                "COMPLETED": "Vaša objednávka"
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Preferovaný zmluvný partner vybraný",
+            "POST": {
+                "HEADLINE": "Výber zmluvného partnera",
+                "TEXT": "Informácie o vami preferovanom zmluvný partnerovi Mercedes-Benz nájdete nižšie.",
+                "EMAIL_SUBJECT": "{{model}} – Chcem, aby ma kontaktovali s bližšími informáciami"
+            },
+            "LINK": "Upraviť"
+        },
+        "REGISTRATION": {
+            "HEADLINE": "Registrácia dokončená",
+            "POST": {
+                "HEADLINE": "Registrácia",
+                "TEXT": "Prehľad vašich registračných údajov:"
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Povedzte nám viac",
+            "POST": {
+                "QUESTION": "Kedy by ste si želali vlastniť svoje vozidlo EQC?",
+                "ANSWER": {
+                    "QUARTER": "Štvrťrok",
+                    "YEAR": "Rok"
+                },
+                "SAVE": "Odoslať"
+            }
+        },
+        "TESTDRIVE": {
+            "INTERESTED": {
+                "STREAMLINE": "Predvádzacia jazda vyžiadaná",
+                "HEADLINE_MOBIL": "Predvádzacia jazda vyžiadaná",
+                "TEXT1": "Teší nás váš záujem o predvádzaciu jazdu. Vaša rezervácia predvádzacej jazdy bude onedlho pripravená a pevne veríme, že sa tešíte minimálne tak veľmi ako my. Prosíme o strpenie, preverujeme vašu požiadavku a vaše informácie budú aktualizované automaticky.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Informácie o predvádzacej jazde",
+                "LINK": ""
+            },
+            "REQUEST": {
+                "STREAMLINE": "Predvádzacia jazda vyžiadaná",
+                "HEADLINE_MOBIL": "Predvádzacia jazda vyžiadaná",
+                "TEXT1": "Teší nás váš záujem o predvádzaciu jazdu a dúfame, že sa na ňu tešíte. Skontrolujeme vašu požiadavku a čoskoro sa s vami spojíme.",
+                "LINK": "Zrušiť požiadavku na predvádzaciu jazdu"
+            },
+            "BOOKED": {
+                "STREAMLINE": "Predvádzacia jazda rezervovaná",
+                "HEADLINE_MOBIL": "Predvádzacia jazda rezervovaná",
+                "TEXT1": "Teší nás váš záujem o predvádzaciu jazdu a dúfame, že sa na ňu tešíte.",
+                "TEXT2": "Predvádzacia jazda sa uskutoční o {{days}} dní. Tešte sa aj naďalej.",
+                "LINK": "Zrušiť predvádzaciu jazdu"
+            },
+            "FINISHED": {
+                "STREAMLINE": "Predvádzacia jazda zrušená",
+                "HEADLINE_MOBIL": "Predvádzacia jazda zrušená",
+                "TEXT1": "Dúfame, že sa vám predvádzacia jazda páčila.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Informácie o predvádzacej jazde",
+                "LINK": ""
+            },
+            "CAPTIONS": {
+                "LOCATION": "Miesto vyzdvihnutia",
+                "INFO": "Informácie o vyzdvihnutí",
+                "ID": "ID rezervácie"
+            }
+        },
+        "CONFIGURATOR": {
+            "HEADLINE": "Vaše uložené vozidlá",
+            "POST": {
+                "TAG": "Konfigurácia",
+                "PRICE_TAX": "s DPH",
+                "DATE_SAVED": "Uložené dňa {{date}}",
+                "DATE_UPDATED": "Automaticky zmenené dňa {{date}}",
+                "BUTTONS": {
+                    "CONFIGURATION": "Otvoriť konfiguráciu",
+                    "DASHBOARD": "Porovnať konfigurácie"
+                }
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Objaviť viac"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Zobraziť viac"
+        },
+        "INTERACTIONS": {
+            "LIKE": {
+                "LIKED": "Páči sa mi to",
+                "NOT_LIKED": "Páči sa mi to"
+            }
+        }
+    },
+    "DEALER": {
+        "BUTTONS": {
+            "BACK": "Späť",
+            "SAVE": "Uložiť výber zmluvného partnera"
+        },
+        "LOCATOR": {
+            "HEADLINE": "Vybrať preferovaného zmluvného partnera",
+            "SUBHEADLINE": "Na základe vami uvedenej adresy sme pre vás našli nasledujúcich zmluvných partnerov Mercedes-Benz vo vašom okolí. Vyberte si, prosím, svojho preferovaného zmluvného partnera Mercedes-Benz z tohto zoznamu, alebo zadajte iné PSČ s cieľom vyhľadať ďalších zmluvných partnerov Mercedes-Benz.",
+            "ERROR": "Vyberte si svojho preferovaného zmluvného partnera Mercedes-Benz zo zoznamu.",
+            "VALIDATION": {
+                "AMOUNT": "0 nájdených zmluvný partnerov",
+                "MESSAGE": "Nepodarilo sa nám nájsť vašu polohu. Zadajte, prosím, platné PSČ alebo mesto."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "PSČ/mesto"
+            },
+            "FOOTNOTE": "* Berte, prosím, na vedomie, že v zozname sa zobrazujú iba zmluvní partneri osobných vozidiel Mercedes-Benz."
+        },
+        "USAGE": {
+            "HEADLINE": "Aký typ zákazníka ste?",
+            "PARAGRAPH": "Aby sme vám poskytli čo najrelevantnejšie informácie, uveďte, prosím, či budete vaše vozidlo Mercedes-Benz využívať na súkromné alebo komerčné účely.",
+            "PRIVATE": "Súkromné využitie",
+            "BUSINESS": {
+                "LABEL": "Komerčné využitie",
+                "PLACEHOLDER": "Názov spoločnosti",
+                "INFO": "* Vozidlo bude v prípade záujmu o kúpu registrované na uvedenú spoločnosť.",
+                "ERROR": "Názov spoločnosti sa nesmie vynechať ani obsahovať tieto symboly: '&lt;>;!'"
+            },
+            "ERROR": "Vyberte, prosím, nižšie typ zákazníka, ktorý vás najviac vystihuje."
+        }
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Súhlas so spracúvaním osobných údajov",
+            "PGPH1": "Radi by sme Vám poskytli informácie a ponuku v súlade s Vašimi záujmami. Preto Vás prosíme o poskytnutie súhlasu s použitím Vašich údajov. Budeme s nimi starostlivo a dôsledne zaobchádzať  a zabezpečíme ich súkromie a dôvernosť.<br><br>Áno, súhlasím so spracúvaním mojich osobných údajov za účelom (i) kontaktovania a prijímania ponúk, informácií o výrobkoch, službách a podujatiach prevádzkovateľov (ii) zisťovania spokojnosti alebo lojálnosti zákazníkov, (iii) zaradenia do spotrebiteľských súťaží, (iv)  zdieľania údajov v rámci skupiny Mercedes-Benz AG vrátene jej autorizovaných dílerov a opravovní. V tejto súvislosti udeľujem súhlas pre: Mercedes-Benz Slovakia s.r.o, so sídlom Tuhovská 5, 831 07, Bratislava, IČO 35 780 754, zapísaná v Obchodnom registri Okresného súdu Bratislava I, Oddiel: Sro, Vložka č.: 21018/B a ako aj materskej spoločnosti Mercedes-Benz AG so sídlom Mercedesstrasse 137/1, 70327 Stuttgart, Nemecko zapísaná pod identifikačným číslom: HRB-Nr. 19360 v Obchodnom registri Okresného súdu v Stuttgarte a spoločnosti, ktoré sú s ňou právne spojené („prevádzkovatelia“).<br><br>Svoj súhlas so spracúvaním osobných údajov poskytujem v nasledovnom rozsahu: kontaktné údaje a údaje, ktoré som uviedol ohľadne svojej osoby v rámci uzatvorenia zmluvy alebo online registrácie (napr. meno, adresa, e-mailová adresa, telefónne číslo, Instant Messenger ID, adresy v sociálnych sieťach, záujmy) a/alebo údaje o mojom vozidle (napr. konfigurácia vozidla, počet najazdených kilometrov, údaje digitálnej servisnej knižky) a/alebo  údaje o zakúpených výrobkoch a o využitých servisných službách (napr. leasingové zmluvy, rezervované služby Mercedes me connect, uložené konfigurácie vozidiel.<br><br>Údaje sa používajú k tomu, aby mi boli písomne, v osobnom rozhovore alebo prostredníctvom mnou zvoleného kontaktného kanálu predkladané ponuky, ktoré sú individualizované a zvolené podľa mojich záujmov a preferencií (napr. skúšobné jazdy, podujatia, špeciálne ponuky, servisné výkony počas návštevy predajcu). Aby to bolo možné, budú použité analytické postupy vrátane vytvorenia profilovania."
+        },
+        "ENUMERATION": {
+            "PROLOG": "",
+            "OPTIONS": {
+                "1": "",
+                "2": "",
+                "3": ""
+            },
+            "EPILOG": ""
+        },
+        "CHANNELS": {
+            "PGPH1": "Prečítal/a som si vyhlásenie súhlasu so spracúvaním osobných údajov a súhlasím s uchovávaním a používaním svojich údajov. Môžete ma kontaktovať nasledujúcim spôsobom:",
+            "OPTIONS": {
+                "PHONE": "telefonicky (osobné rozhovory)",
+                "EMAIL": "elektronickou poštou (hlavne e-mail, SMS, messenger)",
+                "POST": "poštou"
+            },
+            "LABEL": {
+                "YES": "áno",
+                "NO": "nie"
+            },
+            "ERROR": {
+                "PHONE": "Vyberte možnosť telefonicky",
+                "EMAIL": "Vyberte možnosť e-mailom",
+                "POST": "Vyberte možnosť poštou"
+            }
+        },
+        "ACCORDION": {
+            "TITLE": "Ďalšie informácie týkajúce sa našich podmienok ochrany osobných údajov a Vašich práv:",
+            "HEADLINE": "Spracúvanie Vašich osobných údajov za uvedeným účelom sa vykoná na základe predmetného súhlasu. Vyhlásenie o poskytnutí Vášho súhlasu je dobrovoľné. Vaše osobné údaje budeme za uvedeným účelom spracúvať dovtedy, kým neodvoláte svoj súhlas alebo nenamietnete spracúvanie*. Pre tento účel, môžete kedykoľvek využiť napr. portál Mercedes me, ak ste si tam vytvorili účet, alebo sa na nás môžete obrátiť alebo <a class=\"wb-e-link-8\" href=\"mailto:dialog.sk@daimler.com\">dialog.sk@daimler.com</a> alebo písomne na Mercedes-Benz AG, HPC V420, 10878 Berlin, <a class=\"wb-e-link-8\" href=\"mailto:DoC-Support@daimler.com\">DoC-Support@daimler.com</a>. Odvolaním Vášho súhlasu nemá vplyv na zákonnosť spracúvania vychádzajúceho zo súhlasu pred jeho odvolaním.",
+            "PARAGRAPHS": {
+                "1": "Vaše osobné údaje prevádzkovateľ neuchováva na dlhšie obdobie ako je potrebné na dosiahnutie vyššie uvedených účelov, maximálne na dobu 5 rokov odo dňa dátumu posledného kontaktu medzi prevádzkovateľom a Vami.",
+                "2": "Zodpovednú osobu za ochranu osobných údajov môžete kontaktovať na <a class=\"wb-e-link-8\" href=\"mailto:dialog.sk@daimler.com\">dialog.sk@daimler.com</a>.",
+                "3": "*Taktiež máte právo kedykoľvek a bezplatne vzniesť námietky proti spracúvaniu Vašich osobných údajov na účely priameho marketingu a profilovania, ktoré súvisí s priamym marketingom. Ako dotknutá osoba máte právo kedykoľvek odvolať svoj súhlas. Odvolanie súhlasu nemá vplyv na zákonnosť spracúvania vychádzajúceho zo súhlasu pred jeho odvolaním."
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "Potvrdzujem, že som si prečítal/a a súhlasím s vyhlásením o spracúvaní osobných údajov.",
+            "ERROR": "Potvrďte, prosím, že ste si prečítali a súhlasíte s vyhlásením."
+        },
+        "BUTTON": {
+            "CONFIRM": "Potvrdiť svoj výber"
+        }
+    },
+    "VEHICLE": {
+        "TECHNICALDATA": {
+            "ENGINE": {
+                "FUELTYPE": "Druh paliva",
+                "ENGINEPERFORMANCE": "Výkon",
+                "CYLINDER": "Valce/valcov"
+            },
+            "GEAR": "Prevodovka",
+            "ENERGYEFFICIENCYCLASS": "",
+            "WLTP": {
+                "CONSUMPTIONELECTRICINDIVIDUAL": "Spotreba energie (kombinovaná)",
+                "EMISSIONCOMBINEDPRIMARYGEARINDIVIDUAL": "Emisie CO₂ kombinované",
+                "CONSUMPTIONCOMBINEDPRIMARYGEARINDIVIDUAL": "Spotreba paliva kombinovaná",
+                "CONSUMPTIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Spotreba paliva kombinovaná",
+                "CONSUMPTIONWEIGHTEDSECONDARYGEARINDIVIDUAL": "Kombinovaná spotreba elektrickej energie",
+                "EMISSIONWEIGHTEDINDIVIDUAL": "Emisie CO₂ kombinované",
+                "ELECTRICRANGEINDIVIDUAL": "Elektrický dojazd",
+                "EMISSIONTOTALPRIMARYGEARINDIVIDUAL": "Celkové emisie CO₂(kombinované)",
+                "CONSUMPTIONTOTALPRIMARYGEARINDIVIDUAL": "Celková spotreba (kombinovaná)",
+                "EMISSIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Vážené emisie CO₂",
+                "CONSUMPTIONCHARGEDEPLETEWEIGHTEDSECONDARYGEARINDIVIDUAL": "Vážené Spotreba energie (kombinovaná)",
+                "RANGETOTALALLELECTRICINDIVIDUAL": "Celý elektrický dosah"
+            }
+        },
+        "RANGE": {
+            "TITLE": "Spotreba/kombinované emisie CO₂",
+            "CONSUMPTIONCOMBINED": "Spotreba paliva",
+            "CONSUMPTIONCOMBINED_ELECTRIC": "Elektrická energia",
+            "EMISSIONCOMBINED": "CO₂",
+            "ENERGYEFFICIENCYCLASS": "Triedy účinnosti"
+        },
+        "FOOTNOTES": {
+            "DISCLAIMER": "",
+            "1": "Uvedené hodnoty boli zistené podľa predpísaného spôsobu merania. Ide o „hodnoty CO₂ podľa NEDC“ v zmysle čl. 2, bodu 1 vykonávacieho nariadenia (EÚ) 2017/1153. Údaje sa nevzťahujú na konkrétne vozidlo a nie sú súčasťou ponuky, ale slúžia len na porovnanie rôznych typov vozidiel. Hodnoty sa líšia v závislosti od zvolených prvkov mimoriadnej výbavy.",
+            "2": "Uvedené hodnoty boli zistené podľa predpísaného spôsobu merania. Ide o „hodnoty CO₂ podľa skúšobného postupu WLTP“ v zmysle čl. 2 bodu 3 vykonávacieho nariadenia (EÚ) 2017/1153. Hodnoty spotreby paliva boli vypočítané na základe týchto hodnôt. Spotreba elektrického prúdu bola zistená na základe nariadenia 683/2008/ES. Údaje sa nevzťahujú na konkrétne vozidlo a nie sú súčasťou ponuky, ale slúžia len na porovnanie rôznych typov vozidiel. Hodnoty sa líšia v závislosti od zvolenej mimoriadnej výbavy.",
+            "3": "ie angegebenen Werte sind die „gemessenen NEFZ- CO2 -Werte“ i.S.v. Art. 2 Nr. 2 Durchführungsverordnung (EU) 2017/1153, die im Einklang mit Anhang XII der Verordnung (EG) Nr. 692/2008 ermittelt wurden. Die Kraftstoffverbrauchswerte wurden auf Basis dieser Werte errechnet. Aufgrund gesetzlicher Änderungen der maßgeblichen Prüfverfahren können in der für die Fahrzeugzulassung und ggf. Kfz-Steuer maßgeblichen Übereinstimmungsbescheinigung des Fahrzeugs höhere Werte eingetragen sein. Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebots, sondern dienen allein Vergleichszwecken zwischen verschiedenen Fahrzeugtypen. Die Werte variieren in Abhängigkeit der gewählten Sonderausstattungen.",
+            "4": "Výkon motora je odvodený z hodnoty pre spaľovací motor (hodnota vľavo) a hodnoty pre elektromotor (hodnota vpravo)."
+        }
+    }
+}

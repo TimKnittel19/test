@@ -1,0 +1,263 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Painel de controle pessoal",
+            "PGPH1": "A área pessoal está acessível somente para clientes registrados.",
+            "PGPH2": "Inicie a sessão ou registre-se para acessar a sua área pessoal com conteúdos exclusivos e novidades que o orientam no seu novo Mercedes-Benz.",
+            "TEASER": {
+                "1": "Conteúdo exclusivo",
+                "2": "Atividades",
+                "3": "Pontos de contato interativos"
+            },
+            "BUTTON": "Início de sessão"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Área pessoal - Registro não efetuado",
+            "PGPH1": "Tem interesse em receber novidades sobre os nossos veículos Mercedes-Benz? Então, registe-se aqui para beneficiar de atualizações exclusivas.",
+            "PGPH2": "",
+            "TEASER": "Selecione seu modelo e inicie o processo de registro correspondente",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Efetuar o registro para {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "Ocorreu um problema.",
+        "PGPH1": "Por favor tente novamente mais tarde."
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Olá {{customerName}}",
+        "HEADLINE_WELCOME": "Bem-vindo ao",
+        "HEADLINE_APPLICATION": "Insights do EQ",
+        "FOOTNOTE": {
+            "EQC": "",
+            "GLA": ""
+        }
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Comece uma viagem rumo a seu EQC",
+        "TEXT": "Amplie a sua experiência pessoal com o EQC, clicando em um dos pontos de contato digitais abaixo.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Concluído"
+            },
+            "OPEN": {
+                "HEADLINE": "Comece agora",
+                "TEXT": "Verifique frequentemente o seu painel EQ insights para obter atualizações e novas informações."
+            },
+            "LOCKED": {
+                "HEADLINE": "Disponível em breve"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "Registro EQC",
+            "LINKS": {
+                "OPEN": "",
+                "COMPLETED": "Ver detalhes"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Selecionar um concessionário",
+            "LINKS": {
+                "OPEN": "Selecionar um concessionário",
+                "COMPLETED": "Ver concessionário"
+            }
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Configurador",
+            "LINKS": {
+                "OPEN": "Iniciar configuração",
+                "COMPLETED": "Continuar configuração"
+            }
+        },
+        "TEST_DRIVE": {
+            "TITLE": "Test Drive do EQC",
+            "LINKS": {
+                "OPEN": "Agende um Test Drive",
+                "COMPLETED": "Ver detalhes"
+            }
+        },
+        "FIRSTCONTACT": {
+            "TITLE": "Contato",
+            "LINKS": {
+                "OPEN": "Contate-nos",
+                "COMPLETED": ""
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Seleção de concessionário Mercedes-Benz EQ concluído",
+            "POST": {
+                "HEADLINE": "Selecionar um concessionário Mercedes-Benz EQ",
+                "TEXT": "Você selecionou o seguinte concessionário Mercedes-Benz EQ como o seu revendedor de preferência. ",
+                "PERSONAL_HEADLINE": ""
+            },
+            "LINK": ""
+        },
+        "REGISTRATION": {
+            "HEADLINE": "Registro EQC concluído",
+            "POST": {
+                "HEADLINE": "Registro EQC",
+                "TEXT": "Seus dados pessoais:",
+                "PERSONAL_HEADLINE": ""
+            }
+        },
+        "TESTDRIVE": {
+            "INTERESTED": {
+                "STREAMLINE": "Atualizando sua solicitação de Test Drive",
+                "HEADLINE_MOBIL": "Atualizando sua solicitação de Test Drive",
+                "TEXT1": "Agradecemos o seu interesse em uma prova de estrada com o primeiro Mercedes-Benz totalmente elétrico, o EQC. O seu Test Drive eletrizante estará pronto em breve, esperamos que esteja tão empolgado quanto nós! Aguarde um momento enquanto verificamos o seu pedido, os seus dados serão atualizados automaticamente.",
+                "TEXT2": "Os dados do seu Test Drive serão atualizados automaticamente.",
+                "PERSONAL_HEADLINE": "Informações de condução",
+                "LINK": ""
+            },
+            "BOOKED": {
+                "STREAMLINE": "Test Drive agendado",
+                "HEADLINE_MOBIL": "Test Drive agendado",
+                "TEXT1": "O EQC. O elétrico testado no gelo. O elétrico testado no deserto. Agora é a sua vez.",
+                "TEXT2": "Em {{days}} dias, o EQC estará pronto para você.",
+                "LINK": "Cancelar Test Drive"
+            },
+            "FINISHED": {
+                "STREAMLINE": "Test Drive concluído",
+                "HEADLINE_MOBIL": "[Test Drive Headline Mobil]",
+                "TEXT1": "Esperamos que a Mercedes-Benz também tenha passado no teste e corresponda às suas expetativas. Por isso, gostaríamos de receber o seu feedback sobre o Test Drive.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Informações de condução",
+                "LINK": "Agende outro Test Drive"
+            },
+            "CAPTIONS": {
+                "LOCATION": "Localização",
+                "INFO": "Informações de condução",
+                "ID": "ID do Test Drive"
+            }
+        },
+        "CONFIGURATOR": {
+            "HEADLINE": "Configuração do EQC",
+            "POST": {
+                "HEADLINE": "Código online da configuração",
+                "HEADLINE_MOBIL": "Código online da configuração",
+                "TEXT": "Obrigado por ter configurado o seu EQC. Encontre destaques do seu EQC ideal aqui. O código online de referência da sua atual configuração é <span class=\"text-online-code\">{{onlineCode}}</span>. Este código permanecerá ativo durante 30 dias após a última alteração.",
+                "PERSONAL_HEADLINE": "Configuração do EQC",
+                "BUTTONS": {
+                    "CONFIGURATION": "Abrir configuração"
+                }
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Gostaríamos de mais algumas informações.",
+            "POST": {
+                "QUESTION": "Quando você pensa em adquirir um EQC?",
+                "ANSWER": {
+                    "QUARTER": "Trimestre",
+                    "YEAR": "Ano"
+                },
+                "SAVE": "Enviar"
+            }
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Mostre mais"
+        },
+        "INTERACTIONS": {
+            "LIKE": {
+                "LIKED": "Liked",
+                "NOT_LIKED": "Like"
+            }
+        }
+    },
+    "FOOTNOTE": {
+        "EQC": {
+            "PARAGRAPHS": {
+                "1": "Os dados relativos ao consumo de combustível, às emissões de CO2 e à autonomia correspondem a valores preliminares e foram determinados pelo serviço técnico. Ainda não existe uma homologação CE nem um certificado de conformidade com valores oficiais. Os dados e os valores oficiais poderão divergir entre si."
+            }
+        },
+        "GLA": {}
+    },
+    "DEALER": {
+        "BUTTONS": {
+            "BACK": "Voltar",
+            "SAVE": "Selecionar concessionário"
+        },
+        "LOCATOR": {
+            "HEADLINE": "Concessionário Mercedes-Benz EQ preferido",
+            "SUBHEADLINE": "Tendo por base os dados de endereço facultados durante o registro, encontramos os seguintes concessionários Mercedes-Benz EQ . Selecione o seu concessionário preferido a partir desta lista ou altere a pesquisa para procurar outros concessionários Mercedes-Benz EQ.",
+            "ERROR": "Selecione o seu concessionário preferido a partir da lista.",
+            "VALIDATION": {
+                "AMOUNT": "Foram encontrados 0 concessionários.",
+                "MESSAGE": "Introduza uma cidade ou código postal válido. "
+            },
+            "INPUT": {
+                "PLACEHOLDER": "Postcode/ Town"
+            },
+            "FOOTNOTE": "*Por favor observe que, nesta lista, apenas são apresentados concessionários autorizados Mercedes-Benz EQ."
+        },
+        "USAGE": {
+            "HEADLINE": "Uso do veículo",
+            "PARAGRAPH": "Nós gostariamos de saber como você pretende usar seu Mercedes-Benz EQC, para poder oferecer-lhe a melhor experiência possível em caso de uma futura compra.",
+            "PRIVATE": "Veículo particular",
+            "BUSINESS": {
+                "LABEL": "Veículo de trabalho*",
+                "PLACEHOLDER": "Nome da empresa (não obrigatório)",
+                "INFO": "*veículo registrado em nome de uma empresa",
+                "ERROR": "The company name can't be empty or have the following characters: '<>;!'"
+            },
+            "ERROR": "Por favor selecione o tipo de uso do veículo."
+        }
+    },
+    "OBLIGATION": {
+        "TITLE": "Informação referente ao destinatário dos dados",
+        "TEXT": "Forneço o meu consentimento para que o concessionário por mim selecionado, integrante da Rede de Concessionários da Mercedes-Benz Cars & Vans Comércio de Veículos, a Mercedes-Benz AG e suas empresas coligadas, fornecedoras e especificamente contratadas para gerir os serviços de atendimento ao cliente em seu nome, entrem em contato comigo e me forneçam informações sobre produtos ou serviços relacionados com meus interesses na marca os quais reafirmo ter no momento de fornecer este consentimento."
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Declaração de Consentimento",
+            "PGPH1": "Gostaríamos de apresentar a você produtos e serviços que podem ser do seu interesse. Para isso, precisamos do seu consentimento quanto ao uso dos seus dados. Trataremos esses dados com a devida privacidade e confidencialidade.<br><br>Forneço meu consentimento para que a Mercedes-Benz Cars & Vans Comércio de Veículos, o concessionário integrante da sua Rede de Concessionários por mim escolhido para atendimento, a Mercedes-Benz AG e suas empresas coligadas, fornecedoras e especificamente contratadas para gerir os serviços de atendimento ao cliente em seu nome, entrem em contato comigo e me forneçam informações sobre produtos ou serviços relacionados com meus interesses na marca os quais confirmei ter no momento de fornecer este consentimento. Da mesma forma, autorizo a transferência nacional e/ou internacional de meus dados entre as empresas acima nomeadas somente para as finalidades aqui estabelecidas e sempre que seja feita de acordo com a lei e o país recebedor tenha adequados níveis de segurança de informação.<br><br>Eu forneço este consentimento para que as empresas acima nomeadas, façam tratamento de meus dados pessoais:<br><br><strong>Nome, sobrenome, endereço, e-mail, telefone, ID para mensagens instantâneas, interesses.</strong>"
+        },
+        "ENUMERATION": {
+            "PROLOG": "Concordo em ser contatado para fins específicos neste consentimento:",
+            "OPTIONS": {
+                "1": "my name, contact details and other information about me that I have provided (e.g. address, email address, telephone number, instant messenger ID, social network addresses, interests);",
+                "2": "data about my vehicle (e.g. vehicle configuration, mileage, data from the digital service booklet); and",
+                "3": "information about products purchased and services used (e.g. lease agreements, Mercedes me connect services booked, vehicle configurations stored)"
+            },
+            "EPILOG": ""
+        },
+        "CHANNELS": {
+            "PGPH1": "Concordo em ser contatado para fins específicos neste consentimento:",
+            "OPTIONS": {
+                "PHONE": "por telefone (chamadas pessoais)",
+                "EMAIL": "por correio eletrônico (e-mail particular, sms, aplicativo de mensagens)",
+                "POST": "pelos correios"
+            },
+            "LABEL": {
+                "YES": "sim",
+                "NO": "não"
+            },
+            "ERROR": {
+                "PHONE": "Por favor selecione uma opção para contatos telefônicos",
+                "EMAIL": "Por favor selecione uma opção para e-mail",
+                "POST": "Por favor selecione uma opção para correio"
+            }
+        },
+        "ACCORDION": {
+            "TITLE": "Declaração de consentimento",
+            "HEADLINE": "Detalhes referentes ao consentimento e os seus direitos pela lei de proteção de dados:",
+            "PARAGRAPHS": {
+                "1": "Os dados serão utilizados para que eu receba do concessionário por mim selecionado na plataforma, ofertas individualizadas correspondentes aos meus interesses (testes drive, eventos, ofertas especiais, serviços em visita à concessionária) por escrito, pessoalmente ou pelo canal de contato por mim selecionado. Para permitir isso, também serão usados procedimentos analíticos, inclusive perfilamentos, para avaliar meus interesses.",
+                "2": "O processamento dos seus dados pessoais ocorrerá para as finalidades mencionadas supra, com base em interesses justificados e no seu consentimento. O seu consentimento é dado de forma livre e voluntária. Nós processaremos seus dados pessoais com base em seu consentimento até que você os revogue ou se oponha ao processamento. Para fazer isso, entre em contato conosco a qualquer momento pelo:  bra.enquiries@cac.mercedes-benz.com ou 0800 970 9090. A revogação do consentimento não afetará a legitimidade do processamento de dados ou outra forma legal de processamento que tenha ocorrido até o momento dessa revogação. Como titular dos dados, você pode exercer os seguintes direitos: a) obter informações sobre o tratamento dos seus dados pessoais, b) acessar aos seus dados pessoais, c) retificar ou solicitar a eliminação dos seus dados, d) opor-se ao tratamento dos seus dados, e) limitar o tratamento dos seus dados, f) solicitar a portabilidade dos seus dados pessoais, g) exercer qualquer reclamação perante o Controlador dos seus dados ou perante a Autoridade Nacional responsável pela regulamentação do tratamento dos dados pessoais, e h) revogar este consentimento em qualquer momento.",
+                "3": "Seus dados serão armazenados pelo Processador Mercedes-Benz AG no European Data Center / Daimler Hybrid Cloud da Mercedes-Benz AG na Alemanha, e pelo Controlador Mercedes-Benz Cars & Vans Comércio de Veículos e só pelo tempo necessário para cumprir com as finalidades acima descritas e por um tempo máximo de cinco (5) anos, desde o contato entre você e o controlador, salvo se uma lei especifica estabelece um período maior.",
+                "4": "No âmbito de seu consentimento para o tratamento dos seus dados pessoais, os agentes de tratamento serão:",
+                "5": "<table border='1' style='border-collapse:collapse' cellpadding='5'><tr><th>Controlador(es)</th><th>Processador(es)</th></tr><tr><td>Mercedes-Benz Cars & Vans Comércio de Veículos<br>CNPJ 31.715.616/0001-72<br>Endereço: Rua Alfred Jurzykowski, 562, Sala 16<br>Paulicéia, São Bernardo do Campo – SP<br>CEP 09680-900</td><td>Mercedes-Benz AG<br>71065 Sindelfingen<br>Tübinger Allee 31<br>Jörg Henzler<br>+49 151 58619249<br></td></tr></table>",
+                "6": "É possível entrar em contato com a pessoa responsável pela proteção dos dados pessoais através do e-mail: pool-id.compliance_cars_vans@daimler.com ou pelo telefone: 11 4173-7242, ou Mercedes-Benz AG escrevendo para: data.protection@daimler.com.",
+                "7": "No âmbito de seu consentimento para o tratamento dos seus dados pessoais, os agentes de tratamento serão: Controlador: Mercedes-Benz Cars & Vans Comércio de Veículos / concessionário integrante da sua Rede de Concessionários por mim escolhido para atendimento. Processador: Mercedes-Benz AG"
+            }
+        },
+        "SIGNATURE": {
+            "LABEL": "Li a declaração de consentimento e concordo com o armazenamento e utilização dos meus dados.",
+            "ERROR": "Por favor confirme que você leu e aceitou a declaração de consentimento."
+        },
+        "BUTTON": {
+            "CONFIRM": "Confirmar a opção"
+        }
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "INIT": {
+        "LOGIN_CARD": {
+            "HEADLINE": "Personal Dashboard",
+            "PGPH1": "The Personal Dashboard is only accessible for registered customers. Please log in or register to access your personal dashboard with exclusive insights and exciting features guiding you to your new Mercedes-Benz.",
+            "PGPH2": "",
+            "TEASER": {
+                "1": "Exclusive Content",
+                "2": "Activities",
+                "3": "Interactive Touchpoints"
+            },
+            "BUTTON": "Login"
+        },
+        "REGISTRATION_CARD": {
+            "HEADLINE": "Personal Dashboard - No registration yet",
+            "PGPH1": "Interested in receiving news on our upcoming Mercedes-Benz cars?",
+            "PGPH2": "Then register here and benefit from exclusive updates.",
+            "TEASER": "Choose your model and start the corresponding registration process",
+            "LABEL": "Mercedes-Benz {{model}}",
+            "BUTTON": "Register for {{model}}"
+        }
+    },
+    "ERROR": {
+        "HEADLINE": "We're sorry something went wrong.",
+        "PGPH1": "Unfortunately, something went wrong. Please try again later."
+    },
+    "FALLBACK_STAGE": {
+        "GREETING": "Hello {{customerName}}",
+        "HEADLINE": "Find your Mercedes-Benz",
+        "TAG": "Select your model",
+        "BOX": {
+            "HINT": "Select your model",
+            "HEADLINE": "Find your Mercedes-Benz",
+            "TEXT": "Exclusive insights and exciting features are awaiting you. Please select one of our Mercedes-Benz model you are interested in to start the journey.",
+            "BUTTON": "Start now"
+        }
+    },
+    "MODEL_SELECTOR": {
+        "GREETING": "Hello {{customerName}}",
+        "HEADLINE_WELCOME": "Welcome to your",
+        "HEADLINE_APPLICATION": "Personal Dashboard"
+    },
+    "ACTIVITY": {
+        "HEADLINE": "Start your journey towards your {{model}}",
+        "TEXT": "Click below to find out more.",
+        "SECTIONS": {
+            "COMPLETED": {
+                "HEADLINE": "Completed"
+            },
+            "OPEN": {
+                "HEADLINE": "Next Steps",
+                "TEXT": "We will soon provide you more exclusive news and interaction possibilities."
+            },
+            "LOCKED": {
+                "HEADLINE": "Coming soon"
+            }
+        },
+        "REGISTRATION": {
+            "TITLE": "{{model}} Registration",
+            "LINKS": {
+                "OPEN": "",
+                "COMPLETED": "See details"
+            }
+        },
+        "DEALER": {
+            "TITLE": "Retailer Selector",
+            "LINKS": {
+                "OPEN": "Select Retailer",
+                "COMPLETED": "See Retailer"
+            }
+        },
+        "RESERVATION": {
+            "TITLE": "Online Store"
+        },
+        "CONFIGURATOR": {
+            "TITLE": "Configurator",
+            "LINKS": {
+                "OPEN": "Configure now",
+                "COMPLETED": "Continue Configuration"
+            }
+        },
+        "TEST_DRIVE": {
+            "TITLE": "Test Drive",
+            "LINKS": {
+                "OPEN": "Book a test drive",
+                "COMPLETED": "See details"
+            }
+        },
+        "ONLINE_STORE": {
+            "TITLE": "Online Store",
+            "LINKS": {
+                "OPEN": "Order now",
+                "COMPLETED": "Your Order"
+            }
+        }
+    },
+    "TIMELINE": {
+        "DEALER": {
+            "HEADLINE": "Preferred retailer selected",
+            "POST": {
+                "HEADLINE": "Retailer Selector",
+                "TEXT": "The details of your preferred Mercedes-Benz retailer can be found below.",
+                "PERSONAL_HEADLINE": "",
+                "EMAIL_SUBJECT": "{{model}} - I would like to be contacted with further information"
+            },
+            "LINK": "Edit"
+        },
+        "RESERVATION": {
+            "TITLE": "Reservation Completed",
+            "POST": {
+                "TEXT": "Get ready for your Mercedes-Benz - we will update you with the latest news on this site."
+            }
+        },
+        "REGISTRATION": {
+            "HEADLINE": "Registration Completed",
+            "POST": {
+                "HEADLINE": "Registration",
+                "TEXT": "Overview of your registration details:",
+                "PERSONAL_HEADLINE": ""
+            }
+        },
+        "QUESTION": {
+            "HEADLINE": "Let us know more.",
+            "POST": {
+                "QUESTION": "When will you be looking for your new EQC?",
+                "ANSWER": {
+                    "QUARTER": "Quarter",
+                    "YEAR": "Year"
+                },
+                "SAVE": "Submit"
+            }
+        },
+        "TESTDRIVE": {
+            "INTERESTED": {
+                "STREAMLINE": "Test drive requested",
+                "HEADLINE_MOBIL": "Test drive requested",
+                "TEXT1": "We appreciate your interest in a test drive. Your test drive booking will be ready soon, we hope you are just as excited as we are. Please give us a second to check your request, your data will be updated automatically.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Test drive information",
+                "LINK": ""
+            },
+            "REQUEST": {
+                "STREAMLINE": "Test drive requested",
+                "HEADLINE_MOBIL": "Test drive requested",
+                "TEXT1": "We appreciate your interest in a test drive and hope your looking forward to experience it. We will check your request and will get back to you soon.",
+                "PERSONAL_HEADLINE": "",
+                "LINK": "Cancel your test drive request"
+            },
+            "BOOKED": {
+                "STREAMLINE": "Test drive booked",
+                "HEADLINE_MOBIL": "Test drive booked",
+                "TEXT1": "We appreciate your interest in a test drive and hope your looking forward to experience it.",
+                "TEXT2": "In {{days}} days your test drive will begin. Stay excited.",
+                "LINK": "Cancel test drive"
+            },
+            "FINISHED": {
+                "STREAMLINE": "Test drive completed",
+                "HEADLINE_MOBIL": "Test drive completed",
+                "TEXT1": "We hope you enjoyed your test drive.",
+                "TEXT2": "",
+                "PERSONAL_HEADLINE": "Test drive information",
+                "LINK": ""
+            },
+            "CAPTIONS": {
+                "LOCATION": "Pick up location",
+                "INFO": "Pick up information",
+                "ID": "Booking ID"
+            }
+        },
+        "CONFIGURATOR": {
+            "HEADLINE": "Your saved configuration",
+            "POST": {
+                "TAG": "Configuration",
+                "PRICE_TAX": "incl. VAT",
+                "DATE_UPDATED": "Updated on {{date}}",
+                "DATE_SAVED": "Saved {{date}}",
+                "BUTTONS": {
+                    "CONFIGURATION": "Open Configuration",
+                    "DASHBOARD": "Compare configurations"
+                }
+            }
+        },
+        "LINKS": {
+            "HEADLINE": "Discover more"
+        },
+        "BUTTONS": {
+            "SHOW_MORE": "Show more"
+        },
+        "INTERACTIONS": {
+            "LIKE": {
+                "LIKED": "Liked",
+                "NOT_LIKED": "Like"
+            }
+        }
+    },
+    "DEALER": {
+        "HEADLINE": "Select your preferred Mercedes-Benz retailer",
+        "BUTTONS": {
+            "BACK": "Back",
+            "SAVE": "Save retailer selection",
+            "START": "Select retailer"
+        },
+        "ERROR": "There are missing inputs to save your preferred retailer. Please check the error messages above.",
+        "CARD": {
+            "HEADLINE": "Preferred Retailer",
+            "BUTTONS": {
+                "ADD": "Select retailer"
+            }
+        },
+        "LOCATOR": {
+            "HEADLINE": "Select your preferred retailer",
+            "SUBHEADLINE": "Based on the address you provided, we have found the following Mercedes-Benz retailers near you. Please select your preferred retailer from this list or enter a new postcode to search for other Mercedes-Benz retailers.",
+            "ERROR": "Please select your preferred retailer from the list.",
+            "SELECTION": "Your chosen retailer:",
+            "VALIDATION": {
+                "AMOUNT": "0 retailers found",
+                "MESSAGE": "We couldn't find your location. Please enter a valid postcode or city."
+            },
+            "INPUT": {
+                "PLACEHOLDER": "Postcode/ City",
+                "ERROR": "0 retailers found. Please enter a postcode or city."
+            },
+            "FOOTNOTE": "*Please note that only authorised Mercedes-Benz Passenger Car Partners are displayed in this list."
+        },
+        "USAGE": {
+            "HEADLINE": "What type of customer are you?",
+            "PARAGRAPH": "To provide you with the most relevant information, please let us know whether you will be using your Mercedes-Benz for private or business use.",
+            "PRIVATE": "Private customer",
+            "BUSINESS": {
+                "LABEL": "Business customer",
+                "PLACEHOLDER": "Company name",
+                "INFO": "*Vehicle is registered under a company name.",
+                "ERROR": "The company name can't be empty or have the following characters: '<>;!'"
+            },
+            "ERROR": "Please select the customer type that describes you below."
+        }
+    },
+    "CONSENT": {
+        "DECLARATION": {
+            "HEADLINE": "Consent Statement of MBTH",
+            "PGPH1": "\"I hereby consent that Mercedes-Benz (Thailand) Limited, Daimler Group of companies, Mercedes-Benz authorized dealers and other designated companies to collect, use, disclose, transfer, evaluate and update my data, both in Thailand and overseas,  for the purposes of conducting marketing activities, sending marketing message for commercial purpose, and conducting sales promotions pertaining to products and services initiated by Mercedes-Benz (Thailand) Limited, Daimler Group of companies and/or Mercedes-Benz authorized dealers.\""
+        },
+        "SIGNATURE": {
+            "LABEL": "I agree",
+            "ERROR": "Please confirm that you have read and accept the declaration of consent."
+        },
+        "BUTTON": {
+            "CONFIRM": "Confirm your choice"
+        }
+    },
+    "VEHICLE": {
+        "TECHNICALDATA": {
+            "ENGINE": {
+                "FUELTYPE": "Fuel type",
+                "ENGINEPERFORMANCE": "Power",
+                "TYPEOFPROPULSION": "Drive type",
+                "FUELECONOMY": {
+                    "FUELCONSUMPTIONCOMBINEDRANGE": "Fuel consumption combined"
+                }
+            },
+            "GEAR": "Transmission",
+            "DRIVECYCLE": {
+                "STANDARD": {
+                    "ELECTRICITYCONSUMPTIONCOMBINED": "Electric Consumption Combined",
+                    "CO2EMISSIONCOMBINEDRANGE": "CO₂ emissions combined",
+                    "CO2EMISSIONCOMBINED": "CO₂ emissions combined"
+                }
+            },
+            "NEDC": {
+                "EMISSIONCOMBINEDPRIMARYGEARINDIVIDUAL": "CO₂ emissions combined",
+                "CONSUMPTIONCOMBINEDPRIMARYGEARINDIVIDUAL": "Fuel consumption combined"
+            },
+            "WLTP": {
+                "EMISSIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "CO₂ emissions weighted",
+                "CONSUMPTIONCHARGEDEPLETEWEIGHTEDSECONDARYGEARINDIVIDUAL": "Combined energy consumption"
+            }
+        },
+        "RANGE": {
+            "TITLE": "Consumption / CO₂ emissions combined",
+            "CONSUMPTIONCOMBINED": "Fuel consumption",
+            "CONSUMPTIONCOMBINED_ELECTRIC": "Electricity",
+            "EMISSIONCOMBINED": "CO₂",
+            "ENERGYEFFICIENCYCLASS": "Efficiency classes"
+        },
+        "FOOTNOTES": {
+            "1": "The indicated values were determined according to the prescribed measurement method. These are the 'NEDC CO₂ values' according to Art. 2 No. 1 Implementing Regulation (EU) 2017/1153.The figures do not refer to an individual vehicle and are not part of the offer; they are provided solely for the purposes of comparison between different vehicle models. The values vary depending on the chosen optional extras.",
+            "2": "The stated values have been determined as per the specified measuring process (Article 2, items 5, 6, 6a Pkw-EnVKV (German passenger car energy consumption information regulation) in its correspondingly valid version). CO2 emissions generated by producing and providing the fuel or other energy sources are not taken into account to determine the CO2 emissions as per Directive 1999/94/EC. The values stated do not relate to individual vehicles and do not form part of the offer, but are intended for comparison between different vehicle types only. For more information on the official fuel consumption and the official, specific CO2 emissions of new passenger cars refer to the 'Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen' (Guideline for fuel consumption, CO2 emission and electric power consumption) available free of charge from all sales outputs and Deutsche Automobil Treuhand GmbH (DAT) at www.dat.de.",
+            "3": "The figures shown were obtained in accordance with the prescribed measuring process ( Directive 80 / 1268 / EEC in the currently applicable version ). The figures are not based on an individual model and do not constitute part of the product offer; they are provided solely for purposes of comparison between different vehicle models.",
+            "4": "Capacity: Engine capacity is made up of the value for the internal combustion engine (left-hand value) and the value for the electric motor (right-hand value).",
+            "5": "",
+            "6": "",
+            "7": "As a registered Mercedes me user, you can save your configuration in your Mercedes me account. You will be automatically redirected to your personal configurations via the Mercedes me registration / login dialog."
+        }
+    }
+}
