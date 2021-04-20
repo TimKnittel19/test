@@ -9,7 +9,7 @@
     },
     "DEALER": {
       "LINKS": {
-        "COMPLETED": "Vedi concessionario",
+        "COMPETED": "Vedi concessionario",
         "OPEN": "Seleziona concessionario"
       },
       "TITLE": "Dealer locator"
