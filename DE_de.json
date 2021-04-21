@@ -1,0 +1,416 @@
+{
+  "ACTIVITY": {
+    "CONFIGURATOR": {
+      "LINKS": {
+        "COMPLETED": "Continue Configuration",
+        "OPEN": "Configure your EQC"
+      },
+      "TITLE": "Configurator"
+    },
+    "DEALER": {
+      "LINKS": {
+        "COMPLETED": "See Retailer",
+        "OPEN": "Select Retailer"
+      },
+      "TITLE": "Retailer Selector"
+    },
+    "FIRSTCONTACT": {
+      "LINKS": {
+        "OPEN": "Initiate Contact"
+      },
+      "TITLE": "Contact"
+    },
+    "HEADLINE": "Start your journey towards the EQC",
+    "PRICING": {
+      "TITLE": "Finance Calculator"
+    },
+    "REGISTRATION": {
+      "LINKS": {
+        "COMPLETED": "See details"
+      },
+      "TITLE": "EQC-Registrierung "
+    },
+    "RESERVATION": {
+      "TITLE": "Online Store"
+    },
+    "SECTIONS": {
+      "COMPLETED": {
+        "HEADLINE": "Completed"
+      },
+      "LOCKED": {
+        "HEADLINE": "Demnächst "
+      },
+      "OPEN": {
+        "HEADLINE": "Next Steps",
+        "TEXT": "Check back for EQC news and even more features."
+      }
+    },
+    "TEST_DRIVE": {
+      "LINKS": {
+        "COMPLETED": "See details",
+        "OPEN": "Book a Test drive"
+      },
+      "TITLE": "{{model}} Test drive"
+    },
+    "TEXT": "Click below to find out more."
+  },
+  "CONSENT": {
+    "ACCORDION": {
+      "HEADLINE": "Additional Information regarding our privacy statement and your rights",
+      "PARAGRAPHS": {
+        "1": "The processing of your personal data for the purposes specified above is based on your consent. Declaring consent is voluntary. We will only process your personal data on the basis of this consent for the aforementioned purposes until you revoke your consent or object to the processing. To withdraw your consent or update/amend any of your personal details, you can contact us:",
+        "2": "Telephone: 0808 2081701",
+        "3": "Email: mymercedesbenzdata@daimler.com",
+        "4": "Post: UK Data Protection Co-ordinator, Legal Department, Mercedes-Benz UK, Tongwell, Milton Keynes, MK15 8BA",
+        "5": "The withdrawal of consent does not affect the lawfulness of any processing activities based on consent prior to withdrawal or other lawful processing activities. You have the right to request access to, or rectification, erasure,  or restriction of the processing of your personal data.  You also have the right to lodge a complaint with us or the Information Commissioner’s Office at any time. You are free to exercise your right to data portability i.e. to move your personal data to a third party.",
+        "6": "Your personal data will be retained by each data controller for no longer than is necessary to achieve the purposes described above, or for a maximum of seven years after the date of the last interaction with the relevant data controller, or for any further duration required by law.",
+        "7": "For information regarding Daimler AG Group’s Data Protection Officer, please see our full Privacy Policy published on our UK website.",
+        "8": "As a reminder, you may object at any time to the processing of your personal data for direct marketing purposes using the contact details set out above. There is no charge for this."
+      },
+      "TITLE": "Additional Information regarding our privacy statement and your rights:"
+    },
+    "BUTTON": {
+      "CONFIRM": "Auswahl bestätigen"
+    },
+    "CHANNELS": {
+      "ERROR": {
+        "EMAIL": "Please select option for email",
+        "PHONE": "Please select option for phone",
+        "POST": "Please select option for post"
+      },
+      "LABEL": {
+        "NO": "No",
+        "YES": "Yes"
+      },
+      "OPTIONS": {
+        "EMAIL": "by electronic messages (e.g. email, SMS, instant messenger)",
+        "PHONE": "by telephone",
+        "POST": "by post"
+      },
+      "PGPH1": "I agree to receive marketing communications for all the purposes specified above from the above-mentioned companies:"
+    },
+    "DECLARATION": {
+      "HEADLINE": "Declaration of consent",
+      "PGPH1": "How we use your personal data<br>Mercedes-Benz Cars UK Ltd (and the companies listed below in the section \"Marketing\") will only use your personal data to provide the products and services you have requested from us and to administer your account (and for any marketing you consent to – see below).  We will duly and diligently safeguard the privacy and confidentiality of your data (for more information please see our full Privacy Policy published on our UK website which is also available on request).  <br> <br>Marketing<br> Yes, I would like to receive information and advice about your products and services and those of Mercedes-Benz AG and its affiliated companies from the following companies: (a) Mercedes-Benz AG including Mercedes-Benz AG's authorised sales and after sales dealers (b) Daimler Financial Services AG (c) Mercedes-Benz Cars UK Limited (d) Mercedes-Benz Vans UK Limited (e) Mercedes-Benz Trucks UK Limited (f) Mercedes-Benz Financial Services UK Limited; and (g) Daimler Insurance Services UK Limited; as well as their legal successors."
+    },
+    "ENUMERATION": {
+      "EPILOG": "are collected, processed, used by and shared among the above-mentioned companies (each acting as a data controller).",
+      "OPTIONS": {
+        "1": "my name, contact details and other information about me that I have provided (e.g. address, email address, telephone number, instant messenger ID, social network addresses, interests);",
+        "2": "data about my vehicle (e.g. vehicle configuration, mileage, data from the digital service booklet); and",
+        "3": "information about products purchased and services used (e.g. lease agreements, Mercedes me connect services booked, vehicle configurations stored)"
+      },
+      "PROLOG": "For this purpose, I hereby give my consent that:"
+    },
+    "SIGNATURE": {
+      "ERROR": "Please confirm that you have read and accept the declaration of consent.",
+      "LABEL": "I confirm that I have read and I accept the declaration of consent."
+    }
+  },
+  "DEALER_CONSENT": {
+    "CHANNELS": {
+      "ERROR": {
+        "EMAIL": "Seleziona un'opzione",
+        "PHONE": "Seleziona un'opzione",
+        "POST": "Seleziona un'opzione"
+      },
+      "LABEL": {
+        "NO": "no",
+        "YES": "sì"
+      },
+      "OPTIONS": {
+        "EMAIL": "tramite posta elettronica (in part. e-mail, SMS, Messenger)",
+        "PHONE": "per telefono (chiamate personali)",
+        "POST": "per posta"
+      },
+      "RETAIL": {
+        "OPTIONS": {
+          "EMAIL": "tramite posta elettronica (in part. e-mail, SMS, Messenger)",
+          "PHONE": "per telefono (chiamate personali)",
+          "POST": "per posta"
+        }
+      }
+    },
+    "DECLARATION": {
+      "HEADLINE": "Dichiarazione di consenso al trasferimento dei dati personali alla Concessionaria EQ da Lei selezionata come preferita",
+      "PGPH1": "Allo scopo di restare costantemente aggiornato sulle ultime novità del mondo EQ Mercedes-Benz e smart e di essere a tal fine contattato direttamente dalla Concessionaria EQ da te selezionata come preferita che ti fornirà  maggiori informazioni sulle vetture EQ, ti preghiamo di acconsentire al trasferimento dei tuoi dati personali alla predetta Concessionaria EQ, che agirà in qualità di autonomo titolare del trattamento, secondo quanto indicato nella nostra <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.it/content/italy/it/passengercars/mercedes-benz-cars/models/eqc/privacy-eq.html\">\"Informativa sul trattamento dei dati personali\"</a>."
+    },
+    "ENUMERATION": {
+      "EPILOG": "vengano trasferiti da Mercedes-Benz Italia S.p.A. alla Concessionaria EQ da me selezionata come preferita che potrà contattarmi nelle modalità indicate qui di seguito:",
+      "OPTIONS": {
+        "1": "il mio nome, i miei dati di contatto e le informazioni da me fornite relative alla mia persona (p. es. recapito, indirizzo e-mail, numero di telefono, ID di messaggeria istantanea, indirizzi nei social network, interessi)"
+      },
+      "PROLOG": "Sì, desidero essere sempre aggiornato sul mondo EQ Mercedes-Benz e smart e ricevere maggiori informazioni sulle vetture EQ direttamente dalla Concessionaria EQ da me selezionata come preferita. A tale scopo acconsento affinché:"
+    },
+    "SIGNATURE": {
+      "ERROR": "Si prega di dichiarare di aver letto e accettato la dichiarazione di consenso al trattamento dei dati.",
+      "LABEL": "Con la presente dichiaro di aver letto e accettato la dichiarazione di consenso al trattamento dei dati."
+    }
+  },
+  "DEALER": {
+    "BUTTONS": {
+      "BACK": "Back",
+      "SAVE": "Save Retailer selection",
+      "START": "Select Retailer"
+    },
+    "CARD": {
+      "BUTTONS": {
+        "ADD": "Select Retailer"
+      },
+      "HEADLINE": "Preferred Retailer",
+      "PLACEHOLDER": "By selecting your preferred Retailer, you can be the first to find out about developments with the new EQC, including test drives and product exclusives."
+    },
+    "ERROR": "There are missing inputs to save your preferred dealer. Please check the error messages above.",
+    "HEADLINE": "Take the next step and select your Retailer.",
+    "LOCATOR": {
+      "ERROR": "Please select your preferred Retailer from the list.",
+      "FOOTNOTE": "*Please note that only authorised Mercedes-Benz EQ Passenger Car Partners are displayed in this list.",
+      "HEADLINE": "Select your preferred Retailer",
+      "INPUT": {
+        "ERROR": "0 Dealers Found. Please enter a Postcode or Town.",
+        "PLACEHOLDER": "Postcode/ Town"
+      },
+      "SELECTION": "Your chosen Retailer:",
+      "SUBHEADLINE": "Based on the address you provided during registration, we have found the following Mercedes-Benz Retailers near you. Please select your preferred Retailer from this list or enter a new postcode to search for other Mercedes-Benz Retailers.",
+      "VALIDATION": {
+        "AMOUNT": "0 Retailers Found",
+        "MESSAGE": "We couldn't find your location. Please enter a valid postcode or city."
+      }
+    },
+    "PARAGRAPH": "Non hai ancora selezionato la tua concessionaria Mercedes-Benz EQ preferita.",
+    "USAGE": {
+      "BUSINESS": {
+        "ERROR": "The company name can't be empty or have the following characters: '<>;!'",
+        "INFO": "*Vehicle is registered under a company name.",
+        "LABEL": "Business customer",
+        "PLACEHOLDER": "Company Name"
+      },
+      "ERROR": "Please select the customer type that describes you below.",
+      "HEADLINE": "What type of customer are you?",
+      "PARAGRAPH": "To provide you with the most relevant information, please let us know whether you will be using your EQC for private or business use.",
+      "PRIVATE": "Private customer"
+    }
+  },
+  "ERROR": {
+    "HEADLINE": "We're sorry something went wrong.",
+    "PGPH1": "Unfortunately, something went wrong. Please try again later."
+  },
+  "FALLBACK_STAGE": {
+    "BOX": {
+      "BUTTON": "Discover now",
+      "HEADLINE": "Wir helfen Ihnen .",
+      "HINT": "Select your model",
+      "TEXT": "Not sure now what your dream Mercedes looks like? No problem, we will find it together."
+    },
+    "GREETING": "Welcome to your me Home {{customerName}}",
+    "HEADLINE": "Finden Sie Ihren Mercedes-Benz ",
+    "TAG": "Select a model"
+  },
+  "FOOTNOTE": {
+    "EQC": {
+      "PARAGRAPHS": {
+        "1": "Angaben zum Stromverbrauch und den CO2-Emissionen sind vorläufig und wurden vom Technischen Dienst ermittelt. Eine EG-Typgenehmigung und Konformitätsbescheinigung mit amtlichen Werten liegen noch nicht vor. Abweichungen zwischen den Angaben und den amtlichen Werten sind möglich."
+      }
+    }
+  },
+  "INI": {
+    "LOGIN_CARD": {
+      "BUTTON": "Anmelden",
+      "HEADLINE": "Persönliches Dashboard",
+      "PGPH1": "Das persönliche Dashboard ist nur für registrierte Kunden zugänglich.",
+      "PGPH2": "Bitte melden Sie sich an oder registrieren Sie sich, um auf Ihr persönliches Dashboard mit exklusiven Einblicken und spannenden Funktionen zuzugreifen, die Sie zu Ihrem neuen Mercedes-Benz führen.",
+      "TEASER": {
+        "1": "Exklusiver Inhalt",
+        "2": "Persönliche Aktivitäten",
+        "3": "Interaktive Elemente"
+      }
+    },
+    "REGISTRATION_CARD": {
+      "BUTTON": "Registrieren für {{model}}",
+      "HEADLINE": "Persönliches Dashboard - Noch keine Registrierung",
+      "LABEL": "Mercedes-Benz {{model}}",
+      "PGPH1": "Sind Sie interessiert am Erhalt von Informationen zu unseren zukünftigen Mercedes-Benz Fahrzeugen?",
+      "PGPH2": "Dann registrieren Sie sich hier und profitieren Sie von exklusiven Updates."
+    }
+  },
+  "INIT": {
+    "LOGIN_CARD": {
+      "BUTTON": "Login",
+      "HEADLINE": "Personal Dashboard",
+      "PGPH1": "The Registration Dashboard is only accessible for registered customers.",
+      "PGPH2": "Please log in to your personal dashboard or register for exiting news.",
+      "TEASER": {
+        "1": "Exclusive Content",
+        "2": "Personal Journey",
+        "3": "Interactive Elements"
+      }
+    },
+    "REGISTRATION_CARD": {
+      "BUTTON": "Register for {{model}}",
+      "HEADLINE": "Personal Dashboard - Noch keine Registrierung ",
+      "LABEL": "Mercedes-Benz {{model}}",
+      "PGPH1": "Interested in receiving electrifying news on the upcoming Mercedes-Benz models?",
+      "PGPH2": "Then choose your model and register here and benefit from exclusive updates.",
+      "TEASER": "Choose your model and start the corresponding registration process"
+    }
+  },
+  "MODEL_SELECTOR": {
+    "CURRENT_MODEL": "Mercedes Benz {{model}}",
+    "FOOTNOTE": {
+      "EQC": "Stromverbrauch kombiniert: 22,2 kWh/100 km; CO2-Emissionen kombiniert: 0 g/km.[1]"
+    },
+    "GREETING": "Hello {{customerName}}",
+    "HEADLINE_APPLICATION": "Your Insight",
+    "HEADLINE_WELCOME": "Welcome to"
+  },
+  "SIMSEARCH": {
+    "BUTTON_OFFER": "See details",
+    "HEADLINE": "Available stock vehicles based on your configuration:",
+    "PRICE": "Total price",
+    "SIMILARITY": "Similarity to your configuration",
+    "TECHNICALVALUES": {
+      "CO2EMISSIONCOMBINED": "CO₂ emissions combined",
+      "CONSUMPTIONCOMBINED": "Fuel consumption",
+      "ELECTROCONSUMPTION": "Electricity",
+      "EMISSIONSTANDARD": "Abgasnorm",
+      "ENERGYEFFICIENCYCLASS": "Efficiency classes",
+      "ENGINECONCEPT": "Concept",
+      "ENGINEFUEL": "Fuel type",
+      "ENGINEPOWER": "Power",
+      "ENGINETYPE": "Drive type",
+      "TOPSPEED": "Top speed",
+      "TRANSMISSION": "Transmission"
+    }
+  },
+  "TIMELINE": {
+    "BUTTONS": {
+      "SHOW_MORE": "Show more"
+    },
+    "CONFIGURATOR": {
+      "HEADLINE": "My configurations",
+      "POST": {
+        "BUTTONS": {
+          "CONFIGURATION": "Open Configuration",
+          "DASHBOARD": "Compare all Configurations"
+        },
+        "DATE_SAVED": "Saved on {{date}}",
+        "DATE_UPDATED": "Updated on {{date}}",
+        "HEADLINE": "Online Code:",
+        "HEADLINE_MOBIL": "Online Code:",
+        "PERSONAL_HEADLINE": "{{model}} Configurator",
+        "PRICE_TAX": "incl. VAT",
+        "TAG": "Configuration",
+        "TEXT": "Configurazione completata, puoi vederne i dettagli qui. Il tuo Online Code è <span class=\"text-online-code\">{{onlineCode}}</span>. Con questo codice potrai cambiare e condividere la tua configurazione per 30 giorni dopo l'ultima modifica."
+      }
+    },
+    "DEALER": {
+      "HEADLINE": "Preferred Retailer Selected",
+      "LINK": "Händler ändern",
+      "POST": {
+        "EMAIL_SUBJECT": "Bitte kontaktieren Sie mich mit weiteren Informationen zum EQC",
+        "HEADLINE": "Retailer Selector",
+        "TEXT": "The details of your preferred Mercedes-Benz EQ Retailer can be found below:"
+      }
+    },
+    "INTERACTIONS": {
+      "LIKE": {
+        "LIKED": "Liked",
+        "NOT_LIKED": "Like"
+      }
+    },
+    "LINKS": {
+      "HEADLINE": "Entdecken Sie mehr"
+    },
+    "QUESTION": {
+      "HEADLINE": "Wir möchten gerne mehr von Ihnen erfahren.",
+      "POST": {
+        "ANSWER": {
+          "QUARTER": "Quartal",
+          "YEAR": "Jahr"
+        },
+        "QUESTION": "Wann planen Sie den Kauf dieses Mercedes-Benz Modells?",
+        "SAVE": "Senden"
+      }
+    },
+    "REGISTRATION": {
+      "HEADLINE": "EQC Registration Completed",
+      "POST": {
+        "HEADLINE": "EQC Registration",
+        "TEXT": "Your details:"
+      }
+    },
+    "RESERVATION": {
+      "HEADLINE": "EQC Reservation Completed",
+      "POST": {
+        "TEXT": "Get ready for your EQC - we will update you with the latest news on this dashboard."
+      }
+    },
+    "TESTDRIVE": {
+      "BOOKED": {
+        "HEADLINE_MOBIL": "Test Drive Booked",
+        "LINK": "Cancel Test Drive",
+        "STREAMLINE": "Test Drive Booked",
+        "TEXT1": "The EQC. Electric tested on ice. Electric tested in the desert. Now it is your turn.",
+        "TEXT2": "In {{days}} days the EQC will be ready for you."
+      },
+      "CAPTIONS": {
+        "ID": "Booking ID",
+        "INFO": "Pick up information",
+        "LOCATION": "Pick up location"
+      },
+      "FINISHED": {
+        "HEADLINE_MOBIL": "[Test Drive Headline Mobil]",
+        "LINK": "Book another Test Drive",
+        "PERSONAL_HEADLINE": "Test Drive Information",
+        "STREAMLINE": "Test Drive Finished",
+        "TEXT1": "We hope the Mercedes Benz has also passed its test and lives up to its expectations.",
+        "TEXT2": "Your test drive receipt:"
+      },
+      "INTERESTED": {
+        "HEADLINE_MOBIL": "Test Drive requested",
+        "PERSONAL_HEADLINE": "Test Drive Information",
+        "STREAMLINE": "Updating your Test Drive request",
+        "TEXT1": "We appreciate your interest in a Test Drive with the first all-electric Mercedes-Benz, the EQC. Your eleftrifying Test Drive will be ready soon, we hope you are just as excited as we are. Please give us a second to check your request, your data will be updated automatically.",
+        "TEXT2": "Your Test Drive Data will be updated automatically."
+      }
+    }
+  },
+  "VEHICLE": {
+    "FOOTNOTES": {
+      "1": "The indicated values were determined according to the prescribed measurement method. These are the \\\"NEDC CO₂ values\\\" according to Art. 2 No. 1 Implementing Regulation (EU) 2017/1153.The figures do not refer to an individual vehicle and are not part of the offer; they are provided solely for the purposes of comparison between different vehicle models. The values vary depending on the chosen optional extras.",
+      "2": "The indicated values were determined according to the prescribed measurement method - Worldwide Harmonised Light Vehicle Test Procedure (WLTP). Figures shown may include options which are not available in the UK. WLTP CO2 values will be effective from 1st April 2020. Additionally [a] For Battery Electric Vehicles (BEV) figures determined with battery fully charged. These models require mains electricity for charging. [b] For Plug-in Hybrid Electric Vehicle (PHEV) figures determined with the battery fully charged, using a combination of both battery power and fuel. Figures shown are for comparability purposes; only compare with other cars tested to the same technical procedures. Figures may not reflect real life driving results, which will depend upon a number of factors including the starting charge of the battery [a][b], factory fitted options, accessories fitted (post registration), variations in weather, driving styles and vehicle load. Further information about the test used to establish fuel consumption and CO₂ figures can be found at www.mercedes-benz.co.uk/WLTP",
+      "3": "Die angegebenen Werte sind die „gemessenen NEFZ- CO2 -Werte“ i.S.v. Art. 2 Nr. 2 Durchführungsverordnung (EU) 2017/1153, die im Einklang mit Anhang XII der Verordnung (EG) Nr. 692/2008 ermittelt wurden. Die Kraftstoffverbrauchswerte wurden auf Basis dieser Werte errechnet. Aufgrund gesetzlicher Änderungen der maßgeblichen Prüfverfahren können in der für die Fahrzeugzulassung und ggf. Kfz-Steuer maßgeblichen Übereinstimmungsbescheinigung des Fahrzeugs höhere Werte eingetragen sein. Die Angaben beziehen sich nicht auf ein einzelnes Fahrzeug und sind nicht Bestandteil des Angebots, sondern dienen allein Vergleichszwecken zwischen verschiedenen Fahrzeugtypen. Die Werte variieren in Abhängigkeit der gewählten Sonderausstattungen.",
+      "4": "Capacity: Engine capacity is made up of the value for the internal combustion engine (left-hand value) and the value for the electric motor (right-hand value).",
+      "5": "Die CO2-Effizienz eines Fahrzeugs ist abhängig von der Art des Getriebes oder der Räder und kann sich während der Konfiguration verändern.",
+      "6": "Anbieter: Mercedes-Benz Leasing GmbH, Siemensstraße 7, 70469 Stuttgart. Ist der Leasingnehmer Verbraucher, besteht nach Vertragsschluss ein gesetzliches Widerrufsrecht nach §495 BGB. Aktion P9030 ",
+      "7": "Als registrierter Mercedes me Nutzer können Sie Ihre Konfiguration in Ihrem Mercedes me Account speichern. Dazu werden Sie automatisch über den Mercedes me Registrierungs-/Login Dialog zu Ihren persönlichen Konfigurationen weitergeleitet.",
+      "DISCLAIMER": "Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen entnommen werden, der an allen Verkaufsstellen und bei <a href=\"http://www.dat.de\"target=\"_blank\"class=\"wb-e-link-10\">DAT Deutsche Automobil Treuhand GmbH</a> unentgeltlich erhältlich ist."
+    },
+    "RANGE": {
+      "CONSUMPTIONCOMBINED": "Fuel",
+      "CONSUMPTIONCOMBINED_ELECTRIC": "Electric",
+      "EMISSIONCOMBINED": "CO₂",
+      "ENERGYEFFICIENCYCLASS": "Efficiency classes",
+      "TITLE": "Consumption / CO₂ emissions combined"
+    },
+    "TECHNICALDATA": {
+      "ENERGYEFFICIENCYCLASS": "CO₂ efficiency",
+      "ENGINE": {
+        "EMISSIONSTANDARD": "Abgasnorm",
+        "ENGINEPERFORMANCE": "Power",
+        "FUELTYPE": "Fuel type",
+        "TYPEOFPROPULSION": "Drive type"
+      },
+      "GEAR": "Transmission",
+      "NEDC": {
+        "CONSUMPTIONCOMBINEDPRIMARYGEARINDIVIDUAL": "Fuel consumption combined",
+        "CONSUMPTIONELECTRICINDIVIDUAL": "consumptionElectricIndividual",
+        "CONSUMPTIONWEIGHTEDPRIMARYGEARINDIVIDUAL": "Fuel consumption combined",
+        "CONSUMPTIONWEIGHTEDSECONDARYGEARINDIVIDUAL": "Energy consumption combined",
+        "ELECTRICRANGEINDIVIDUAL": "Electric Range",
+        "EMISSIONCOMBINEDPRIMARYGEARINDIVIDUAL": "CO₂ emissions combined",
+        "EMISSIONWEIGHTEDINDIVIDUAL": "CO₂ emissions combined"
+      }
+    }
+  }
+}
