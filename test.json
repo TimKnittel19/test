@@ -184,6 +184,11 @@
     "HEADLINE": "Spiacenti, si è verificato un problema.",
     "PGPH1": "Si prega di riprovare più tardi."
   },
+  "FALLBACK_STAGE": {
+    "BOX": {
+      "HEADLINE": "Non sei sicuro ? Ti aiutiamo "
+    }
+  },
   "FOOTNOTE": {
     "EQC": {
       "PARAGRAPHS": {
