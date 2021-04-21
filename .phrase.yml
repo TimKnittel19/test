@@ -3,21 +3,13 @@ phrase:
   project_id: ade0ad79d7ca214be4251a77d40fbb7f
   push:
     sources:
-    - file: IT_it.json
       params:
         file_format: nested_json
-        locale_id: 0d47a3f3bf60e3bc1db7dc398fbea9c9
-    - file: DE_de.json
-      params:
-        file_format: nested_json
-        locale_id: 32bc204fcb2a3b9eef86da4d98f3759b
+        
   pull:
     targets:
-    - file: test.json
-      params:
-        file_format: nested_json
-        locale_id: 0d47a3f3bf60e3bc1db7dc398fbea9c9
+    
     - file: test2.json
       params:
         file_format: nested_json
-        locale_id: 32bc204fcb2a3b9eef86da4d98f3759b
+       
