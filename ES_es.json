@@ -1,272 +1,124 @@
 {
-    "INIT": {
-        "LOGIN_CARD": {
-            "HEADLINE": "Panel personal",
-            "PGPH1": "El panel personal solo es accesible para clientes registrados. Inicia sesión o regístrate para acceder a tu panel personal con información especial y atractivas funciones que te guiarán a tu nuevo Mercedes-Benz.",
-            "PGPH2": "",
-            "TEASER": {
-                "1": "Contenido Exclusivo",
-                "2": "Actividades",
-                "3": "Puntos de contacto interactivos"
-            },
-            "BUTTON": "Abrir sesión"
-        },
-        "REGISTRATION_CARD": {
-            "HEADLINE": "Panel personal: no estás registrado todavía",
-            "PGPH1": "¿Te interesaría recibir noticias sobre los nuevos vehículos Mercedes-Benz?",
-            "PGPH2": "Regístrate aquí y recibirás avances exclusivos.",
-            "TEASER": "Elige tu modelo, y comienza el proceso de registración",
-            "LABEL": "Mercedes-Benz {{model}}",
-            "BUTTON": "Registrarse para {{model}}"
-        }
-    },
-    "ERROR": {
-        "HEADLINE": "Lo sentimos, se ha producido un error.",
-        "PGPH1": "Se ha producido un error. Por favor, inténtalo más tarde."
-    },
-    "MODEL_SELECTOR": {
-        "GREETING": "Hola, {{customerName}}",
-        "HEADLINE_WELCOME": "Bienvenido a tu",
-        "HEADLINE_APPLICATION": "panel personal",
-        "FOOTNOTE": {
-            "EQC": "EQC 400 4MATIC: consumo de corriente en kWh/100 km (ciclo mixto): 25-22,4; emisiones de CO2 en g/km (ciclo mixto): 0.[1]",
-            "EQV": ""
-        }
-    },
-    "ACTIVITY": {
-        "HEADLINE": "Comienza tu viaje para conseguir tu {{model}}",
-        "TEXT": "Amplía tu experiencia personal acerca del mundo EQ haciendo clic en uno de los botones digitales más abajo.",
-        "SECTIONS": {
-            "COMPLETED": {
-                "HEADLINE": "Completado"
-            },
-            "OPEN": {
-                "HEADLINE": "Siguientes pasos",
-                "TEXT": "Consulta con frecuencia el tablón de anuncios EQ Insights, en donde encontrarás actualizaciones y novedades."
-            },
-            "LOCKED": {
-                "HEADLINE": "Próximamente"
-            }
-        },
-        "REGISTRATION": {
-            "TITLE": "Registro {{model}}",
-            "LINKS": {
-                "OPEN": "",
-                "COMPLETED": "Ver más detalles"
-            }
-        },
-        "DEALER": {
-            "TITLE": "Elegir concesionario",
-            "LINKS": {
-                "OPEN": "Seleccionar concesionario",
-                "COMPLETED": "Ver concesionario"
-            }
-        },
-        "CONFIGURATOR": {
-            "TITLE": "Configurador",
-            "LINKS": {
-                "OPEN": "Configura tu {{model}}",
-                "COMPLETED": "Continuar con la configuración"
-            }
-        },
-        "TEST_DRIVE": {
-            "TITLE": "{{model}} prueba de manejo",
-            "LINKS": {
-                "OPEN": "Reserve una prueba de manejo",
-                "COMPLETED": "Ver detalles"
-            }
-        },
-        "FIRSTCONTACT": {
-            "TITLE": "Contacto",
-            "LINKS": {
-                "OPEN": "Iniciar contacto",
-                "COMPLETED": ""
-            }
-        }
-    },
-    "TIMELINE": {
-        "DEALER": {
-            "HEADLINE": "Selector de concesionario completado",
-            "POST": {
-                "HEADLINE": "Selector de concesionario",
-                "TEXT": "Has seleccionado el siguiente concesionario de Mercedes-Benz EQ como tu preferido:",
-                "PERSONAL_HEADLINE": "",
-                "EMAIL_SUBJECT": ""
-            },
-            "LINK": ""
-        },
-        "REGISTRATION": {
-            "HEADLINE": "Se ha completado tu registro {{model}}",
-            "POST": {
-                "HEADLINE": "Registro {{model}}",
-                "TEXT": "Tus datos personales:",
-                "PERSONAL_HEADLINE": ""
-            }
-        },
-        "QUESTION": {
-            "HEADLINE": "Cuéntanos más.",
-            "POST": {
-                "QUESTION": "¿Cuándo tienes previsto adquirir un vehículo Mercedes-Benz? ",
-                "ANSWER": {
-                    "QUARTER": "Trimestre",
-                    "YEAR": "Año"
-                },
-                "SAVE": "Enviar"
-            }
-        },
-        "CONFIGURATOR": {
-            "HEADLINE": "Configuración del {{model}}",
-            "POST": {
-                "HEADLINE": "Código online para la configuración:",
-                "HEADLINE_MOBIL": "Código online para la configuración:",
-                "TEXT": "Muchas gracias por configurar tu {{model}}. Aquí encontrarás los aspectos destacados de tu {{model}} ideal. Tu código online para acceder a tu configuración actual es <span class=\"text-online-code\">{{onlineCode}}</span>. Este código conserva su validez durante 30 días a partir del último cambio introducido.",
-                "PERSONAL_HEADLINE": "Configuración del {{model}}",
-                "BUTTONS": {
-                    "CONFIGURATION": "Abrir la configuración"
-                }
-            }
-        },
-        "LINKS": {
-            "HEADLINE": "Descubre más"
-        },
-        "BUTTONS": {
-            "SHOW_MORE": "Mostrar más"
-        }
-    },
-    "FOOTNOTE": {
-        "EQC": {
-            "PARAGRAPHS": {
-                "1": "Los valores de consumo de energía y autonomía eléctrica se han obtenido a partir del procedimiento de medición prescrito en el Reglamento (UE) 715/2017 en su versión actual vigente. Los valores de emisiones de CO₂ indicados han sido obtenidos de acuerdo con el procedimiento de ensayo \"WLTP CO₂\" según lo dispuesto en el art. 2 No. 3 Reglamento de aplicación (UE) 2017/1153."
-            }
-        },
-        "GLA": {},
-        "EQV": {}
-    },
-    "DEALER": {
-        "HEADLINE": "Take the next step.",
-        "PARAGRAPH": "Choose your Mercedes-Benz partner who will accompany you on your way to your personal Mercedes-Benz EQC. He will be your personal contact person to all topics regarding the purchase of the Mercedes-Benz EQC.",
-        "BUTTONS": {
-            "BACK": "Volver",
-            "SAVE": "Seleccionar concesionario",
-            "START": "Selector de concesionario"
-        },
-        "ERROR": "There are missing inputs to save your preferred dealer. Please check the error messages above.",
-        "CARD": {
-            "HEADLINE": "Concesionario preferido",
-            "PLACEHOLDER": "Please add your preferred dealer which will handle the later purchase of your Mercedes-Benz EQC.",
-            "BUTTONS": {
-                "ADD": "Seleccionar concesionario"
-            }
-        },
-        "LOCATOR": {
-            "HEADLINE": "Concesionario Mercedes-Benz preferido",
-            "SUBHEADLINE": "Basándonos en la dirección que nos has comunicado en el proceso de registro, hemos encontrado los siguientes concesionarios Mercedes-Benz. Selecciona tu concesionario preferido en esta lista, o modifica los parámetros de búsqueda para buscar otros concesionarios Mercedes-Benz.",
-            "ERROR": "Selecciona tu concesionario preferido de esta lista.",
-            "SELECTION": "Your preferred dealer selection:",
-            "VALIDATION": {
-                "AMOUNT": "Se han encontrado 0 concesionarios",
-                "MESSAGE": "Introduce un código postal o una ciudad válidos."
-            },
-            "INPUT": {
-                "PLACEHOLDER": "código postal/ciudad",
-                "ERROR": "Se han encontrado 0 concesionarios. Introduce un código postal o una ciudad válidos."
-            },
-            "FOOTNOTE": "*Ten en cuenta que en la lista se muestran solamente concesionarios Mercedes-Benz autorizados."
-        },
-        "USAGE": {
-            "HEADLINE": "Uso del vehículo",
-            "PARAGRAPH": "Nos gustaría saber el uso que le darás a tu Mercedes-Benz EQC, para que podamos darte un asesoramiento óptimo en caso de una futura compra.",
-            "PRIVATE": "Vehículo particular",
-            "BUSINESS": {
-                "LABEL": "Vehículo de Empresa",
-                "PLACEHOLDER": "Nombre de la compañía (No es obligatorio)",
-                "INFO": "*vehículo registrado bajo nombre de empresa",
-                "ERROR": "El nombre de la empresa no puede estar vacío o tiene los siguientes caracteres ‘<>;!’"
-            },
-            "ERROR": "El nombre de la empresa no puede estar vacío o tiene los siguientes caracteres ‘<>;!’"
-        }
-    },
-    "CONSENT": {
-        "DECLARATION": {
-            "HEADLINE": "Declaración de consentimiento",
-            "PGPH1": "Nos gustaría seguir asesorándote, asistiendo e informando. Para ello, necesitamos el consentimiento relativo a la protección de datos en el almacenamiento y uso de tus datos."
-        },
-        "CHANNELS": {
-            "APPROVALS": {
-                "CONTACT": "Autorizo al tratamiento de mis datos personales para recibir información, por cualquier medio, incluidos los electrónicos, sobre los productos y servicios ofrecidos por las Empresas del Ecosistema Mercedes-Benz que puedan resultar de mi interés o ajustarse a mis necesidades o mi perfil.",
-                "SHARING": "Autorizo la cesión de mis datos personales a <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/mercedes-benz-cars/dealer-locator.html\">miembros de la Red</a> y/o <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/the-brand/locations/daimler.html\">sociedades del grupo Daimler</a> para que traten los datos indicados para informarme, por cualquier medio, incluidos los electrónicos, sobre aquellos productos y servicios del mundo Mercedes-Benz que puedan resultar de mi interés o ajustarse a mis necesidades."
-            },
-            "PGPH1": "Asimismo me declaro conforme con que las empresas anteriores se pongan en contacto conmigo para los fines indicados de las formas siguientes:",
-            "OPTIONS": {
-                "PHONE": "por teléfono",
-                "EMAIL": "por medios electrónicos (e-mail, SMS)",
-                "POST": "por correo"
-            },
-            "LABEL": {
-                "YES": "sí",
-                "NO": "no"
-            },
-            "ERROR": {
-                "PHONE": "Por favor, selecciona esta opción para Teléfono",
-                "EMAIL": "Por favor, selecciona esta opción para email",
-                "POST": "Por favor, selecciona esta opción para envío postal"
-            }
-        },
-        "ACCORDION": {
-            "TITLE": "Información básica sobre <span class=\"wb-e-link-8\">Protección de Datos</span>",
-            "HEADLINE": "Información básica sobre protección de datos",
-            "PARAGRAPHS": {
-                "1": "¿Para qué necesitamos tratar sus datos? Trataremos sus datos para gestionar su solicitud e informarle de forma personalizada, para lo cual puede resultar necesario comunicar sus datos a algún miembro de la red de concesionarios y talleres autorizados en España (en lo sucesivo, la \"Red\"), o a sociedades del grupo Daimler. Adicionalmente, trataremos los datos para otras finalidades si Usted presta su consentimiento expreso a cada una de ellas.  Igualmente, sus datos serán tratados de acuerdo al interés legítimo de transmisión a otras entidades del mismo grupo empresarial con fines administrativos y organizativos internos. En concreto, sus datos serán transmitidos únicamente para dichas finalidades a las empresas del grupo Daimler que se encuentran dentro del Ecosistema Mercedes-Benz y que se pueden consultar en la página web: https://www.mercedes-benz.es, en el apartado Donde Estamos/ Grupo Daimler en España. ",
-                "2": "Destinatarios Comunicaremos sus datos de carácter personal a, entre otros, los siguientes destinatarios:  - Sociedades dentro del Ecosistema Mercedes-Benz.  - Concesionarios y talleres autorizados de la Red.  - Sociedades del Grupo Daimler. ",
-                "3": "Derechos Usted puede ejercitar los derechos relacionados con sus datos personales, como por ejemplo los derechos de acceso, rectificación o supresión en la dirección de correo electrónico protecciondedatos@mercedes-benz.es o por correo postal dirigiéndose a Mercedes-Benz Vans España, S.L.U., en la dirección Avenida de Bruselas 30, 28108 Alcobendas (Madrid).  También puede presentar una reclamación ante la Agencia Española de Protección de Datos.  Dispone de la información necesaria en: www.agpd.es. ",
-                "4": "Información adicional Usted puede encontrar información adicional sobre el tratamiento de sus datos de carácter personal en www.mercedes-benz.es, apartado Protección de Datos "
-            },
-            "TABLE": {
-                "ROWS": {
-                    "1": {
-                        "COLUMN1": "<strong>Responsable</strong>",
-                        "COLUMN2": {
-                            "PGPH1": "Identidad: Mercedes-Benz España, S.A.U.",
-                            "PGPH2": "Domicilio: Avda. de Bruselas, 30 – 28108 Alcobendas (Madrid).",
-                            "PGPH3": "Contacto: <a class=\"wb-e-link-8\" href=\"mailto:protecciondedatos@mercedes-benz.es\">protecciondedatos@mercedes-benz.es</a>",
-                            "PGPH4": "Delegado de Protección de Datos: <a class=\"wb-e-link-8\" href=\"mailto:dpo_es@daimler.com\">dpo_es@daimler.com</a>"
-                        }
-                    },
-                    "2": {
-                        "COLUMN1": "<strong>¿Para qué necesitamos tratar sus datos?</strong>",
-                        "COLUMN2": {
-                            "PGPH1": "Trataremos sus datos para gestionar su solicitud e informarle de forma personalizada, para lo cual puede resultar necesario comunicar sus datos a algún miembro de la red de concesionarios y talleres autorizados en España (en lo sucesivo, la \"Red\"), o a sociedades del grupo Daimler. Adicionalmente, trataremos los datos para otras finalidades si Usted presta su consentimiento expreso a cada una de ellas.",
-                            "PGPH2": "Igualmente, sus datos serán tratados de acuerdo al interés legítimo de transmisión a otras entidades del mismo grupo empresarial con fines administrativos y organizativos internos. En concreto, sus datos serán transmitidos únicamente para dichas finalidades a las empresas del grupo Daimler que se encuentran dentro del Ecosistema Mercedes-Benz y que se pueden consultar en la página web: <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es\">https://www.mercedes-benz.es</a>, en el apartado Donde Estamos/ Grupo Daimler en España."
-                        }
-                    },
-                    "3": {
-                        "COLUMN1": "<strong>Destinatarios</strong>",
-                        "COLUMN2": {
-                            "PGPH1": "Comunicaremos sus datos de carácter personal a, entre otros, los siguientes destinatarios:",
-                            "LIST": {
-                                "ITEM1": "<a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/the-brand/locations/daimler.html\">Sociedades dentro del Ecosistema Mercedes-Benz</a>",
-                                "ITEM2": "<a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/mercedes-benz-cars/dealer-locator.html\">Concesionarios y talleres autorizados de la Red</a>",
-                                "ITEM3": "<a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/the-brand/locations/daimler.html\">Sociedades del Grupo Daimler</a>"
-                            }
-                        }
-                    },
-                    "4": {
-                        "COLUMN1": "<strong>Derechos</strong>",
-                        "COLUMN2": "Usted puede ejercitar los derechos relacionados con sus datos personales, como por ejemplo los derechos de acceso, rectificación o supresión en la dirección de correo electrónico <a class=\"wb-e-link-8\" href=\"mailto:protecciondedatos@mercedes-benz.es\">protecciondedatos@mercedes-benz.es</a> o por correo postal dirigiéndose a Mercedes-Benz Vans España, S.L.U., en la dirección Avenida de Bruselas 30, 28108 Alcobendas (Madrid). También puede presentar una reclamación ante la Agencia Española de Protección de Datos. Dispone de la información necesaria en: <a class=\"wb-e-link-8\" target=\"_blank\" href=\"http://www.agpd.es\">www.agpd.es</a>."
-                    },
-                    "5": {
-                        "COLUMN1": "<strong>Información adicional</strong>",
-                        "COLUMN2": "Usted puede encontrar información adicional sobre el tratamiento de sus datos de carácter personal en <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es\">www.mercedes-benz.es</a>, apartado Protección de Datos."
-                    }
-                }
-            }
-        },
-        "SIGNATURE": {
-            "LABEL": "<strong>Enviando este formulario confirmo que he leído y acepto la Información Básica sobre Protección de Datos.</strong>",
-            "ERROR": "Por favor, confirma que has leído las cláusulas y las aceptas."
-        },
-        "BUTTON": {
-            "CONFIRM": "Confirmar la elección"
-        }
-    }
+  "ACTIVITY.CONFIGURATOR.LINKS.COMPLETED": "Continuar con la configuración",
+  "ACTIVITY.CONFIGURATOR.LINKS.OPEN": "Configura tu {{model}}",
+  "ACTIVITY.CONFIGURATOR.TITLE": "Configurador",
+  "ACTIVITY.DEALER.LINKS.COMPLETED": "Ver concesionario",
+  "ACTIVITY.DEALER.LINKS.OPEN": "Seleccionar concesionario",
+  "ACTIVITY.DEALER.TITLE": "Elegir concesionario",
+  "ACTIVITY.FIRSTCONTACT.LINKS.OPEN": "Iniciar contacto",
+  "ACTIVITY.FIRSTCONTACT.TITLE": "Contacto",
+  "ACTIVITY.HEADLINE": "Comienza tu viaje para conseguir tu {{model}}",
+  "ACTIVITY.REGISTRATION.LINKS.COMPLETED": "Ver más detalles",
+  "ACTIVITY.REGISTRATION.TITLE": "Registro {{model}}",
+  "ACTIVITY.SECTIONS.COMPLETED.HEADLINE": "Completado",
+  "ACTIVITY.SECTIONS.LOCKED.HEADLINE": "Próximamente",
+  "ACTIVITY.SECTIONS.OPEN.HEADLINE": "Siguientes pasos",
+  "ACTIVITY.SECTIONS.OPEN.TEXT": "Consulta con frecuencia el tablón de anuncios EQ Insights, en donde encontrarás actualizaciones y novedades.",
+  "ACTIVITY.TEST_DRIVE.LINKS.COMPLETED": "Ver detalles",
+  "ACTIVITY.TEST_DRIVE.LINKS.OPEN": "Reserve una prueba de manejo",
+  "ACTIVITY.TEST_DRIVE.TITLE": "{{model}} prueba de manejo",
+  "ACTIVITY.TEXT": "Amplía tu experiencia personal acerca del mundo EQ haciendo clic en uno de los botones digitales más abajo.",
+  "CONSENT.ACCORDION.HEADLINE": "Información básica sobre protección de datos",
+  "CONSENT.ACCORDION.PARAGRAPHS.1": "¿Para qué necesitamos tratar sus datos? Trataremos sus datos para gestionar su solicitud e informarle de forma personalizada, para lo cual puede resultar necesario comunicar sus datos a algún miembro de la red de concesionarios y talleres autorizados en España (en lo sucesivo, la \"Red\"), o a sociedades del grupo Daimler. Adicionalmente, trataremos los datos para otras finalidades si Usted presta su consentimiento expreso a cada una de ellas.  Igualmente, sus datos serán tratados de acuerdo al interés legítimo de transmisión a otras entidades del mismo grupo empresarial con fines administrativos y organizativos internos. En concreto, sus datos serán transmitidos únicamente para dichas finalidades a las empresas del grupo Daimler que se encuentran dentro del Ecosistema Mercedes-Benz y que se pueden consultar en la página web: https://www.mercedes-benz.es, en el apartado Donde Estamos/ Grupo Daimler en España. ",
+  "CONSENT.ACCORDION.PARAGRAPHS.2": "Destinatarios Comunicaremos sus datos de carácter personal a, entre otros, los siguientes destinatarios:  - Sociedades dentro del Ecosistema Mercedes-Benz.  - Concesionarios y talleres autorizados de la Red.  - Sociedades del Grupo Daimler. ",
+  "CONSENT.ACCORDION.PARAGRAPHS.3": "Derechos Usted puede ejercitar los derechos relacionados con sus datos personales, como por ejemplo los derechos de acceso, rectificación o supresión en la dirección de correo electrónico protecciondedatos@mercedes-benz.es o por correo postal dirigiéndose a Mercedes-Benz Vans España, S.L.U., en la dirección Avenida de Bruselas 30, 28108 Alcobendas (Madrid).  También puede presentar una reclamación ante la Agencia Española de Protección de Datos.  Dispone de la información necesaria en: www.agpd.es. ",
+  "CONSENT.ACCORDION.PARAGRAPHS.4": "Información adicional Usted puede encontrar información adicional sobre el tratamiento de sus datos de carácter personal en www.mercedes-benz.es, apartado Protección de Datos ",
+  "CONSENT.ACCORDION.TABLE.ROWS.1.COLUMN1": "<strong>Responsable</strong>",
+  "CONSENT.ACCORDION.TABLE.ROWS.1.COLUMN2.PGPH1": "Identidad: Mercedes-Benz España, S.A.U.",
+  "CONSENT.ACCORDION.TABLE.ROWS.1.COLUMN2.PGPH2": "Domicilio: Avda. de Bruselas, 30 – 28108 Alcobendas (Madrid).",
+  "CONSENT.ACCORDION.TABLE.ROWS.1.COLUMN2.PGPH3": "Contacto: <a class=\"wb-e-link-8\" href=\"mailto:protecciondedatos@mercedes-benz.es\">protecciondedatos@mercedes-benz.es</a>",
+  "CONSENT.ACCORDION.TABLE.ROWS.1.COLUMN2.PGPH4": "Delegado de Protección de Datos: <a class=\"wb-e-link-8\" href=\"mailto:dpo_es@daimler.com\">dpo_es@daimler.com</a>",
+  "CONSENT.ACCORDION.TABLE.ROWS.2.COLUMN1": "<strong>¿Para qué necesitamos tratar sus datos?</strong>",
+  "CONSENT.ACCORDION.TABLE.ROWS.2.COLUMN2.PGPH1": "Trataremos sus datos para gestionar su solicitud e informarle de forma personalizada, para lo cual puede resultar necesario comunicar sus datos a algún miembro de la red de concesionarios y talleres autorizados en España (en lo sucesivo, la \"Red\"), o a sociedades del grupo Daimler. Adicionalmente, trataremos los datos para otras finalidades si Usted presta su consentimiento expreso a cada una de ellas.",
+  "CONSENT.ACCORDION.TABLE.ROWS.2.COLUMN2.PGPH2": "Igualmente, sus datos serán tratados de acuerdo al interés legítimo de transmisión a otras entidades del mismo grupo empresarial con fines administrativos y organizativos internos. En concreto, sus datos serán transmitidos únicamente para dichas finalidades a las empresas del grupo Daimler que se encuentran dentro del Ecosistema Mercedes-Benz y que se pueden consultar en la página web: <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es\">https://www.mercedes-benz.es</a>, en el apartado Donde Estamos/ Grupo Daimler en España.",
+  "CONSENT.ACCORDION.TABLE.ROWS.3.COLUMN1": "<strong>Destinatarios</strong>",
+  "CONSENT.ACCORDION.TABLE.ROWS.3.COLUMN2.LIST.ITEM1": "<a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/the-brand/locations/daimler.html\">Sociedades dentro del Ecosistema Mercedes-Benz</a>",
+  "CONSENT.ACCORDION.TABLE.ROWS.3.COLUMN2.LIST.ITEM2": "<a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/mercedes-benz-cars/dealer-locator.html\">Concesionarios y talleres autorizados de la Red</a>",
+  "CONSENT.ACCORDION.TABLE.ROWS.3.COLUMN2.LIST.ITEM3": "<a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/the-brand/locations/daimler.html\">Sociedades del Grupo Daimler</a>",
+  "CONSENT.ACCORDION.TABLE.ROWS.3.COLUMN2.PGPH1": "Comunicaremos sus datos de carácter personal a, entre otros, los siguientes destinatarios:",
+  "CONSENT.ACCORDION.TABLE.ROWS.4.COLUMN1": "<strong>Derechos</strong>",
+  "CONSENT.ACCORDION.TABLE.ROWS.4.COLUMN2": "Usted puede ejercitar los derechos relacionados con sus datos personales, como por ejemplo los derechos de acceso, rectificación o supresión en la dirección de correo electrónico <a class=\"wb-e-link-8\" href=\"mailto:protecciondedatos@mercedes-benz.es\">protecciondedatos@mercedes-benz.es</a> o por correo postal dirigiéndose a Mercedes-Benz Vans España, S.L.U., en la dirección Avenida de Bruselas 30, 28108 Alcobendas (Madrid). También puede presentar una reclamación ante la Agencia Española de Protección de Datos. Dispone de la información necesaria en: <a class=\"wb-e-link-8\" target=\"_blank\" href=\"http://www.agpd.es\">www.agpd.es</a>.",
+  "CONSENT.ACCORDION.TABLE.ROWS.5.COLUMN1": "<strong>Información adicional</strong>",
+  "CONSENT.ACCORDION.TABLE.ROWS.5.COLUMN2": "Usted puede encontrar información adicional sobre el tratamiento de sus datos de carácter personal en <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es\">www.mercedes-benz.es</a>, apartado Protección de Datos.",
+  "CONSENT.ACCORDION.TITLE": "Información básica sobre <span class=\"wb-e-link-8\">Protección de Datos</span>",
+  "CONSENT.BUTTON.CONFIRM": "Confirmar la elección",
+  "CONSENT.CHANNELS.APPROVALS.CONTACT": "Autorizo al tratamiento de mis datos personales para recibir información, por cualquier medio, incluidos los electrónicos, sobre los productos y servicios ofrecidos por las Empresas del Ecosistema Mercedes-Benz que puedan resultar de mi interés o ajustarse a mis necesidades o mi perfil.",
+  "CONSENT.CHANNELS.APPROVALS.SHARING": "Autorizo la cesión de mis datos personales a <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/mercedes-benz-cars/dealer-locator.html\">miembros de la Red</a> y/o <a class=\"wb-e-link-8\" target=\"_blank\" href=\"https://www.mercedes-benz.es/passengercars/the-brand/locations/daimler.html\">sociedades del grupo Daimler</a> para que traten los datos indicados para informarme, por cualquier medio, incluidos los electrónicos, sobre aquellos productos y servicios del mundo Mercedes-Benz que puedan resultar de mi interés o ajustarse a mis necesidades.",
+  "CONSENT.CHANNELS.ERROR.EMAIL": "Por favor, selecciona esta opción para email",
+  "CONSENT.CHANNELS.ERROR.PHONE": "Por favor, selecciona esta opción para Teléfono",
+  "CONSENT.CHANNELS.ERROR.POST": "Por favor, selecciona esta opción para envío postal",
+  "CONSENT.CHANNELS.LABEL.NO": "no",
+  "CONSENT.CHANNELS.LABEL.YES": "sí",
+  "CONSENT.CHANNELS.OPTIONS.EMAIL": "por medios electrónicos (e-mail, SMS)",
+  "CONSENT.CHANNELS.OPTIONS.PHONE": "por teléfono",
+  "CONSENT.CHANNELS.OPTIONS.POST": "por correo",
+  "CONSENT.CHANNELS.PGPH1": "Asimismo me declaro conforme con que las empresas anteriores se pongan en contacto conmigo para los fines indicados de las formas siguientes:",
+  "CONSENT.DECLARATION.HEADLINE": "Declaración de consentimiento",
+  "CONSENT.DECLARATION.PGPH1": "Nos gustaría seguir asesorándote, asistiendo e informando. Para ello, necesitamos el consentimiento relativo a la protección de datos en el almacenamiento y uso de tus datos.",
+  "CONSENT.SIGNATURE.ERROR": "Por favor, confirma que has leído las cláusulas y las aceptas.",
+  "CONSENT.SIGNATURE.LABEL": "<strong>Enviando este formulario confirmo que he leído y acepto la Información Básica sobre Protección de Datos.</strong>",
+  "DEALER.BUTTONS.BACK": "Volver",
+  "DEALER.BUTTONS.SAVE": "Seleccionar concesionario",
+  "DEALER.BUTTONS.START": "Selector de concesionario",
+  "DEALER.CARD.BUTTONS.ADD": "Seleccionar concesionario",
+  "DEALER.CARD.HEADLINE": "Concesionario preferido",
+  "DEALER.CARD.PLACEHOLDER": "Please add your preferred dealer which will handle the later purchase of your Mercedes-Benz EQC.",
+  "DEALER.ERROR": "There are missing inputs to save your preferred dealer. Please check the error messages above.",
+  "DEALER.HEADLINE": "Take the next step.",
+  "DEALER.LOCATOR.ERROR": "Selecciona tu concesionario preferido de esta lista.",
+  "DEALER.LOCATOR.FOOTNOTE": "*Ten en cuenta que en la lista se muestran solamente concesionarios Mercedes-Benz autorizados.",
+  "DEALER.LOCATOR.HEADLINE": "Concesionario Mercedes-Benz preferido",
+  "DEALER.LOCATOR.INPUT.ERROR": "Se han encontrado 0 concesionarios. Introduce un código postal o una ciudad válidos.",
+  "DEALER.LOCATOR.INPUT.PLACEHOLDER": "código postal/ciudad",
+  "DEALER.LOCATOR.SELECTION": "Your preferred dealer selection:",
+  "DEALER.LOCATOR.SUBHEADLINE": "Basándonos en la dirección que nos has comunicado en el proceso de registro, hemos encontrado los siguientes concesionarios Mercedes-Benz. Selecciona tu concesionario preferido en esta lista, o modifica los parámetros de búsqueda para buscar otros concesionarios Mercedes-Benz.",
+  "DEALER.LOCATOR.VALIDATION.AMOUNT": "Se han encontrado 0 concesionarios",
+  "DEALER.LOCATOR.VALIDATION.MESSAGE": "Introduce un código postal o una ciudad válidos.",
+  "DEALER.PARAGRAPH": "Choose your Mercedes-Benz partner who will accompany you on your way to your personal Mercedes-Benz EQC. He will be your personal contact person to all topics regarding the purchase of the Mercedes-Benz EQC.",
+  "DEALER.USAGE.BUSINESS.ERROR": "El nombre de la empresa no puede estar vacío o tiene los siguientes caracteres ‘<>;!’",
+  "DEALER.USAGE.BUSINESS.INFO": "*vehículo registrado bajo nombre de empresa",
+  "DEALER.USAGE.BUSINESS.LABEL": "Vehículo de Empresa",
+  "DEALER.USAGE.BUSINESS.PLACEHOLDER": "Nombre de la compañía (No es obligatorio)",
+  "DEALER.USAGE.ERROR": "El nombre de la empresa no puede estar vacío o tiene los siguientes caracteres ‘<>;!’",
+  "DEALER.USAGE.HEADLINE": "Uso del vehículo",
+  "DEALER.USAGE.PARAGRAPH": "Nos gustaría saber el uso que le darás a tu Mercedes-Benz EQC, para que podamos darte un asesoramiento óptimo en caso de una futura compra.",
+  "DEALER.USAGE.PRIVATE": "Vehículo particular",
+  "ERROR.HEADLINE": "Lo sentimos, se ha producido un error.",
+  "ERROR.PGPH1": "Se ha producido un error. Por favor, inténtalo más tarde.",
+  "FOOTNOTE.EQC.PARAGRAPHS.1": "Los valores de consumo de energía y autonomía eléctrica se han obtenido a partir del procedimiento de medición prescrito en el Reglamento (UE) 715/2017 en su versión actual vigente. Los valores de emisiones de CO₂ indicados han sido obtenidos de acuerdo con el procedimiento de ensayo \"WLTP CO₂\" según lo dispuesto en el art. 2 No. 3 Reglamento de aplicación (UE) 2017/1153.",
+  "INIT.LOGIN_CARD.BUTTON": "Abrir sesión",
+  "INIT.LOGIN_CARD.HEADLINE": "Panel personal",
+  "INIT.LOGIN_CARD.PGPH1": "El panel personal solo es accesible para clientes registrados. Inicia sesión o regístrate para acceder a tu panel personal con información especial y atractivas funciones que te guiarán a tu nuevo Mercedes-Benz.",
+  "INIT.LOGIN_CARD.TEASER.1": "Contenido Exclusivo",
+  "INIT.LOGIN_CARD.TEASER.2": "Actividades",
+  "INIT.LOGIN_CARD.TEASER.3": "Puntos de contacto interactivos",
+  "INIT.REGISTRATION_CARD.BUTTON": "Registrarse para {{model}}",
+  "INIT.REGISTRATION_CARD.HEADLINE": "Panel personal: no estás registrado todavía",
+  "INIT.REGISTRATION_CARD.LABEL": "Mercedes-Benz {{model}}",
+  "INIT.REGISTRATION_CARD.PGPH1": "¿Te interesaría recibir noticias sobre los nuevos vehículos Mercedes-Benz?",
+  "INIT.REGISTRATION_CARD.PGPH2": "Regístrate aquí y recibirás avances exclusivos.",
+  "INIT.REGISTRATION_CARD.TEASER": "Elige tu modelo, y comienza el proceso de registración",
+  "MODEL_SELECTOR.FOOTNOTE.EQC": "EQC 400 4MATIC: consumo de corriente en kWh/100 km (ciclo mixto): 25-22,4; emisiones de CO2 en g/km (ciclo mixto): 0.[1]",
+  "MODEL_SELECTOR.GREETING": "Hola, {{customerName}}",
+  "MODEL_SELECTOR.HEADLINE_APPLICATION": "panel personal",
+  "MODEL_SELECTOR.HEADLINE_WELCOME": "Bienvenido a tu",
+  "TIMELINE.BUTTONS.SHOW_MORE": "Mostrar más",
+  "TIMELINE.CONFIGURATOR.HEADLINE": "Configuración del {{model}}",
+  "TIMELINE.CONFIGURATOR.POST.BUTTONS.CONFIGURATION": "Abrir la configuración",
+  "TIMELINE.CONFIGURATOR.POST.HEADLINE": "Código online para la configuración:",
+  "TIMELINE.CONFIGURATOR.POST.HEADLINE_MOBIL": "Código online para la configuración:",
+  "TIMELINE.CONFIGURATOR.POST.PERSONAL_HEADLINE": "Configuración del {{model}}",
+  "TIMELINE.CONFIGURATOR.POST.TEXT": "Muchas gracias por configurar tu {{model}}. Aquí encontrarás los aspectos destacados de tu {{model}} ideal. Tu código online para acceder a tu configuración actual es <span class=\"text-online-code\">{{onlineCode}}</span>. Este código conserva su validez durante 30 días a partir del último cambio introducido.",
+  "TIMELINE.DEALER.HEADLINE": "Selector de concesionario completado",
+  "TIMELINE.DEALER.POST.HEADLINE": "Selector de concesionario",
+  "TIMELINE.DEALER.POST.TEXT": "Has seleccionado el siguiente concesionario de Mercedes-Benz EQ como tu preferido:",
+  "TIMELINE.LINKS.HEADLINE": "Descubre más",
+  "TIMELINE.QUESTION.HEADLINE": "Cuéntanos más.",
+  "TIMELINE.QUESTION.POST.ANSWER.QUARTER": "Trimestre",
+  "TIMELINE.QUESTION.POST.ANSWER.YEAR": "Año",
+  "TIMELINE.QUESTION.POST.QUESTION": "¿Cuándo tienes previsto adquirir un vehículo Mercedes-Benz? ",
+  "TIMELINE.QUESTION.POST.SAVE": "Enviar",
+  "TIMELINE.REGISTRATION.HEADLINE": "Se ha completado tu registro {{model}}",
+  "TIMELINE.REGISTRATION.POST.HEADLINE": "Registro {{model}}",
+  "TIMELINE.REGISTRATION.POST.TEXT": "Tus datos personales:"
 }
